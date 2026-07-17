@@ -1,0 +1,7 @@
+# Generiertes Rezeptbuch (wird aus sammlung/ + Template gebaut, ~14 MB)
+rezeptbuch.html
+
+# System / Python
+.DS_Store
+__pycache__/
+*.pyc

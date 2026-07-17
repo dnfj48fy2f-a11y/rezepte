@@ -1,0 +1,515 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rezeptbuch Becker-Staudt</title>
+<style>
+  :root {
+    --bg: #F7F6F1;
+    --surface: #FFFFFF;
+    --ink: #23261D;
+    --muted: #6E7263;
+    --accent: #4A6741;
+    --accent-ink: #FFFFFF;
+    --accent-soft: #E7EBDE;
+    --line: #E2E1D7;
+    --amber: #B0782A;
+    --shadow: 0 10px 30px rgba(35, 38, 29, .10);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1B1D17;
+      --surface: #24271F;
+      --ink: #E6E4DA;
+      --muted: #9BA08D;
+      --accent: #9CB889;
+      --accent-ink: #1B1D17;
+      --accent-soft: #313829;
+      --line: #34382C;
+      --amber: #D9A94E;
+      --shadow: 0 10px 30px rgba(0, 0, 0, .45);
+    }
+  }
+  :root[data-theme="light"] {
+    --bg: #F7F6F1; --surface: #FFFFFF; --ink: #23261D; --muted: #6E7263;
+    --accent: #4A6741; --accent-ink: #FFFFFF; --accent-soft: #E7EBDE;
+    --line: #E2E1D7; --amber: #B0782A; --shadow: 0 10px 30px rgba(35,38,29,.10);
+  }
+  :root[data-theme="dark"] {
+    --bg: #1B1D17; --surface: #24271F; --ink: #E6E4DA; --muted: #9BA08D;
+    --accent: #9CB889; --accent-ink: #1B1D17; --accent-soft: #313829;
+    --line: #34382C; --amber: #D9A94E; --shadow: 0 10px 30px rgba(0,0,0,.45);
+  }
+
+  * { box-sizing: border-box; }
+  html { background: var(--bg); }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .serif { font-family: "Iowan Old Style", "Palatino Nova", Palatino, Georgia, serif; }
+
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 16px 64px; }
+
+  header.top {
+    position: sticky; top: 0; z-index: 20;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+  }
+  .top-inner {
+    max-width: 980px; margin: 0 auto; padding: 12px 16px;
+    display: flex; flex-direction: column; gap: 10px;
+  }
+  .title-row { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+  h1 {
+    font-family: "Iowan Old Style", "Palatino Nova", Palatino, Georgia, serif;
+    font-size: 1.45rem; font-weight: 600; margin: 0; letter-spacing: .01em;
+  }
+  h1 .fam { color: var(--muted); font-weight: 400; font-style: italic; }
+  @media (max-width: 430px) { h1 { font-size: 1.2rem; } }
+
+  .lang-toggle {
+    display: inline-flex; border: 1px solid var(--line); border-radius: 999px;
+    overflow: hidden; background: var(--surface); flex: none;
+  }
+  .lang-toggle button {
+    appearance: none; border: 0; background: transparent; color: var(--muted);
+    font: inherit; font-size: .8rem; font-weight: 600; letter-spacing: .06em;
+    padding: 5px 14px; cursor: pointer;
+  }
+  .lang-toggle button.active { background: var(--accent); color: var(--accent-ink); }
+  .lang-toggle button:focus-visible,
+  .chip:focus-visible, .card:focus-visible, button:focus-visible, a:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px;
+  }
+
+  .search-row { display: flex; gap: 8px; }
+  input[type="search"] {
+    flex: 1; font: inherit; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 9px 14px;
+  }
+  input[type="search"]::placeholder { color: var(--muted); }
+
+  .chips {
+    display: flex; gap: 8px; overflow-x: auto; padding: 2px 0 4px;
+    scrollbar-width: none;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    appearance: none; border: 1px solid var(--line); background: var(--surface);
+    color: var(--ink); font: inherit; font-size: .85rem;
+    border-radius: 999px; padding: 5px 13px; cursor: pointer; white-space: nowrap;
+  }
+  .chip .n { color: var(--muted); font-size: .78rem; }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+  .chip.active .n { color: var(--accent-ink); opacity: .75; }
+
+  main { margin-top: 20px; display: flex; flex-direction: column; gap: 24px; }
+
+  section.plan {
+    background: var(--accent-soft); border: 1px solid var(--line);
+    border-radius: 14px; padding: 16px 18px;
+  }
+  section.plan h2 {
+    margin: 0 0 10px; font-size: .8rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: .1em; color: var(--accent);
+  }
+  .plan-grid { display: grid; grid-template-columns: max-content 1fr; gap: 6px 14px; }
+  .plan-day { color: var(--muted); font-size: .9rem; padding-top: 1px; }
+  .plan-meal a { color: var(--accent); font-weight: 600; text-decoration: none; }
+  .plan-meal a:hover { text-decoration: underline; }
+  .plan-note { color: var(--muted); }
+
+  .grid {
+    display: grid; gap: 14px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+  .card {
+    text-align: left; font: inherit; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+    padding: 16px 18px; cursor: pointer;
+    display: flex; flex-direction: column; gap: 8px;
+    transition: transform .12s ease, box-shadow .12s ease;
+  }
+  .card:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
+  @media (prefers-reduced-motion: reduce) {
+    .card, .card:hover { transition: none; transform: none; }
+  }
+  .card .thumb {
+    margin: -6px -8px 2px;
+    aspect-ratio: 5 / 3; overflow: hidden; border-radius: 9px;
+  }
+  .card .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .card .kat {
+    font-size: .72rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .09em; color: var(--accent);
+  }
+  .card h3 {
+    margin: 0; font-family: "Iowan Old Style", "Palatino Nova", Palatino, Georgia, serif;
+    font-size: 1.18rem; font-weight: 600; line-height: 1.3; text-wrap: balance;
+  }
+  .card .meta {
+    margin-top: auto; display: flex; align-items: center; gap: 10px;
+    color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
+  }
+  .stars { color: var(--amber); letter-spacing: .1em; font-size: .8rem; }
+  .tagline { display: flex; flex-wrap: wrap; gap: 5px; }
+  .tag {
+    font-size: .74rem; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 999px; padding: 1px 9px;
+  }
+
+  .empty {
+    text-align: center; padding: 72px 24px; color: var(--muted);
+  }
+  .empty .pot { font-size: 2.6rem; }
+  .empty h2 {
+    font-family: "Iowan Old Style", "Palatino Nova", Palatino, Georgia, serif;
+    color: var(--ink); font-weight: 600; margin: 12px 0 8px;
+  }
+  .empty p { max-width: 42ch; margin: 0 auto; }
+
+  /* Detail-Overlay */
+  .overlay {
+    position: fixed; inset: 0; z-index: 40; display: none;
+    background: rgba(20, 22, 16, .45);
+    overflow-y: auto; padding: 0;
+  }
+  .overlay.open { display: block; }
+  .sheet {
+    background: var(--bg); min-height: 100%;
+    max-width: 760px; margin: 0 auto; padding: 18px 20px 72px;
+  }
+  @media (min-width: 800px) {
+    .overlay.open { padding: 40px 16px; }
+    .sheet { min-height: 0; border-radius: 18px; box-shadow: var(--shadow); padding: 28px 36px 48px; }
+  }
+  .sheet .back {
+    appearance: none; border: 1px solid var(--line); background: var(--surface);
+    color: var(--ink); font: inherit; font-size: .88rem; border-radius: 999px;
+    padding: 6px 16px; cursor: pointer; margin-bottom: 18px;
+  }
+  .sheet .kat { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .09em; color: var(--accent); }
+  .sheet h2.rname {
+    font-family: "Iowan Old Style", "Palatino Nova", Palatino, Georgia, serif;
+    font-size: 1.9rem; font-weight: 600; line-height: 1.2; margin: 6px 0 4px; text-wrap: balance;
+  }
+  .sheet .srcline { color: var(--muted); font-size: .85rem; margin-bottom: 14px; }
+  .sheet .hero {
+    width: 100%; max-height: 340px; object-fit: cover; display: block;
+    border-radius: 12px; margin-bottom: 16px;
+  }
+  .sheet .srcline a { color: var(--accent); }
+  .metabar {
+    display: flex; flex-wrap: wrap; gap: 10px 22px; align-items: center;
+    border-block: 1px solid var(--line); padding: 12px 2px; margin-bottom: 20px;
+    font-size: .9rem; color: var(--muted); font-variant-numeric: tabular-nums;
+  }
+  .metabar b { color: var(--ink); font-weight: 600; }
+  .portions { display: inline-flex; align-items: center; gap: 10px; }
+  .portions button {
+    appearance: none; width: 28px; height: 28px; border-radius: 50%;
+    border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+    font-size: 1rem; line-height: 1; cursor: pointer;
+  }
+  .portions button:hover { background: var(--accent-soft); }
+  .sheet h3.sec {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .1em; color: var(--accent); margin: 26px 0 10px;
+  }
+  ul.zutaten { list-style: none; margin: 0; padding: 0; max-width: 52ch; }
+  ul.zutaten li {
+    padding: 7px 2px; border-bottom: 1px dashed var(--line);
+    font-variant-numeric: tabular-nums;
+  }
+  ul.zutaten li.grp {
+    border-bottom: 0; padding-top: 16px; font-weight: 700; font-size: .85rem;
+    color: var(--muted); text-transform: uppercase; letter-spacing: .05em;
+  }
+  ol.schritte { margin: 0; padding: 0 0 0 1.6em; max-width: 62ch; }
+  ol.schritte li { margin-bottom: 12px; }
+  ol.schritte li::marker { color: var(--accent); font-weight: 700; }
+  .notiz {
+    background: var(--accent-soft); border-radius: 10px; padding: 12px 16px;
+    max-width: 62ch; font-size: .93rem;
+  }
+  .lang-hint { color: var(--muted); font-size: .82rem; font-style: italic; margin-top: 4px; }
+
+  footer.foot {
+    margin-top: 40px; color: var(--muted); font-size: .8rem; text-align: center;
+  }
+</style>
+
+<header class="top">
+  <div class="top-inner">
+    <div class="title-row">
+      <h1 data-i18n="titel">Rezeptbuch <span class="fam">Becker-Staudt</span></h1>
+      <div class="lang-toggle" role="group" aria-label="Sprache / Language">
+        <button id="lang-de" type="button">DE</button>
+        <button id="lang-en" type="button">EN</button>
+      </div>
+    </div>
+    <div class="search-row">
+      <input id="q" type="search" placeholder="Suchen…" aria-label="Rezepte durchsuchen">
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <main>
+    <section class="plan" id="plan" hidden></section>
+    <section>
+      <div class="grid" id="grid"></div>
+      <div class="empty" id="empty" hidden>
+        <div class="pot" aria-hidden="true">🍲</div>
+        <h2 id="empty-h"></h2>
+        <p id="empty-p"></p>
+      </div>
+    </section>
+  </main>
+  <footer class="foot" id="foot"></footer>
+</div>
+
+<div class="overlay" id="overlay" role="dialog" aria-modal="true">
+  <article class="sheet" id="sheet"></article>
+</div>
+
+<script>
+  const DATA = __DATA_JSON__;
+
+  const I18N = {
+    de: {
+      suche: "Suchen… (Titel, Zutat, Tag)", alle: "Alle", zutaten: "Zutaten",
+      zubereitung: "Zubereitung", notizen: "Notizen", portionen: "Portionen",
+      aktiv: "aktiv", gesamt: "gesamt", quelle: "Quelle", zurueck: "‹ Zurück",
+      plan: "Wochenplan", leerH: "Noch keine Rezepte",
+      leerP: "Schick Claude einen Link, ein Foto oder ein eigenes Rezept — es landet dann hier.",
+      keineTreffer: "Keine Treffer", keineTrefferP: "Mit anderem Suchbegriff oder anderer Kategorie versuchen.",
+      langHint: "Automatisch übersetzt aus dem Englischen.",
+      stand: "Stand", rezepte: "Rezepte", rezept1: "Rezept",
+      kat: { fruehstueck: "Frühstück", vorspeise: "Vorspeise", suppe: "Suppe", salat: "Salat",
+             hauptgericht: "Hauptgericht", beilage: "Beilage", dessert: "Dessert",
+             backen: "Backen", getraenk: "Getränk", snack: "Snack", grundrezept: "Grundrezept" }
+    },
+    en: {
+      suche: "Search… (title, ingredient, tag)", alle: "All", zutaten: "Ingredients",
+      zubereitung: "Instructions", notizen: "Notes", portionen: "Servings",
+      aktiv: "active", gesamt: "total", quelle: "Source", zurueck: "‹ Back",
+      plan: "This week", leerH: "No recipes yet",
+      leerP: "Send Claude a link, a photo, or one of your own recipes — it will show up here.",
+      keineTreffer: "No matches", keineTrefferP: "Try a different search term or category.",
+      langHint: "Automatically translated from German.",
+      stand: "Updated", rezepte: "recipes", rezept1: "recipe",
+      kat: { fruehstueck: "Breakfast", vorspeise: "Starter", suppe: "Soup", salat: "Salad",
+             hauptgericht: "Main course", beilage: "Side", dessert: "Dessert",
+             backen: "Baking", getraenk: "Drink", snack: "Snack", grundrezept: "Basic recipe" }
+    }
+  };
+
+  let lang = localStorage.getItem("rezeptbuch-lang") || "de";
+  let aktKat = "alle";
+  let suchbegriff = "";
+  let offenesRezept = null;
+  let faktor = 1;
+
+  const $ = (id) => document.getElementById(id);
+  const t = () => I18N[lang];
+  const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
+  function rTitel(r) {
+    if (lang === "en") return r.title_en || r.titel;
+    return r.titel || r.title_en;
+  }
+  function rTeil(r, feld) {
+    // feld: zutaten | zubereitung | notizen — mit Fallback auf die andere Sprache
+    const de = r[feld], en = r.en && r.en[feld];
+    if (lang === "en") return { inhalt: (en && en.length) ? en : de, fallback: !(en && en.length) && de && de.length };
+    return { inhalt: (de && de.length) ? de : en, fallback: !(de && de.length) && en && en.length };
+  }
+
+  // ---- Mengen skalieren ----
+  const FRAKT = { "½": .5, "⅓": 1/3, "⅔": 2/3, "¼": .25, "¾": .75, "⅕": .2, "⅛": .125 };
+  function parseMenge(zeile) {
+    const m = zeile.match(/^(\d+(?:[.,]\d+)?|[½⅓⅔¼¾⅕⅛])(?:\s*([½⅓⅔¼¾⅕⅛]))?(\s+.*)$/);
+    if (!m) return null;
+    let wert = FRAKT[m[1]] ?? parseFloat(m[1].replace(",", "."));
+    if (m[2]) wert += FRAKT[m[2]];
+    return { wert, rest: m[3] };
+  }
+  function fmtMenge(w) {
+    const gerundet = Math.round(w * 100) / 100;
+    let s = String(gerundet);
+    if (lang === "de") s = s.replace(".", ",");
+    return s;
+  }
+  function skaliere(zeile) {
+    if (faktor === 1) return esc(zeile);
+    const p = parseMenge(zeile);
+    if (!p) return esc(zeile);
+    return "<b>" + fmtMenge(p.wert * faktor) + "</b>" + esc(p.rest);
+  }
+
+  // ---- Suche ----
+  const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  function passt(r) {
+    if (aktKat !== "alle" && r.kategorie !== aktKat) return false;
+    if (!suchbegriff) return true;
+    const heu = [r.titel, r.title_en, (r.tags || []).join(" "),
+                 (r.zutaten || []).join(" "), ((r.en || {}).zutaten || []).join(" ")].map(norm).join(" ");
+    return suchbegriff.split(/\s+/).every(w => heu.includes(w));
+  }
+
+  // ---- Rendering ----
+  function sterne(n) {
+    if (!n) return "";
+    return `<span class="stars" aria-label="${n}/5">${"★".repeat(n)}${"☆".repeat(5 - n)}</span>`;
+  }
+
+  function renderChips() {
+    const zaehl = {};
+    DATA.rezepte.forEach(r => { zaehl[r.kategorie] = (zaehl[r.kategorie] || 0) + 1; });
+    const kats = Object.keys(t().kat).filter(k => zaehl[k]);
+    let html = `<button class="chip ${aktKat === "alle" ? "active" : ""}" data-k="alle">${t().alle} <span class="n">${DATA.rezepte.length}</span></button>`;
+    kats.forEach(k => {
+      html += `<button class="chip ${aktKat === k ? "active" : ""}" data-k="${k}">${t().kat[k]} <span class="n">${zaehl[k]}</span></button>`;
+    });
+    $("chips").innerHTML = html;
+    $("chips").querySelectorAll(".chip").forEach(b =>
+      b.addEventListener("click", () => { aktKat = b.dataset.k; renderChips(); renderGrid(); }));
+  }
+
+  function renderGrid() {
+    const treffer = DATA.rezepte.filter(passt);
+    const grid = $("grid"), leer = $("empty");
+    if (!DATA.rezepte.length) {
+      grid.innerHTML = ""; leer.hidden = false;
+      $("empty-h").textContent = t().leerH; $("empty-p").textContent = t().leerP;
+      return;
+    }
+    if (!treffer.length) {
+      grid.innerHTML = ""; leer.hidden = false;
+      $("empty-h").textContent = t().keineTreffer; $("empty-p").textContent = t().keineTrefferP;
+      return;
+    }
+    leer.hidden = true;
+    grid.innerHTML = treffer.map(r => `
+      <button class="card" data-id="${r.id}">
+        ${r.foto ? `<span class="thumb"><img src="${r.foto}" alt="" loading="lazy"></span>` : ""}
+        <span class="kat">${t().kat[r.kategorie] || esc(r.kategorie)}</span>
+        <h3>${esc(rTitel(r))}</h3>
+        ${(r.tags || []).length ? `<span class="tagline">${r.tags.slice(0, 4).map(x => `<span class="tag">${esc(x)}</span>`).join("")}</span>` : ""}
+        <span class="meta">
+          ${r.zeit_gesamt ? `<span>⏱ ${esc(r.zeit_gesamt)}</span>` : ""}
+          ${r.portionen ? `<span>${r.portionen} ${t().portionen}</span>` : ""}
+          ${sterne(r.bewertung)}
+        </span>
+      </button>`).join("");
+    grid.querySelectorAll(".card").forEach(c =>
+      c.addEventListener("click", () => oeffne(c.dataset.id)));
+  }
+
+  function renderPlan() {
+    const p = DATA.wochenplan, box = $("plan");
+    if (!p || !p.eintraege || !p.eintraege.length) { box.hidden = true; return; }
+    box.hidden = false;
+    const zeilen = p.eintraege.map(e => {
+      const r = e.rezept_id ? DATA.rezepte.find(x => x.id === e.rezept_id) : null;
+      const name = r ? `<a href="#" data-id="${r.id}">${esc(rTitel(r))}</a>` : esc(e.text || "");
+      const notiz = e.notiz ? ` <span class="plan-note">· ${esc(e.notiz)}</span>` : "";
+      return `<div class="plan-day">${esc(e.tag)}</div><div class="plan-meal">${name}${notiz}</div>`;
+    }).join("");
+    box.innerHTML = `<h2>${t().plan} ${esc(p.woche || "")}</h2><div class="plan-grid">${zeilen}</div>`;
+    box.querySelectorAll("a[data-id]").forEach(a =>
+      a.addEventListener("click", (ev) => { ev.preventDefault(); oeffne(a.dataset.id); }));
+  }
+
+  function liListe(zeilen) {
+    return zeilen.map(z => {
+      const grp = z.match(/^\*\*(.+?)\*\*:?$/);
+      if (grp) return `<li class="grp">${esc(grp[1].replace(/:$/, ""))}</li>`;
+      return `<li>${skaliere(z)}</li>`;
+    }).join("");
+  }
+
+  function oeffne(id) {
+    const r = DATA.rezepte.find(x => x.id === id);
+    if (!r) return;
+    offenesRezept = r; faktor = 1;
+    renderSheet();
+    $("overlay").classList.add("open");
+    document.body.style.overflow = "hidden";
+    $("overlay").scrollTop = 0;
+  }
+  function schliesse() {
+    $("overlay").classList.remove("open");
+    document.body.style.overflow = "";
+    offenesRezept = null;
+  }
+
+  function renderSheet() {
+    const r = offenesRezept;
+    if (!r) return;
+    const zut = rTeil(r, "zutaten"), zub = rTeil(r, "zubereitung"), not = rTeil(r, "notizen");
+    const portionen = r.portionen ? Math.round(r.portionen * faktor * 10) / 10 : null;
+    const quelleHtml = /^https?:\/\//.test(r.quelle || "")
+      ? `<a href="${esc(r.quelle)}" target="_blank" rel="noopener">${esc(r.quelle.replace(/^https?:\/\/(www\.)?/, "").split("/")[0])}</a>`
+      : esc(r.quelle || "");
+    $("sheet").innerHTML = `
+      <button class="back" id="back">${t().zurueck}</button>
+      <div class="kat">${t().kat[r.kategorie] || esc(r.kategorie)}</div>
+      <h2 class="rname">${esc(rTitel(r))}</h2>
+      ${r.quelle ? `<div class="srcline">${t().quelle}: ${quelleHtml}</div>` : ""}
+      ${r.foto ? `<img class="hero" src="${r.foto}" alt="${esc(rTitel(r))}">` : ""}
+      <div class="metabar">
+        ${portionen ? `
+          <span class="portions">
+            <button id="p-minus" aria-label="−">−</button>
+            <span><b>${portionen}</b> ${t().portionen}</span>
+            <button id="p-plus" aria-label="+">+</button>
+          </span>` : ""}
+        ${r.zeit_aktiv ? `<span><b>${esc(r.zeit_aktiv)}</b> ${t().aktiv}</span>` : ""}
+        ${r.zeit_gesamt ? `<span><b>${esc(r.zeit_gesamt)}</b> ${t().gesamt}</span>` : ""}
+        ${sterne(r.bewertung)}
+      </div>
+      ${zut.inhalt && zut.inhalt.length ? `<h3 class="sec">${t().zutaten}</h3><ul class="zutaten">${liListe(zut.inhalt)}</ul>` : ""}
+      ${zub.inhalt && zub.inhalt.length ? `<h3 class="sec">${t().zubereitung}</h3><ol class="schritte">${zub.inhalt.map(s => `<li>${esc(s)}</li>`).join("")}</ol>` : ""}
+      ${not.inhalt ? `<h3 class="sec">${t().notizen}</h3><div class="notiz">${esc(not.inhalt)}</div>` : ""}
+    `;
+    $("back").addEventListener("click", schliesse);
+    const minus = $("p-minus"), plus = $("p-plus");
+    if (minus) minus.addEventListener("click", () => {
+      const schritt = r.portionen >= 2 ? 1 / r.portionen : .5;
+      faktor = Math.max(schritt, faktor - schritt); renderSheet();
+    });
+    if (plus) plus.addEventListener("click", () => {
+      const schritt = r.portionen >= 2 ? 1 / r.portionen : .5;
+      faktor += schritt; renderSheet();
+    });
+  }
+
+  function renderAlles() {
+    $("q").placeholder = t().suche;
+    $("lang-de").classList.toggle("active", lang === "de");
+    $("lang-en").classList.toggle("active", lang === "en");
+    const d = DATA.generiert ? new Date(DATA.generiert) : null;
+    $("foot").textContent = d
+      ? `${DATA.rezepte.length} ${DATA.rezepte.length === 1 ? t().rezept1 : t().rezepte} · ${t().stand}: ${d.toLocaleDateString(lang === "de" ? "de-DE" : "en-GB")}`
+      : "";
+    renderChips(); renderPlan(); renderGrid();
+    if (offenesRezept) renderSheet();
+  }
+
+  function setLang(l) {
+    lang = l; localStorage.setItem("rezeptbuch-lang", l); renderAlles();
+  }
+  $("lang-de").addEventListener("click", () => setLang("de"));
+  $("lang-en").addEventListener("click", () => setLang("en"));
+  $("q").addEventListener("input", (e) => { suchbegriff = norm(e.target.value.trim()); renderGrid(); });
+  $("overlay").addEventListener("click", (e) => { if (e.target === $("overlay")) schliesse(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && offenesRezept) schliesse(); });
+
+  renderAlles();
+</script>
