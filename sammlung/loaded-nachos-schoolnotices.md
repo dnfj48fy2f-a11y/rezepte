@@ -10,6 +10,7 @@ quelle: schoolnotices.co.uk
 sprache_original: en
 hinzugefuegt: 2026-07-18
 bewertung:
+foto: fotos/loaded-nachos-schoolnotices.jpg
 ---
 
 ## Zutaten
