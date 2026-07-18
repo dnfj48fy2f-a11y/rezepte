@@ -9,7 +9,7 @@ zeit_gesamt: 4 h
 quelle: "Eigene Sammlung (Word: Breakfast/Breakfast-Mueslis.doc)"
 sprache_original: en
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
 ---
 
 ## Zutaten
