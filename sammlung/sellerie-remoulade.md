@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: salads/Celeriac Rémoulade, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/sellerie-remoulade.jpg
 ---
 
 ## Zutaten

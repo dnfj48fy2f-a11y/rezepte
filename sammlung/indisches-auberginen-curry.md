@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Veg/Indian Eggplant Curry, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/indisches-auberginen-curry.jpg
 ---
 
 ## Zutaten

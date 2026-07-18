@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: chicken/Turmeric Chicken, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/kurkuma-haehnchen.jpg
 ---
 
 ## Zutaten

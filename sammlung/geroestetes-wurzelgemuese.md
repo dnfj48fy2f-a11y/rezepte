@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Veg/Roasted Root Vegetables, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/geroestetes-wurzelgemuese.jpg
 ---
 
 ## Zutaten

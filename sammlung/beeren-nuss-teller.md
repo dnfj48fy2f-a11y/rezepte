@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Snacks/Berries and Nuts Plate, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/beeren-nuss-teller.jpg
 ---
 
 ## Zutaten

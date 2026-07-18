@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: salads/Smoked Salmon Salad, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/raeucherlachs-salat-mit-wachteleiern.jpg
 ---
 
 ## Zutaten

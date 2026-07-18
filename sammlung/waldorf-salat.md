@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (Word: Salads/Waldorf-Salat.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/waldorf-salat.jpg
 ---
 
 ## Zutaten

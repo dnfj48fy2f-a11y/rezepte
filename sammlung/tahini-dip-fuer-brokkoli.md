@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Veg/Broccoli and Tahini dip, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/tahini-dip-fuer-brokkoli.jpg
 ---
 
 ## Zutaten

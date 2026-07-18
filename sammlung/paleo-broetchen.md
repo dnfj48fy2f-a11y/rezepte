@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Bread/Bread Rolls, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/paleo-broetchen.jpg
 ---
 
 ## Zutaten

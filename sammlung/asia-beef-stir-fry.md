@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Beef/Asian Beef Stir Fry, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/asia-beef-stir-fry.jpg
 ---
 
 ## Zutaten

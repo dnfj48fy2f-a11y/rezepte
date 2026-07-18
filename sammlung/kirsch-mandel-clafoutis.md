@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Cake/Cherry and Almond Clafoutis, Eat Burn Sleep)
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/kirsch-mandel-clafoutis.jpg
 ---
 
 ## Zutaten

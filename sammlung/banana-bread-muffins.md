@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Cake/Banana Bread Muffins, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/banana-bread-muffins.jpg
 ---
 
 ## Zutaten

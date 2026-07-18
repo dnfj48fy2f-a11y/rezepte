@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (Zeitschrift: Mexikanisches Street Food, Bianca Zapatka
 sprache_original: de
 hinzugefuegt: 2026-07-17
 bewertung:
-foto: fotos/vegane-blumenkohl-tacos.jpg
 ---
 
 ## Zutaten

@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Salads/Mixed salad with balsamic dressing, Eat Bu
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/gemischter-salat-mit-balsamico-dressing.jpg
 ---
 
 ## Zutaten

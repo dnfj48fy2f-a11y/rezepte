@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Snacks/Glowing Skin Smoothie, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/glowing-skin-smoothie.jpg
 ---
 
 ## Zutaten

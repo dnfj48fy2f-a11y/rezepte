@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Veg/Soup: Broccoli & Asparagus, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/brokkoli-spargel-suppe.jpg
 ---
 
 ## Zutaten

@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Veg/Thai Red Vegetable Curry, Eat Burn Sleep; lag
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/thai-red-vegetable-curry.jpg
 ---
 
 ## Zutaten

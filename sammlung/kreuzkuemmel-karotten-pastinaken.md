@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Veg/Roasted carrots and parsnips with cumin seeds
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/kreuzkuemmel-karotten-pastinaken.jpg
 ---
 
 ## Zutaten

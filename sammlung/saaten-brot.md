@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Bread/Seed Bread, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/saaten-brot.jpg
 ---
 
 ## Zutaten

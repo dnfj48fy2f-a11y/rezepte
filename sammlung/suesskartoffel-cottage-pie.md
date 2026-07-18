@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: Beef/Sweet Potato Cottage Pie, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/suesskartoffel-cottage-pie.jpg
 ---
 
 ## Zutaten

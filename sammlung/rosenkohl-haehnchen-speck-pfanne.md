@@ -10,7 +10,6 @@ quelle: "Eigene Sammlung (PDF: chicken/Brussel sprout, chicken and bacon skillet
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
-foto: fotos/rosenkohl-haehnchen-speck-pfanne.jpg
 ---
 
 ## Zutaten
