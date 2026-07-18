@@ -1,0 +1,107 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Rezeptbuch öffnen</title>
+<style>
+  :root {
+    --bg: #F7F6F1;
+    --surface: #FFFFFF;
+    --ink: #23261D;
+    --muted: #6E7263;
+    --accent: #4A6741;
+    --accent-ink: #FFFFFF;
+    --line: #E2E1D7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1B1D17;
+      --surface: #24271F;
+      --ink: #E6E4DA;
+      --muted: #9BA08D;
+      --accent: #9CB889;
+      --accent-ink: #1B1D17;
+      --line: #34382C;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1B1D17; --surface: #24271F; --ink: #E6E4DA; --muted: #9BA08D;
+    --accent: #9CB889; --accent-ink: #1B1D17; --line: #34382C;
+  }
+  :root[data-theme="light"] {
+    --bg: #F7F6F1; --surface: #FFFFFF; --ink: #23261D; --muted: #6E7263;
+    --accent: #4A6741; --accent-ink: #FFFFFF; --line: #E2E1D7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    padding: 24px;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 40px 32px;
+    max-width: 380px;
+    width: 100%;
+    text-align: center;
+  }
+  .spinner {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+    border: 3px solid var(--line);
+    border-top-color: var(--accent);
+    animation: spin 0.8s linear infinite;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .spinner { animation: none; }
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  h1 {
+    font-size: 1.15rem;
+    margin: 0 0 8px;
+    text-wrap: balance;
+  }
+  p {
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin: 0 0 20px;
+    line-height: 1.5;
+  }
+  a.button {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--accent-ink);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 10px 20px;
+    border-radius: 999px;
+  }
+  a.button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+</style>
+<div class="card">
+  <div class="spinner" aria-hidden="true"></div>
+  <h1>Rezeptbuch wird geöffnet …</h1>
+  <p>Diese Seite lädt bei jedem Aufruf die neueste Version — falls es länger als ein paar Sekunden dauert, auf den Knopf tippen.</p>
+  <a class="button" id="fallback" href="#">Jetzt öffnen</a>
+</div>
+<script>
+  var ziel = "https://claude.ai/code/artifact/8edab189-bfbc-4fbb-a866-d4b9f332ce0d";
+  var frischeUrl = ziel + "?v=" + Date.now();
+  document.getElementById("fallback").href = frischeUrl;
+  location.replace(frischeUrl);
+</script>
