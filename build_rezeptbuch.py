@@ -182,6 +182,11 @@ def main():
     plan = daten["wochenplan"]
     print(f"OK: {len(rezepte)} Rezepte, Wochenplan: {plan['woche'] if plan else '—'} → {AUSGABE.name}")
 
+    # index.html fürs Web-Hosting (GitHub Pages liefert diese Datei als Webseite aus)
+    index = BASIS / "index.html"
+    index.write_text(html, encoding="utf-8")
+    print(f"Web-Seite: {index.name}")
+
     # Offline-Kopie für alle Geräte (Dateien-App auf iPhone/iPad)
     icloud = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Rezeptbuch.html"
     if icloud.parent.is_dir():
