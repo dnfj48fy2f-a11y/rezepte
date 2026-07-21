@@ -39,7 +39,7 @@ foto: fotos/rotes-thai-curry-mit-haehnchen.jpg
 7. Aufkochen und ca. 10 Minuten köcheln, bis die Sauce eingedickt ist.
 
 ## Notizen
-Eat-Burn-Sleep-Rezept (634 kcal) — laut Original köstlich mit Quinoa; klassisch mit Jasminreis. Geht auch mit Hähnchenbrust. Hält 5 Tage im Kühlschrank, 3 Monate gefroren; auf dem Herd aufwärmen. Verwandt: [[thai-kokoscurrysuppe-mit-huhn]], [[thai-auberginen-curry]].
+Eat-Burn-Sleep-Rezept (634 kcal) — laut Original köstlich mit Quinoa; klassisch mit Jasminreis. Geht auch mit Hähnchenbrust. Hält 5 Tage im Kühlschrank, 3 Monate gefroren; auf dem Herd aufwärmen. Verwandt: [[thai-auberginen-curry]].
 
 ## English
 ### Ingredients
