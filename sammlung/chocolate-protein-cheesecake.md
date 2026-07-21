@@ -9,7 +9,7 @@ zeit_gesamt: 5 min
 quelle: Instagram @lovelydelites
 sprache_original: en
 hinzugefuegt: 2026-07-21
-bewertung:
+bewertung: 5
 foto: fotos/chocolate-protein-cheesecake.jpg
 ---
 
