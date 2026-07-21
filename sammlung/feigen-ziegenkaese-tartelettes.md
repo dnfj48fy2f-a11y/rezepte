@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Vegetarian/Tartes:Quiches/Fig and Goats Cheese T
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
+foto: fotos/feigen-ziegenkaese-tartelettes.jpg
 ---
 
 ## Zutaten
