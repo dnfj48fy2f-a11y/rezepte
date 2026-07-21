@@ -9,7 +9,7 @@ zeit_gesamt: 30 min
 quelle: Instagram @thegoodbite
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 foto: fotos/cremiges-toskana-haehnchen.jpg
 ---
 

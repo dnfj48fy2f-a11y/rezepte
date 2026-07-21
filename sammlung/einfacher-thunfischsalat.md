@@ -9,7 +9,7 @@ zeit_gesamt: 10 min
 quelle: "Eigene Sammlung (PDF: salads/Easy tuna salad, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 4
 foto: fotos/einfacher-thunfischsalat.jpg
 ---
 
