@@ -9,7 +9,7 @@ zeit_gesamt: 45 min
 quelle: "Eigene Sammlung (Word: Vegetarian/Tartes:Quiches/Fig and Goats Cheese Tart.docx)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 4
 foto: fotos/feigen-ziegenkaese-tartelettes.jpg
 ---
 
