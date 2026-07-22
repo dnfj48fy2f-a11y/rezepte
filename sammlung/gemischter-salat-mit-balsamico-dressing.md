@@ -9,7 +9,7 @@ zeit_gesamt: 10 min
 quelle: "Eigene Sammlung (PDF: Salads/Mixed salad with balsamic dressing, Eat Burn Sleep)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 ---
 
 ## Zutaten
@@ -18,6 +18,8 @@ bewertung:
 - 1 Avocado
 - 6 Radieschen
 - 3 kleine Snackgurken
+- 2 EL Pinienkerne, geröstet
+- optional: 150 g gegarte Quinoa
 - **Für das Dressing:**
 - 1 TL französischer Senf
 - 2 EL Balsamico
@@ -28,10 +30,11 @@ bewertung:
 ## Zubereitung
 1. Für das Dressing alle Zutaten am Boden der Salatschüssel verrühren — oder in ein leeres Marmeladenglas geben und kräftig schütteln.
 2. Salat waschen und schneiden, Radieschen und Tomaten halbieren, Gurken in Scheiben, Avocado in mittelgroße Stücke. Alles in die Schüssel geben.
-3. Vermengen und servieren.
+3. Pinienkerne (und die Quinoa, falls verwendet) untermischen.
+4. Vermengen und servieren.
 
 ## Notizen
-Eat-Burn-Sleep-Rezept (176 kcal pro Portion). Das Glas-Schüttel-Dressing lohnt sich auch auf Vorrat.
+Eat-Burn-Sleep-Rezept (176 kcal pro Portion ohne Ergänzungen). Das Glas-Schüttel-Dressing lohnt sich auch auf Vorrat. Pinienkerne und Quinoa machen aus dem Beilagensalat ein sättigenderes Hauptgericht.
 
 ## English
 ### Ingredients
@@ -40,6 +43,8 @@ Eat-Burn-Sleep-Rezept (176 kcal pro Portion). Das Glas-Schüttel-Dressing lohnt 
 - 1 avocado
 - 6 radishes
 - 3 small cucumbers
+- 2 tbsp pine nuts, toasted
+- optional: 150 g cooked quinoa
 - **Dressing:**
 - 1 teaspoon of French mustard
 - 2 tablespoons of balsamic vinegar
@@ -50,7 +55,8 @@ Eat-Burn-Sleep-Rezept (176 kcal pro Portion). Das Glas-Schüttel-Dressing lohnt 
 ### Instructions
 1. For the dressing, either mix all the ingredients at the bottom of your salad bowl before adding the salad, or put all the dressing ingredients in an empty jam jar and shake vigorously until well mixed.
 2. Rinse and chop the lettuce. Slice the radishes and tomatoes in halves, cut the cucumber into slices and the avocado into medium pieces. Place everything in the bowl.
-3. Toss, serve, and enjoy!
+3. Toss in the pine nuts (and quinoa, if using).
+4. Toss, serve, and enjoy!
 
 ### Notes
-Eat Burn Sleep recipe (176 kcal per serving). The jam-jar dressing is worth making in bigger batches.
+Eat Burn Sleep recipe (176 kcal per serving, without additions). The jam-jar dressing is worth making in bigger batches. Pine nuts and quinoa turn this side salad into a heartier main.
