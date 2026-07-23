@@ -24,7 +24,7 @@ foto: fotos/apfel-zimt-snack-mit-nuessen.jpg
 2. Nüsse dazugeben — fertig.
 
 ## Notizen
-Der „Go-to-Snack einer Ernährungsberaterin" für den kleinen Hunger zwischendurch: Die Kombination aus Ballaststoffen (Apfel), Fett und Eiweiß (Nüsse) hält satt; Zimt bremst den Blutzuckeranstieg. Verwandt: [[beeren-nuss-teller]].
+Der „Go-to-Snack einer Ernährungsberaterin" für den kleinen Hunger zwischendurch: Die Kombination aus Ballaststoffen (Apfel), Fett und Eiweiß (Nüsse) hält satt; Zimt bremst den Blutzuckeranstieg.
 
 ## English
 ### Ingredients
