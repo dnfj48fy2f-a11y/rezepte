@@ -28,7 +28,7 @@ bewertung:
 3. In einer heißen Pfanne scharf anbraten.
 
 ## Notizen
-Vielseitige Würzmischung von Instagram. Passt zu Lachs, Hähnchen, Garnelen und geröstetem Gemüse. Verwandt: [[airfryer-lachs]], [[mediterranes-ofenhaehnchen-mit-gemuese]].
+Vielseitige Würzmischung von Instagram. Passt zu Lachs, Hähnchen, Garnelen und geröstetem Gemüse. Verwandt: [[mediterranes-ofenhaehnchen-mit-gemuese]].
 
 ## English
 ### Ingredients
