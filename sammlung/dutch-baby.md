@@ -9,7 +9,8 @@ zeit_gesamt: 35 min
 quelle: "Eigene Sammlung (Word: Breakfast/Breakfast-pancakes.docx)"
 sprache_original: en
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
+foto: fotos/dutch-baby.jpg
 ---
 
 ## Zutaten
@@ -27,7 +28,7 @@ bewertung:
 4. Temperatur auf 150 °C senken und weitere 5 Minuten backen.
 
 ## Notizen
-Portionszahl geschätzt (3 Eier ≈ 2 Portionen).
+Portionszahl geschätzt (3 Eier ≈ 2 Portionen). Foto: onceuponachef.com.
 
 ## English
 ### Ingredients
