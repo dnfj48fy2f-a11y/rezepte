@@ -9,7 +9,7 @@ zeit_gesamt: 20 min
 quelle: "happyfoodstube.com, mit Spinat ergänzt"
 sprache_original: en
 hinzugefuegt: 2026-07-23
-bewertung:
+bewertung: 4
 ---
 
 ## Zutaten
