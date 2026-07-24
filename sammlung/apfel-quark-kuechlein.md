@@ -19,6 +19,7 @@ foto: fotos/apfel-quark-kuechlein.jpg
 - 55 g Dinkelmehl (mit etwas Backpulver vermengen)
 - 1 Apfel (in feine Streifen gerieben oder gewürfelt)
 - reichlich Zitronenabrieb
+- 1 TL Zimt
 - Süße nach Wahl: Honig, Agavendicksaft oder Dattelpaste (Zuckerersatz mit Kalorien — extra einrechnen), alternativ Erythrit
 
 ## Zubereitung
@@ -37,6 +38,7 @@ Instagram-Fund, ca. 450 kcal / 30 g Eiweiß für das ganze Rezept (je nach gewä
 - 55 g spelt flour (mixed with a little baking powder)
 - 1 apple (grated into fine strips or diced)
 - plenty of lemon zest
+- 1 tsp cinnamon
 - sweetener of choice: honey, agave syrup or date paste (a sugar substitute with calories — count these separately), or erythritol as a no-calorie option
 
 ### Instructions
