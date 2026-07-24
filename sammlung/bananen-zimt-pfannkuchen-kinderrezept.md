@@ -9,7 +9,7 @@ zeit_gesamt: 10 min
 quelle: Handgeschriebener Zettel aus der eigenen Küche
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 foto: fotos/bananen-zimt-pfannkuchen-kinderrezept.jpg
 ---
 
