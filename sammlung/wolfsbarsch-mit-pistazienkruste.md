@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (PDF: Fish/salmon/Pistachio Crusted Sea Bass, Healthy w
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
+foto: fotos/wolfsbarsch-mit-pistazienkruste.jpg
 ---
 
 ## Zutaten
