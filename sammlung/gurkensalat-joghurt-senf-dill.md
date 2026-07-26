@@ -1,51 +1,46 @@
 ---
 titel: Gurkensalat mit Joghurt-Senf-Dill-Sauce
-title_en: Cucumber-Dill Salad
+title_en: Cucumber Salad with Yogurt-Mustard-Dill Sauce
 kategorie: salat
 tags: [gurke, joghurt, dill, schnell, vegetarisch, gaeste]
-portionen: 6
-zeit_aktiv: 15 min
-zeit_gesamt: 45 min
-quelle: americastestkitchen.com (Cucumber-Dill Salad)
-sprache_original: en
+portionen: 4
+zeit_aktiv: 10 min
+zeit_gesamt: 10 min
+quelle: "Eigene Vereinfachung, angelehnt an americastestkitchen.com (Cucumber-Dill Salad)"
+sprache_original: de
 hinzugefuegt: 2026-07-26
 bewertung:
 ---
 
 ## Zutaten
-- 2 Salatgurken, längs halbiert und in dünne Scheiben geschnitten
-- 2 TL Salz
-- 80 g griechischer Joghurt
-- 4 TL Apfelessig
-- 1 EL Olivenöl extra vergine
+- 2 Salatgurken, in dünne Scheiben gehobelt
+- 150 g griechischer Joghurt
 - 2 TL Dijon-Senf
-- 1 große Schalotte, längs halbiert und in dünne Scheiben geschnitten
 - 4 EL frischer Dill, gehackt
 - Salz, Pfeffer
 
 ## Zubereitung
-1. Gurkenscheiben in ein Sieb geben, mit Salz vermengen. Sieb in die Spüle stellen und 30 Minuten abtropfen lassen.
-2. In der Zwischenzeit Joghurt, Essig, Öl und Senf in einer großen Schüssel verquirlen, beiseitestellen.
-3. Sieb leicht schütteln, um überschüssige Flüssigkeit loszuwerden, dann die Gurken mit Küchenpapier trockentupfen.
-4. Gurken, Schalotte und Dill zur Sauce in die Schüssel geben, vorsichtig vermengen. Mit Salz und Pfeffer abschmecken und servieren.
+1. Joghurt, Senf und Dill in einer Schüssel verrühren, mit Salz und Pfeffer abschmecken.
+2. Gurken in dünne Scheiben hobeln (z. B. mit einem Gemüsehobel oder Sparschäler).
+3. Gurkenscheiben zur Sauce geben und vorsichtig vermengen.
+4. Direkt servieren.
 
 ## Notizen
-Von America's Test Kitchen. Das Salzen und Abtropfen der Gurken ist wichtig, damit der Salat nicht wässrig wird. Passt gut zu gegrilltem Fleisch oder Fisch.
+Vereinfachte Variante ohne Essig und Öl, angelehnt an ein Rezept von America's Test Kitchen — die Gurke wird nicht gesalzen/abgetropft, sondern nur dünn gehobelt und direkt mit der Sauce vermengt. Am besten frisch servieren, da die Gurke sonst Wasser zieht.
 
 ## English
 ### Ingredients
-- 2 English cucumbers, halved lengthwise and sliced thin
-- 2 teaspoons kosher salt
-- ⅓ cup plain Greek yogurt
-- 4 teaspoons cider vinegar
-- 1 tablespoon extra-virgin olive oil
-- 2 teaspoons Dijon mustard
-- 1 large shallot, halved through root end and sliced thin
-- ¼ cup chopped fresh dill
+- 2 cucumbers, thinly shaved
+- 150 g Greek yogurt
+- 2 tsp Dijon mustard
+- 4 tbsp fresh dill, chopped
+- salt, pepper
 
 ### Instructions
-1. Place cucumbers in a colander and toss with salt. Set colander in sink and let stand for 30 minutes. Whisk yogurt, vinegar, oil, and mustard together in a large bowl and set aside.
-2. Gently shake colander to drain excess liquid, then blot cucumbers dry with paper towels. Add cucumbers, shallot, and dill to bowl with dressing and toss gently to combine. Season with salt and pepper to taste, and serve.
+1. Mix yogurt, mustard and dill in a bowl; season with salt and pepper.
+2. Shave the cucumbers into thin slices (e.g. with a mandoline or vegetable peeler).
+3. Add the cucumber slices to the sauce and toss gently.
+4. Serve right away.
 
 ### Notes
-From America's Test Kitchen. Salting and draining the cucumbers is key to avoiding a watery salad. Goes well with grilled meat or fish.
+A simplified version without vinegar or oil, loosely based on a recipe from America's Test Kitchen — the cucumber isn't salted/drained, just thinly shaved and tossed straight into the sauce. Best served fresh, as the cucumber releases water over time.
