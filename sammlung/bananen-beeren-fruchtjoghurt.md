@@ -10,6 +10,7 @@ quelle: Eigenes Rezept
 sprache_original: de
 hinzugefuegt: 2026-07-26
 bewertung:
+foto: fotos/bananen-beeren-fruchtjoghurt.jpg
 ---
 
 ## Zutaten
