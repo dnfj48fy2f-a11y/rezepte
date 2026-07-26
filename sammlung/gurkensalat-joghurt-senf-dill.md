@@ -9,18 +9,20 @@ zeit_gesamt: 10 min
 quelle: "Eigene Vereinfachung, angelehnt an americastestkitchen.com (Cucumber-Dill Salad)"
 sprache_original: de
 hinzugefuegt: 2026-07-26
-bewertung:
+bewertung: 5
+foto: fotos/gurkensalat-joghurt-senf-dill.jpg
 ---
 
 ## Zutaten
 - 2 Salatgurken, in dünne Scheiben gehobelt
 - 150 g griechischer Joghurt
-- 2 TL Dijon-Senf
+- 2 EL Mayonnaise
+- 1 TL Dijon-Senf
 - 4 EL frischer Dill, gehackt
 - Salz, Pfeffer
 
 ## Zubereitung
-1. Joghurt, Senf und Dill in einer Schüssel verrühren, mit Salz und Pfeffer abschmecken.
+1. Joghurt, Mayonnaise, Senf und Dill in einer Schüssel verrühren, mit Salz und Pfeffer abschmecken.
 2. Gurken in dünne Scheiben hobeln (z. B. mit einem Gemüsehobel oder Sparschäler).
 3. Gurkenscheiben zur Sauce geben und vorsichtig vermengen.
 4. Direkt servieren.
@@ -32,12 +34,13 @@ Vereinfachte Variante ohne Essig und Öl, angelehnt an ein Rezept von America's 
 ### Ingredients
 - 2 cucumbers, thinly shaved
 - 150 g Greek yogurt
-- 2 tsp Dijon mustard
+- 2 tbsp mayonnaise
+- 1 tsp Dijon mustard
 - 4 tbsp fresh dill, chopped
 - salt, pepper
 
 ### Instructions
-1. Mix yogurt, mustard and dill in a bowl; season with salt and pepper.
+1. Mix yogurt, mayonnaise, mustard and dill in a bowl; season with salt and pepper.
 2. Shave the cucumbers into thin slices (e.g. with a mandoline or vegetable peeler).
 3. Add the cucumber slices to the sauce and toss gently.
 4. Serve right away.

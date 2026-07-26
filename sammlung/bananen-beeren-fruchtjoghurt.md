@@ -9,7 +9,7 @@ zeit_gesamt: 5 min
 quelle: Eigenes Rezept
 sprache_original: de
 hinzugefuegt: 2026-07-26
-bewertung:
+bewertung: 5
 foto: fotos/bananen-beeren-fruchtjoghurt.jpg
 ---
 
