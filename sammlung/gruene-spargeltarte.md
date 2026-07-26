@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Vegetarian/Tartes:Quiches/Green Asparagus Tarte.
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
+foto: fotos/gruene-spargeltarte.jpg
 ---
 
 ## Zutaten
