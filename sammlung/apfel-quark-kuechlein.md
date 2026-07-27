@@ -9,7 +9,7 @@ zeit_gesamt: 25 min
 quelle: Instagram (deutschsprachiger Beitrag)
 sprache_original: de
 hinzugefuegt: 2026-07-23
-bewertung:
+bewertung: 4
 foto: fotos/apfel-quark-kuechlein.jpg
 ---
 
