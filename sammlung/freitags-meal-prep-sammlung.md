@@ -16,10 +16,9 @@ bewertung:
 - **Gekochte Eier:**
 - 10 Eier
 - **Thunfisch-Dip:**
-- 2 Dosen Thunfisch (in Öl oder Wasser), abgetropft
-- 3 EL Mayonnaise
-- Saft von ½ Zitrone
-- Salz, Pfeffer
+- 1 Dose Thunfisch (in Öl oder Wasser), abgetropft
+- 3 EL Joghurt
+- 15 Kapern
 - **Grüner Kräuter-Dip:**
 - 250 g griechischer Joghurt
 - 1 Bund Petersilie oder Basilikum, gehackt
@@ -74,7 +73,7 @@ bewertung:
 
 ## Zubereitung
 1. **Eier:** In kochendem Wasser 9–10 Minuten hart kochen, abschrecken, pellen und im Kühlschrank aufbewahren.
-2. **Thunfisch-Dip:** Thunfisch mit Mayonnaise, Zitronensaft, Salz und Pfeffer verrühren, in ein verschließbares Glas füllen.
+2. **Thunfisch-Dip:** Thunfisch mit Joghurt und Kapern verrühren, in ein verschließbares Glas füllen.
 3. **Grüner Kräuter-Dip:** Joghurt mit Kräutern, Knoblauch und Zitronensaft verrühren, salzen und pfeffern.
 4. **Hummus:** Kichererbsen, Tahini, Zitronensaft, Knoblauch und Olivenöl im Mixer glatt pürieren, bei Bedarf mit etwas Wasser verdünnen, salzen.
 5. **Dressing:** Alle Zutaten in ein Schraubglas geben und kräftig schütteln.
@@ -97,7 +96,7 @@ Eigene Zusammenstellung für die wöchentliche Meal-Prep-Routine — kein einzel
 ## English
 ### Ingredients
 - **Boiled eggs:** 10 eggs
-- **Tuna dip:** 2 cans tuna, drained; 3 tbsp mayonnaise; juice of ½ lemon; salt, pepper
+- **Tuna dip:** 1 can tuna, drained; 3 tbsp yogurt; 15 capers
 - **Green herb dip:** 250 g Greek yogurt; 1 bunch parsley or basil, chopped; 2 tbsp chives, chopped; 1 garlic clove, grated; juice of ½ lemon; salt, pepper
 - **Hummus:** 1 can chickpeas (400 g), drained; 2 tbsp tahini; juice of 1 lemon; 1 garlic clove; 3 tbsp olive oil; salt, water as needed
 - **Salad dressing (basic vinaigrette):** 6 tbsp olive oil; 2 tbsp white wine vinegar; 1 tsp mustard; salt, pepper
@@ -113,7 +112,7 @@ Eigene Zusammenstellung für die wöchentliche Meal-Prep-Routine — kein einzel
 
 ### Instructions
 1. **Eggs:** Hard-boil for 9–10 minutes, cool, peel, and store in the fridge.
-2. **Tuna dip:** Mix tuna with mayonnaise, lemon juice, salt and pepper; store in a sealed jar.
+2. **Tuna dip:** Mix tuna with yogurt and capers; store in a sealed jar.
 3. **Green herb dip:** Mix yogurt with herbs, garlic and lemon juice; season.
 4. **Hummus:** Blend chickpeas, tahini, lemon juice, garlic and olive oil until smooth; thin with water if needed; salt to taste.
 5. **Dressing:** Combine all ingredients in a jar and shake well.
