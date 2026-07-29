@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Canapees, Starter/Vegetarian Starter/Bruschetta.
 sprache_original: de
 hinzugefuegt: 2026-07-14
 bewertung:
+foto: fotos/bruschetta.jpg
 ---
 
 ## Zutaten

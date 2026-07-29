@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (PDF: Alexandra Dudley/SheerLuxe)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
+foto: fotos/artischocken-mit-selbstgemachter-mayonnaise.jpg
 ---
 
 ## Zutaten

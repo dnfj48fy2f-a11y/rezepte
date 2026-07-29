@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Pasta/Bolognese.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
 bewertung: 5
+foto: fotos/spaghetti-bolognese.jpg
 ---
 
 ## Zutaten

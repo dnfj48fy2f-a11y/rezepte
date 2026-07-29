@@ -9,7 +9,8 @@ zeit_gesamt: 3 Tage
 quelle: "Eigene Sammlung (Word: Fish/Lachs/Graved Lachs.pdf.docx)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
+foto: fotos/graved-lachs.jpg
 ---
 
 ## Zutaten

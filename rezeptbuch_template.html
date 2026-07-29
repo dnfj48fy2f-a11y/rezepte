@@ -258,6 +258,7 @@
       <input id="q" type="search" placeholder="Suchen…" aria-label="Rezepte durchsuchen">
     </div>
     <div class="chips" id="chips"></div>
+    <div class="chips" id="sternchips"></div>
   </div>
 </header>
 
@@ -314,6 +315,7 @@
 
   let lang = localStorage.getItem("rezeptbuch-lang") || "de";
   let aktKat = "alle";
+  let aktSterne = 0;
   let suchbegriff = "";
   let offenesRezept = null;
   let faktor = 1;
@@ -359,6 +361,7 @@
   const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   function passt(r) {
     if (aktKat !== "alle" && r.kategorie !== aktKat) return false;
+    if (aktSterne > 0 && (r.bewertung || 0) < aktSterne) return false;
     if (!suchbegriff) return true;
     const heu = [r.titel, r.title_en, (r.tags || []).join(" "),
                  (r.zutaten || []).join(" "), ((r.en || {}).zutaten || []).join(" ")].map(norm).join(" ");
@@ -382,6 +385,22 @@
     $("chips").innerHTML = html;
     $("chips").querySelectorAll(".chip").forEach(b =>
       b.addEventListener("click", () => { aktKat = b.dataset.k; renderChips(); renderGrid(); }));
+  }
+
+  function renderSternChips() {
+    const zaehl = [0, 0, 0, 0, 0, 0]; // Index = Mindestsumme 0..5
+    DATA.rezepte.forEach(r => {
+      const b = r.bewertung || 0;
+      for (let s = 1; s <= b; s++) zaehl[s]++;
+    });
+    let html = `<button class="chip ${aktSterne === 0 ? "active" : ""}" data-s="0">${t().alle} <span class="n">${DATA.rezepte.length}</span></button>`;
+    for (let s = 5; s >= 1; s--) {
+      if (!zaehl[s]) continue;
+      html += `<button class="chip ${aktSterne === s ? "active" : ""}" data-s="${s}">${"★".repeat(s)} <span class="n">${zaehl[s]}</span></button>`;
+    }
+    $("sternchips").innerHTML = html;
+    $("sternchips").querySelectorAll(".chip").forEach(b =>
+      b.addEventListener("click", () => { aktSterne = Number(b.dataset.s); renderSternChips(); renderGrid(); }));
   }
 
   function renderGrid() {
@@ -501,7 +520,7 @@
     $("foot").textContent = d
       ? `${DATA.rezepte.length} ${DATA.rezepte.length === 1 ? t().rezept1 : t().rezepte} · ${t().stand}: ${d.toLocaleDateString(lang === "de" ? "de-DE" : "en-GB")}`
       : "";
-    renderChips(); renderPlan(); renderGrid();
+    renderChips(); renderSternChips(); renderPlan(); renderGrid();
     if (offenesRezept) renderSheet();
   }
 
