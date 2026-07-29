@@ -9,7 +9,7 @@ zeit_gesamt: 30 min
 quelle: "Eigene Sammlung (Word: Pasta/Vodka-Tomaten-Sauce.docx)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
 foto: fotos/vodka-tomaten-sauce.jpg
 ---
 
