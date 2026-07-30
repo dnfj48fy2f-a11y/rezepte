@@ -9,7 +9,7 @@ zeit_gesamt: 15 min
 quelle: "Eigene Sammlung (Word: Salads/Avocado Quinoa Salad.docx)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 4
 foto: fotos/avocado-quinoa-salat.jpg
 ---
 

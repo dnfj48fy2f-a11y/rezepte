@@ -9,7 +9,7 @@ zeit_gesamt: 60 min
 quelle: "Eigene Sammlung (Word: Salads/Creamy Beetroot Salad.docx)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 4
 foto: fotos/cremiger-rote-bete-salat.jpg
 ---
 
