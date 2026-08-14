@@ -9,7 +9,8 @@ zeit_gesamt: 2 h
 quelle: "Eigene Sammlung (Word: Meat/Minced Meat/Chili con Carne.docx)"
 sprache_original: en
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
+foto: fotos/chili-con-carne.jpg
 ---
 
 ## Zutaten
@@ -21,18 +22,19 @@ bewertung:
 - 450 g Hackfleisch
 - 200 g getrocknete Tomaten
 - 2 Dosen Tomaten (à 400 g)
-- 0,5 Zimtstange
+- ½ TL Zimt
 - 2 Dosen Kidneybohnen (à 400 g)
 - Rotwein
-- evtl. 1 kleine Dose Mais, grüne Paprika
+- 1 kleine Dose Mais
 - Öl
+- zum Servieren: Sour Cream, Avocadostreifen
 
 ## Zubereitung
 1. Zwiebeln und Knoblauch in Öl anschwitzen, Chili, Chilipulver und Kreuzkümmel dazu.
 2. Getrocknete Tomaten mit etwas Öl zu einer Paste zerkleinern und einrühren, Hackfleisch anbraten.
-3. Dosentomaten, Zimtstange und einen Schuss Rotwein dazugeben, würzen.
-4. 90 Minuten köcheln lassen; die Bohnen (und ggf. Mais/Paprika) 30 Minuten vor Ende zugeben.
-5. Mit knusprigem Baguette, Guacamole oder einem Klecks Joghurt servieren.
+3. Dosentomaten, Zimt und einen Schuss Rotwein dazugeben, würzen.
+4. 90 Minuten köcheln lassen; die Bohnen und den Mais 30 Minuten vor Ende zugeben.
+5. Mit knusprigem Baguette, Guacamole oder einem Klecks Joghurt servieren — dazu Sour Cream und Avocadostreifen reichen.
 
 ## Notizen
 Der englische Originaltext ist stellenweise holprig (vermutlich maschinell übersetzt) — die Zubereitung wurde sinngemäß rekonstruiert. Portionszahl geschätzt.
@@ -47,18 +49,19 @@ Der englische Originaltext ist stellenweise holprig (vermutlich maschinell über
 - 450 g minced meat
 - 200 g dried tomatoes
 - 2 tins tomatoes (400 g each)
-- 1/2 cinnamon stick
+- ½ tsp ground cinnamon
 - 2 cans red kidney beans (400 g each)
 - red wine
-- optionally 1 small can of corn, green peppers
+- 1 small can of corn
 - oil
+- to serve: sour cream, avocado strips
 
 ### Instructions
 1. Sauté the onions and garlic in oil; add the chilli, chilli powder and cumin.
 2. Blitz the dried tomatoes with a little oil into a paste and stir in; brown the mince.
-3. Add the tinned tomatoes, cinnamon stick and a splash of red wine; season.
-4. Simmer for 90 minutes, adding the beans (and corn/peppers if using) 30 minutes before the end.
-5. Serve with crispy baguette, guacamole or a dollop of yogurt.
+3. Add the tinned tomatoes, cinnamon and a splash of red wine; season.
+4. Simmer for 90 minutes, adding the beans and corn 30 minutes before the end.
+5. Serve with crispy baguette, guacamole or a dollop of yogurt — top with sour cream and avocado strips.
 
 ### Notes
 The original English text was partly garbled (likely machine-translated) — the method was reconstructed. Serving count estimated.
