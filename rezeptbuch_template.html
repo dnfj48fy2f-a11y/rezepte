@@ -259,6 +259,7 @@
     </div>
     <div class="chips" id="chips"></div>
     <div class="chips" id="sternchips"></div>
+    <div class="chips" id="zeitchips"></div>
   </div>
 </header>
 
@@ -316,6 +317,7 @@
   let lang = localStorage.getItem("rezeptbuch-lang") || "de";
   let aktKat = "alle";
   let aktSterne = 0;
+  let aktZeit = 0;
   let suchbegriff = "";
   let offenesRezept = null;
   let faktor = 1;
@@ -357,11 +359,40 @@
     return "<b>" + fmtMenge(p.wert * faktor) + "</b>" + esc(p.rest);
   }
 
+  // ---- Zeit parsen/bucketen ----
+  function zeitMinuten(str) {
+    if (!str) return null;
+    const s = String(str).toLowerCase();
+    if (s.includes("tag")) {
+      const m = s.match(/(\d+)/);
+      return (m ? parseInt(m[1], 10) : 1) * 24 * 60;
+    }
+    const hM = s.match(/(\d+)\s*h/);
+    const mM = s.match(/(\d+)\s*min/);
+    let minuten = 0;
+    if (hM) minuten += parseInt(hM[1], 10) * 60;
+    if (mM) minuten += parseInt(mM[1], 10);
+    if (!hM && !mM) {
+      const num = s.match(/(\d+)/);
+      if (num) minuten = parseInt(num[1], 10);
+    }
+    return minuten || null;
+  }
+  function zeitBucket(minuten) {
+    if (minuten == null) return 0;
+    if (minuten <= 30) return 1;
+    if (minuten <= 60) return 2;
+    if (minuten <= 120) return 3;
+    return 4;
+  }
+  const ZEIT_LABEL = { 1: "\u2264 30 min", 2: "\u2264 1 h", 3: "\u2264 2 h", 4: "> 2 h" };
+
   // ---- Suche ----
   const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   function passt(r) {
     if (aktKat !== "alle" && r.kategorie !== aktKat) return false;
     if (aktSterne > 0 && (r.bewertung || 0) < aktSterne) return false;
+    if (aktZeit > 0 && zeitBucket(zeitMinuten(r.zeit_gesamt)) !== aktZeit) return false;
     if (!suchbegriff) return true;
     const heu = [r.titel, r.title_en, (r.tags || []).join(" "),
                  (r.zutaten || []).join(" "), ((r.en || {}).zutaten || []).join(" ")].map(norm).join(" ");
@@ -401,6 +432,19 @@
     $("sternchips").innerHTML = html;
     $("sternchips").querySelectorAll(".chip").forEach(b =>
       b.addEventListener("click", () => { aktSterne = Number(b.dataset.s); renderSternChips(); renderGrid(); }));
+  }
+
+  function renderZeitChips() {
+    const zaehl = [0, 0, 0, 0, 0]; // Index = Bucket 0..4
+    DATA.rezepte.forEach(r => { zaehl[zeitBucket(zeitMinuten(r.zeit_gesamt))]++; });
+    let html = `<button class="chip ${aktZeit === 0 ? "active" : ""}" data-z="0">${t().alle} <span class="n">${DATA.rezepte.length}</span></button>`;
+    for (let z = 1; z <= 4; z++) {
+      if (!zaehl[z]) continue;
+      html += `<button class="chip ${aktZeit === z ? "active" : ""}" data-z="${z}">⏱ ${ZEIT_LABEL[z]} <span class="n">${zaehl[z]}</span></button>`;
+    }
+    $("zeitchips").innerHTML = html;
+    $("zeitchips").querySelectorAll(".chip").forEach(b =>
+      b.addEventListener("click", () => { aktZeit = Number(b.dataset.z); renderZeitChips(); renderGrid(); }));
   }
 
   function renderGrid() {
@@ -520,7 +564,7 @@
     $("foot").textContent = d
       ? `${DATA.rezepte.length} ${DATA.rezepte.length === 1 ? t().rezept1 : t().rezepte} · ${t().stand}: ${d.toLocaleDateString(lang === "de" ? "de-DE" : "en-GB")}`
       : "";
-    renderChips(); renderSternChips(); renderPlan(); renderGrid();
+    renderChips(); renderSternChips(); renderZeitChips(); renderPlan(); renderGrid();
     if (offenesRezept) renderSheet();
   }
 
