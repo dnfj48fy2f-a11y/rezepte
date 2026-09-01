@@ -9,7 +9,8 @@ zeit_gesamt: 1 h 30 min
 quelle: "Eigene Sammlung (Word: Meat/Beef/Rinderfilet im Kraeutermantel mit Trueffelsauce.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
+foto: fotos/rinderfilet-im-kraeutermantel.jpg
 ---
 
 ## Zutaten
