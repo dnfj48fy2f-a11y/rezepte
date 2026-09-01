@@ -9,7 +9,8 @@ zeit_gesamt: 25 min
 quelle: "Eigene Sammlung (Word: Meat/Beef/Filetsteaks mit gruenem Pfeffer.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
+foto: fotos/filetsteaks-mit-gruenem-pfeffer.jpg
 ---
 
 ## Zutaten
