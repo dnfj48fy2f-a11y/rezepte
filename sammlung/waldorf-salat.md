@@ -9,7 +9,8 @@ zeit_gesamt: 30 min
 quelle: "Eigene Sammlung (Word: Salads/Waldorf-Salat.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 4
+foto: fotos/waldorf-salat.jpg
 ---
 
 ## Zutaten
