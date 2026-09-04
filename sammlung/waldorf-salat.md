@@ -20,6 +20,7 @@ foto: fotos/waldorf-salat.jpg
 - Mayonnaise oder Sahne
 - 2 EL Zitronensaft
 - Walnüsse
+- optional: 1 rote Bete, geraspelt
 
 ## Zubereitung
 1. Apfel und Sellerie in feine Streifen hobeln und mit Zitronensaft beträufeln.
@@ -37,6 +38,7 @@ Klassische Vorspeise — passt gut zur Weihnachtszeit.
 - mayonnaise or cream
 - 2 tbsp lemon juice
 - walnuts
+- optional: 1 beetroot, grated
 
 ### Instructions
 1. Slice the apple and celeriac into fine julienne and drizzle with lemon juice.
