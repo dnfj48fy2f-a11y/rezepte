@@ -36,7 +36,7 @@ bewertung:
 5. Den Gurken-Avocado-Salat auf die knusprigen Reisstücke geben und sofort essen.
 
 ## Notizen
-Virales Instagram-Rezept (maxiskitchen). Ein Teil der Salatzutaten war im Screenshot abgeschnitten — sinngemäß ergänzt. Wichtig ist Jasminreis, weil er beim Braten schön knusprig wird. Verwandt: [[bunte-poke-bowl]].
+Virales Instagram-Rezept (maxiskitchen). Ein Teil der Salatzutaten war im Screenshot abgeschnitten — sinngemäß ergänzt. Wichtig ist Jasminreis, weil er beim Braten schön knusprig wird.
 
 ## English
 ### Ingredients
