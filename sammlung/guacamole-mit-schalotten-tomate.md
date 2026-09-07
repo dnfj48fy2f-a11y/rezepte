@@ -9,7 +9,7 @@ zeit_gesamt: 15 min
 quelle: "pflanzen-koelle.de (Guacamole mit Schalotten)"
 sprache_original: de
 hinzugefuegt: 2026-09-04
-bewertung:
+bewertung: 5
 foto: fotos/guacamole-mit-schalotten-tomate.jpg
 ---
 
