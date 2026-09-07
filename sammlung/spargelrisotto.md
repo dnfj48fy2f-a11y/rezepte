@@ -9,7 +9,8 @@ zeit_gesamt: 40 min
 quelle: "Eigene Sammlung (Word: Vegetarian/Reis/Spargelrisotto.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
+foto: fotos/spargelrisotto.jpg
 ---
 
 ## Zutaten
