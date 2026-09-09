@@ -31,7 +31,7 @@ bewertung:
 4. Mit Koriander bestreut servieren.
 
 ## Notizen
-Dazu passt Reis. Verwandt: [[suesskartoffel-gemuese-chili]].
+Dazu passt Reis.
 
 ## English
 ### Ingredients

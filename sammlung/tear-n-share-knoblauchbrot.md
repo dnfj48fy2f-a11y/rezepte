@@ -40,7 +40,7 @@ foto: fotos/tear-n-share-knoblauchbrot.jpg
 12. Das Blech in die Mitte des Tischs (oder Picknicks) stellen und jeden sein Stück abreißen lassen.
 
 ## Notizen
-Jamie Oliver: „Perfect for a picnic" — passt zu Chili ([[suesskartoffel-gemuese-chili]], [[chili-con-carne]]), Pasta, Suppe oder einfach mit einem großen grünen Salat. Pro Stück ca. 121 kcal.
+Jamie Oliver: „Perfect for a picnic" — passt zu Chili ([[chili-con-carne]]), Pasta, Suppe oder einfach mit einem großen grünen Salat. Pro Stück ca. 121 kcal.
 
 ## English
 ### Ingredients
