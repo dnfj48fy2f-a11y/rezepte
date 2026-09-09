@@ -9,7 +9,7 @@ zeit_gesamt: 35 min
 quelle: Aus Foto rekonstruiert (Café-Teller)
 sprache_original: de
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 foto: fotos/quinoa-salat-mit-gebackenem-ziegenkaese.jpg
 ---
 
