@@ -9,7 +9,8 @@ zeit_gesamt: 1 h 30 min
 quelle: "Eigene Sammlung (Word: Meat/Lamb/Lammcarree mit Kartoffel.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 4
+foto: fotos/lammcarree-mit-kartoffelgratin.jpg
 ---
 
 ## Zutaten
