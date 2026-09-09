@@ -2,7 +2,7 @@
 titel: Klassischer Hot Dog
 title_en: Classic Hot Dog
 kategorie: hauptgericht
-tags: [wuerstchen, fingerfood, schnell, kinder, klassiker]
+tags: [wuerstchen, fingerfood, schnell, kinder, klassiker, kidslunch]
 portionen: 6
 zeit_aktiv: 15 min
 zeit_gesamt: 15 min
