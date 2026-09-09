@@ -33,7 +33,7 @@ foto: fotos/asiatischer-lachs-brokkoli-traybake.jpg
 5. Mit Frühlingszwiebeln bestreuen und mit Reis servieren.
 
 ## Notizen
-Aus Foto rekonstruiert (BBC-Good-Food-Bild „Oriental Salmon & Broccoli Traybake") — Mengen geschätzt. Alles von einem Blech. Verwandt: [[asian-salmon-veg-parcels]], [[honey-glazed-salmon]].
+Aus Foto rekonstruiert (BBC-Good-Food-Bild „Oriental Salmon & Broccoli Traybake") — Mengen geschätzt. Alles von einem Blech. Verwandt: [[asian-salmon-veg-parcels]].
 
 ## English
 ### Ingredients

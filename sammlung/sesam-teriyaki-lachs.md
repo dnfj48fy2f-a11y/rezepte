@@ -38,7 +38,7 @@ foto: fotos/sesam-teriyaki-lachs.jpg
 5. Lachs auf dem Püree anrichten, restliche Sauce darübergeben, mit Frühlingszwiebeln und Sesam bestreuen. Zucchini dazu servieren.
 
 ## Notizen
-Aus Foto rekonstruiert (Instagram-Story) — Mengen geschätzt. Verwandt: [[honey-glazed-salmon]], [[asian-salmon-veg-parcels]].
+Aus Foto rekonstruiert (Instagram-Story) — Mengen geschätzt. Verwandt: [[asian-salmon-veg-parcels]].
 
 ## English
 ### Ingredients
