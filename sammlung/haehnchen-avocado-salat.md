@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (PDF: chicken/Chicken and Avocado Salad, Eat Burn Sleep
 sprache_original: en
 hinzugefuegt: 2026-07-16
 bewertung:
+foto: fotos/haehnchen-avocado-salat.jpg
 ---
 
 ## Zutaten
