@@ -83,8 +83,8 @@ def foto_data_uri(foto_pfad: str, name: str):
         tmp_pfad = Path(tmp.name)
     try:
         subprocess.run(
-            ["sips", "-s", "format", "jpeg", "-s", "formatOptions", "45",
-             "-Z", "520", str(quelle), "--out", str(tmp_pfad)],
+            ["sips", "-s", "format", "jpeg", "-s", "formatOptions", "35",
+             "-Z", "420", str(quelle), "--out", str(tmp_pfad)],
             check=True, capture_output=True)
         daten = tmp_pfad.read_bytes()
     except subprocess.CalledProcessError as e:
