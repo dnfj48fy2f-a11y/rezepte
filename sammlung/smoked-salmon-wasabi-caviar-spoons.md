@@ -10,7 +10,7 @@ quelle: "Kochbuch/Magazin (Harrods)"
 sprache_original: en
 hinzugefuegt: 2026-09-15
 bewertung:
-foto:
+foto: fotos/smoked-salmon-wasabi-caviar-spoons.jpg
 ---
 
 ## Zutaten
