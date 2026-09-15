@@ -10,7 +10,7 @@ quelle: "Das Kochbuch der vergessenen Genüsse, Eva Eppard & Martin Lagoda"
 sprache_original: de
 hinzugefuegt: 2026-09-15
 bewertung:
-foto:
+foto: fotos/cappuccino-vom-gruenkern.jpg
 ---
 
 ## Zutaten
