@@ -10,7 +10,7 @@ quelle: "Aus einer Zeitschrift"
 sprache_original: de
 hinzugefuegt: 2026-09-15
 bewertung:
-foto: fotos/ingwersterne.jpg
+foto:
 ---
 
 ## Zutaten
