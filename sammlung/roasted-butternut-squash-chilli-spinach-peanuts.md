@@ -10,7 +10,7 @@ quelle: "Kochmagazin (Oktober 2015)"
 sprache_original: en
 hinzugefuegt: 2026-09-15
 bewertung:
-foto:
+foto: fotos/roasted-butternut-squash-chilli-spinach-peanuts.jpg
 ---
 
 ## Zutaten
