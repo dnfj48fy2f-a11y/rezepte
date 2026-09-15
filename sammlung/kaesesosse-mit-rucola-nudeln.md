@@ -10,7 +10,7 @@ quelle: "Aus einem Kochbuch"
 sprache_original: de
 hinzugefuegt: 2026-09-15
 bewertung:
-foto:
+foto: fotos/kaesesosse-mit-rucola-nudeln.jpg
 ---
 
 ## Zutaten
