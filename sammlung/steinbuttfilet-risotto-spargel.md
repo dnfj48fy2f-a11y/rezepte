@@ -10,7 +10,7 @@ quelle: "Restaurant Meisterhaus, Unna"
 sprache_original: de
 hinzugefuegt: 2026-09-15
 bewertung:
-foto:
+foto: fotos/steinbuttfilet-risotto-spargel.jpg
 ---
 
 ## Zutaten
