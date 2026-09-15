@@ -10,7 +10,7 @@ quelle: "ameliafreer.com (Summer Vegetable Frittata)"
 sprache_original: en
 hinzugefuegt: 2026-09-15
 bewertung:
-foto:
+foto: fotos/sommergemuese-frittata-amelia-freer.jpg
 ---
 
 ## Zutaten
@@ -33,7 +33,7 @@ foto:
 5. Herausnehmen, 1 Minute ruhen lassen, dann in Stücke schneiden und servieren.
 
 ## Notizen
-Von ameliafreer.com. Kein Foto verfügbar — die Seite ließ sich nicht automatisch abrufen; falls gewünscht, gerne ein eigenes Foto ergänzen.
+Von ameliafreer.com. Als Foto wird ein anderer Amelia-Freer-Frittata-Post verwendet (geröstete Kürbis-Grünkohl-Frittata mit Salbei und Pinienkernen) — nicht exakt dieses Rezept, aber vom gleichen Rezeptkonzept/Stil, auf Wunsch ergänzt.
 
 ## English
 ### Ingredients
@@ -56,4 +56,4 @@ Von ameliafreer.com. Kein Foto verfügbar — die Seite ließ sich nicht automat
 5. Remove and allow to rest for 1 minute before slicing and serving.
 
 ### Notes
-From ameliafreer.com. No photo available — the site could not be fetched automatically; happy to add your own photo if you'd like.
+From ameliafreer.com. The photo shown is from a different Amelia Freer frittata post (roasted squash & kale frittata with sage and pine nuts) — not an exact match for this recipe, but the same style/concept; added at the user's request.
