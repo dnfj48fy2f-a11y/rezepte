@@ -30,7 +30,7 @@ foto: fotos/sticky-asian-chicken-traybake.jpg
 4. Bei 200 °C ca. 25–30 Minuten backen, bis das Hähnchen gar und die Sauce leicht eingedickt ist.
 
 ## Notizen
-Von @annasfamilykitchen auf Instagram — im Original als "Mix, marinade and bake" zusammengefasst; Backzeit/-temperatur sinngemäß ergänzt.
+Von @annasfamilykitchen auf Instagram — im Original als "Mix, marinade and bake" zusammengefasst; Backzeit/-temperatur sinngemäß ergänzt. Foto: Sticky Asian Chicken von annasfamilykitchen.com (verwandte Pfannen-Variante der Autorin, mit grünen Bohnen).
 
 ## English
 ### Ingredients
