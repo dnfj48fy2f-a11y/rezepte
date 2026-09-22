@@ -1,7 +1,7 @@
 ---
 titel: Spargel-Ei-Bowl mit Balsamico-Dressing
 title_en: Asparagus & Egg Bowl with Balsamic Dressing
-kategorie: fruehstueck
+kategorie: salat
 tags: [spargel, ei, salat, schnell, gesund, meal-prep]
 portionen: 1
 zeit_aktiv: 15 min
