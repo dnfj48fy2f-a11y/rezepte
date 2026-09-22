@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Breakfast/Pfannkuchen.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
 bewertung:
+foto: fotos/pfannkuchen.jpg
 ---
 
 ## Zutaten
@@ -24,7 +25,7 @@ bewertung:
 3. Für Apfelpfannkuchen: Zimt in den Teig geben und Apfelscheiben in Zimt einlegen. Zuerst die Äpfel in die Pfanne geben, dann den Teig darüber gießen.
 
 ## Notizen
-Eizahl im Original nicht angegeben (geschätzt: 3), Portionszahl geschätzt. Es gab eine identische Dropbox-Konfliktkopie („conflicted copy 2021-02-22"), die zusammengeführt wurde.
+Eizahl im Original nicht angegeben (geschätzt: 3), Portionszahl geschätzt. Es gab eine identische Dropbox-Konfliktkopie („conflicted copy 2021-02-22"), die zusammengeführt wurde. Foto: oetker.de (Pfannkuchen/Eierkuchen, klassische dünne Variante).
 
 ## English
 ### Ingredients
