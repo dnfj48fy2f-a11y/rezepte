@@ -1,7 +1,7 @@
 ---
 titel: Sommergemüse-Frittata
 title_en: Summer Vegetable Frittata
-kategorie: fruehstueck
+kategorie: hauptgericht
 tags: [frittata, vegetarisch, sommer, schnell]
 portionen: 4
 zeit_aktiv: 15 min
