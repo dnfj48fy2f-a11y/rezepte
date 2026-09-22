@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Breakfast/Breakfast-Mueslis.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
 bewertung:
+foto: fotos/bircher-muesli.jpg
 ---
 
 ## Zutaten
@@ -30,6 +31,7 @@ bewertung:
 3. Mit Joghurt und Beeren als Deko anrichten.
 
 ## Notizen
+Foto: kuechengoetter.de (Bircher Müsli mit Beeren, ähnliches Rezept).
 Rosinenmenge im Original nicht angegeben (geschätzt).
 
 ## English

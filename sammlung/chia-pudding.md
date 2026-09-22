@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Breakfast/Breakfast-Mueslis.doc)"
 sprache_original: en
 hinzugefuegt: 2026-07-14
 bewertung: 5
+foto: fotos/chia-pudding.jpg
 ---
 
 ## Zutaten
@@ -25,6 +26,7 @@ bewertung: 5
 3. Mit Erdbeeren servieren.
 
 ## Notizen
+Foto: mangoldmuskat.de (Erdbeer-Chia-Pudding, ähnliches Rezept).
 Im Original nur Zutatenliste ohne Mengen („Strawberries, Milk, Vanilla, Stevia, Chiaseeds, 4h in fridge") — alle Mengen und die Portionszahl sind geschätzt.
 
 ## English

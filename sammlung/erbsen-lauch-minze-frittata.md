@@ -1,7 +1,7 @@
 ---
 titel: Erbsen-Lauch-Minze-Frittata mit Feta
 title_en: Pea, Leek & Mint Frittata with Feta
-kategorie: fruehstueck
+kategorie: hauptgericht
 tags: [frittata, vegetarisch, erbsen, feta, meal-prep, schnell]
 portionen: 6
 zeit_aktiv: 20 min
