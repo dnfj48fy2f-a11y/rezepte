@@ -9,7 +9,7 @@ zeit_gesamt: 10 min
 quelle: "Instagram @eatburnsleep"
 sprache_original: en
 hinzugefuegt: 2026-09-15
-bewertung:
+bewertung: 5
 foto: fotos/ebs-ruehrei-tomaten-avocado.jpg
 ---
 
