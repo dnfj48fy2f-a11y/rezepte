@@ -9,7 +9,7 @@ zeit_gesamt: 30 min
 quelle: "Eigene Sammlung (Word: Salads/American Salad Bowl mit Hühnchen und Avocado.docx)"
 sprache_original: de
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 foto: fotos/american-salad-bowl-mit-haehnchen-avocado.jpg
 ---
 
