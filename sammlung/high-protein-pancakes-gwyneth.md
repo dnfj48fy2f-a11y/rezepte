@@ -31,7 +31,7 @@ foto: fotos/high-protein-pancakes-gwyneth.jpg
 4. Mit karamellisierten Bananen (Bananenscheiben in Butter goldbraun braten) servieren.
 
 ## Notizen
-Gwyneth Paltrows „Boyfriend Breakfast" von Instagram — handschriftliche Zutatenliste aus dem Video übernommen. Verwandt: [[fluffy-protein-pancakes]], [[paleo-pancakes]].
+Gwyneth Paltrows „Boyfriend Breakfast" von Instagram — handschriftliche Zutatenliste aus dem Video übernommen. Foto: thehealthymaven.com (ähnliches Bananen-Protein-Pancake-Rezept). Verwandt: [[fluffy-protein-pancakes]], [[paleo-pancakes]].
 
 ## English
 ### Ingredients
