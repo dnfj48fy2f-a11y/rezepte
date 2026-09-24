@@ -32,7 +32,7 @@ bewertung:
 4. Zu einer Tüte (Cone) aufrollen. Nach Belieben mit Sojasauce und Ingwer servieren.
 
 ## Notizen
-Martha-Stewart-Rezept — macht aus guter Dosenthunfisch mehr als nur ein Sandwich. Toll zum Selberrollen mit Kindern. Verwandt: [[einfacher-thunfischsalat]], [[gefuellte-tomaten-mit-thunfisch]].
+Martha-Stewart-Rezept — macht aus guter Dosenthunfisch mehr als nur ein Sandwich. Toll zum Selberrollen mit Kindern. Verwandt: [[gefuellte-tomaten-mit-thunfisch]].
 
 ## English
 ### Ingredients

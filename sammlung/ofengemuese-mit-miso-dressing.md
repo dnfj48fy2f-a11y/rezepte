@@ -9,7 +9,7 @@ zeit_gesamt: 45 min
 quelle: "Eigene Sammlung (Word: Vegetarian/Roasted/Roasted Veg and miso dressing with sesame seeds.docx)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 foto: fotos/ofengemuese-mit-miso-dressing.jpg
 ---
 

@@ -9,7 +9,7 @@ zeit_gesamt: 35 min
 quelle: "Instagram @annasfamilykitchen"
 sprache_original: en
 hinzugefuegt: 2026-09-15
-bewertung:
+bewertung: 5
 foto: fotos/sticky-asian-chicken-traybake.jpg
 ---
 
