@@ -2,7 +2,7 @@
 titel: Avocado-Toast mit Ei, Kürbiskernen und Tomaten
 title_en: Avocado Toast with Egg, Pumpkin Seeds and Tomatoes
 kategorie: fruehstueck
-tags: [avocado, ei, toast, kuerbiskerne, schnell, vegetarisch]
+tags: [avocado, ei, toast, kuerbiskerne, schnell, vegetarisch, leichtes-abendessen]
 portionen: 2
 zeit_aktiv: 15 min
 zeit_gesamt: 15 min
@@ -33,7 +33,7 @@ foto: fotos/avocado-toast-ei-kuerbiskerne.jpg
 5. Mit einer Zitronenspalte servieren.
 
 ## Notizen
-Aus einem Foto ohne Text rekonstruiert — Mengen und genaue Zutaten geschätzt.
+Aus einem Foto ohne Text rekonstruiert — Mengen und genaue Zutaten geschätzt. Passt als Frühstück oder als leichtes Mittag-/Abendessen.
 
 ## English
 ### Ingredients
@@ -56,4 +56,4 @@ Aus einem Foto ohne Text rekonstruiert — Mengen und genaue Zutaten geschätzt.
 5. Serve with a lemon wedge.
 
 ### Notes
-Reconstructed from a photo with no accompanying text — quantities and exact ingredients estimated.
+Reconstructed from a photo with no accompanying text — quantities and exact ingredients estimated. Works as breakfast or as a light lunch/dinner.
