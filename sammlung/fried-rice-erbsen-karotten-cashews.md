@@ -9,7 +9,7 @@ zeit_gesamt: 15 min
 quelle: "Angepasst nach plantifulheart.com (Gebratener Reis mit Gemüse)"
 sprache_original: de
 hinzugefuegt: 2026-09-20
-bewertung:
+bewertung: 4
 foto: fotos/fried-rice-erbsen-karotten-cashews.jpg
 ---
 
