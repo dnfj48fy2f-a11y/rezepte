@@ -10,6 +10,7 @@ quelle: "Eigene Sammlung (Word: Meat/Chicken/Oven/Ueberbackenes Putengeschnetzel
 sprache_original: de
 hinzugefuegt: 2026-07-14
 bewertung:
+foto: fotos/ueberbackenes-putengeschnetzeltes.jpg
 ---
 
 ## Zutaten
@@ -33,7 +34,7 @@ bewertung:
 5. Bei 170 °C Umluft 10 Minuten überbacken.
 
 ## Notizen
-Nur als Dropbox-Konfliktkopie vorhanden — Inhalt vollständig, normal importiert. Für 2 Personen.
+Nur als Dropbox-Konfliktkopie vorhanden — Inhalt vollständig, normal importiert. Für 2 Personen. Foto: gutekueche.de (ähnliches Rezept).
 
 ## English
 ### Ingredients
