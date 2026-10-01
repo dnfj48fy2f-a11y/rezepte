@@ -10,7 +10,7 @@ quelle: "Eigenes Rezept von Melanie"
 sprache_original: de
 hinzugefuegt: 2026-10-01
 bewertung:
-foto:
+foto: fotos/melanies-carrot-cake.jpg
 ---
 
 ## Zutaten
@@ -38,7 +38,7 @@ foto:
 7. Für das Frosting Butter und Puderzucker cremig schlagen, dann den Frischkäse unterrühren.
 
 ## Notizen
-Eigenes Rezept von Melanie. Mengenangaben in Tassen und Päckchen wie im Original belassen.
+Eigenes Rezept von Melanie. Mengenangaben in Tassen und Päckchen wie im Original belassen. Foto: als Muffins gebacken beim Picknick, mit Walnuss obenauf.
 
 ## English
 ### Ingredients
