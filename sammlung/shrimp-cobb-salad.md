@@ -9,7 +9,7 @@ zeit_gesamt: 35 min
 quelle: "Eigene Sammlung (Word: Salads/Shrimp Cobb Salad.docx)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 foto: fotos/shrimp-cobb-salad.jpg
 ---
 
