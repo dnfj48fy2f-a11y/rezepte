@@ -9,7 +9,8 @@ zeit_gesamt: 30 min
 quelle: "Eigene Sammlung (Word: Fish/Fischfondue.docx)"
 sprache_original: de
 hinzugefuegt: 2026-07-14
-bewertung:
+bewertung: 5
+foto: fotos/fischfondue.jpg
 ---
 
 ## Zutaten
@@ -28,7 +29,7 @@ bewertung:
 3. Fischstücke am Spieß im Fond garen; dazu passen Saucen (z.B. Remoulade, Lime-Dip) und Baguette.
 
 ## Notizen
-Einkaufsliste mit Mengenregel (200 g pro Person) aus dem Original; Zubereitung ergänzt. Portionszahl geschätzt.
+Einkaufsliste mit Mengenregel (200 g pro Person) aus dem Original; Zubereitung ergänzt. Portionszahl geschätzt. Foto: kuechengoetter.de (ähnliches Fischfondue).
 
 ## English
 ### Ingredients
