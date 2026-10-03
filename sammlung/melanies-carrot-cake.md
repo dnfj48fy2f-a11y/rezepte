@@ -14,19 +14,19 @@ foto: fotos/melanies-carrot-cake.jpg
 ---
 
 ## Zutaten
-- 2 Tassen Mehl
-- 1½ Tassen Zucker
+- 250 g Mehl
+- 300 g Zucker
 - 1 TL Natron
 - 1 TL Backpulver
 - 3 TL Zimt
 - 2 Päckchen Vanillezucker
-- 2 Tassen Sonnenblumenöl
+- 480 ml Sonnenblumenöl
 - 4 Eier
-- 3 Tassen Karotten, fein gerieben
+- 360 g Karotten, fein gerieben
 - **Für das Frosting:**
-- ½ Packung Butter, weich
-- ½ Packung Puderzucker
-- ½ Packung Frischkäse (z. B. Philadelphia)
+- 125 g Butter, weich
+- 125 g Puderzucker
+- 100 g Frischkäse (z. B. Philadelphia)
 
 ## Zubereitung
 1. Alle trockenen Zutaten (Mehl, Zucker, Natron, Backpulver, Zimt, Vanillezucker) in einer Schüssel vermischen.
@@ -38,23 +38,23 @@ foto: fotos/melanies-carrot-cake.jpg
 7. Für das Frosting Butter und Puderzucker cremig schlagen, dann den Frischkäse unterrühren.
 
 ## Notizen
-Eigenes Rezept von Melanie. Mengenangaben in Tassen und Päckchen wie im Original belassen. Foto: als Muffins gebacken beim Picknick, mit Walnuss obenauf.
+Eigenes Rezept von Melanie. Tassen- und Packungsangaben des Originals in Gramm/Milliliter umgerechnet (Mehl 125 g, Zucker 200 g, Karotten 120 g pro Tasse; Frosting-Mengen geschätzt: ½ Packung Butter ≈ 125 g, Philadelphia ≈ 100 g). Foto: als Muffins gebacken beim Picknick, mit Walnuss obenauf.
 
 ## English
 ### Ingredients
-- 2 cups flour
-- 1½ cups sugar
+- 250 g flour
+- 300 g sugar
 - 1 tsp baking soda
 - 1 tsp baking powder
 - 3 tsp cinnamon
 - 2 packets vanilla sugar
-- 2 cups sunflower oil
+- 480 ml sunflower oil
 - 4 eggs
-- 3 cups carrots, finely grated
+- 360 g carrots, finely grated
 - **For the icing:**
-- ½ packet butter, softened
-- ½ packet powdered sugar
-- ½ packet cream cheese (e.g. Philadelphia)
+- 125 g butter, softened
+- 125 g powdered sugar
+- 100 g cream cheese (e.g. Philadelphia)
 
 ### Instructions
 1. Combine all dry ingredients (flour, sugar, baking soda, baking powder, cinnamon, vanilla sugar) in a bowl.
@@ -66,4 +66,4 @@ Eigenes Rezept von Melanie. Mengenangaben in Tassen und Päckchen wie im Origina
 7. For the icing, blend the softened butter and powdered sugar until creamy, then add the cream cheese.
 
 ### Notes
-Melanie's own recipe. Quantities kept in cups and packets as in the original.
+Melanie's own recipe. Cup and packet quantities of the original converted to grams/millilitres (flour 125 g, sugar 200 g, carrots 120 g per cup; frosting amounts estimated: ½ pack butter ≈ 125 g, Philadelphia ≈ 100 g).
