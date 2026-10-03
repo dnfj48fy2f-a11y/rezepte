@@ -33,7 +33,7 @@ foto: fotos/spargel-ei-salat.jpg
 5. Reichlich Schnittlauch darüberstreuen und servieren — noch lauwarm oder kalt.
 
 ## Notizen
-Aus einem eigenen Foto rekonstruiert (Mengen und Schritte sinngemäß ergänzt). Klassischer Frühlings-Spargelsalat, gut vorzubereiten für Gäste.
+Aus einem eigenen Foto rekonstruiert (Mengen und Schritte sinngemäß ergänzt). Klassischer Frühlings-Spargelsalat, gut vorzubereiten für Gäste. Nur zur Spargelsaison (April–Juni) einplanen. Foto: vivikocht.ch (ähnlicher Spargelsalat mit Ei und Schinken).
 
 ## English
 ### Ingredients
