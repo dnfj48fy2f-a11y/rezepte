@@ -9,7 +9,7 @@ zeit_gesamt: 50 min
 quelle: "Eigene Sammlung (Word: Soups/Kuerbiscremesuppe.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 ---
 
 ## Zutaten
