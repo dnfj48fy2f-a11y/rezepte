@@ -70,7 +70,7 @@ def als_liste(text: str):
     return zeilen
 
 
-def foto_data_uri(foto_pfad: str, name: str):
+def foto_data_uri(foto_pfad: str, name: str, groesse: str = "420"):
     """Verkleinert das Foto (max. 640 px, JPEG) via sips und liefert eine data:-URI.
 
     Artifacts erlauben keine externen Bild-URLs (CSP), daher werden Fotos eingebettet.
@@ -84,7 +84,7 @@ def foto_data_uri(foto_pfad: str, name: str):
     try:
         subprocess.run(
             ["sips", "-s", "format", "jpeg", "-s", "formatOptions", "35",
-             "-Z", "420", str(quelle), "--out", str(tmp_pfad)],
+             "-Z", groesse, str(quelle), "--out", str(tmp_pfad)],
             check=True, capture_output=True)
         daten = tmp_pfad.read_bytes()
     except subprocess.CalledProcessError as e:
@@ -138,6 +138,7 @@ def parse_rezept(pfad: Path):
         "hinzugefuegt": meta.get("hinzugefuegt"),
         "bewertung": bewertung,
         "foto": foto_data_uri(meta["foto"], pfad.name) if meta.get("foto") else None,
+        "anhang": [u for u in (foto_data_uri(a, pfad.name, "900") for a in (meta.get("anhang") or [])) if u],
         "zutaten": als_liste(sec.get("zutaten", "")),
         "zubereitung": als_liste(sec.get("zubereitung", "")),
         "notizen": sec.get("notizen") or None,

@@ -11,6 +11,7 @@ sprache_original: de
 hinzugefuegt: 2026-09-09
 bewertung:
 foto: fotos/fruehstuecksideen-sammlung.jpg
+anhang: [fotos/fruehstuecksideen-sammlung-seite1.png, fotos/fruehstuecksideen-sammlung-seite2.png]
 ---
 
 ## Zutaten

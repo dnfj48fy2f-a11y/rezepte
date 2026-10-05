@@ -204,6 +204,7 @@
     width: 100%; max-height: 340px; object-fit: cover; display: block;
     border-radius: 12px; margin-bottom: 16px;
   }
+  .sheet .anhang { width: 100%; display: block; border: 1px solid var(--line); border-radius: 12px; margin-top: 16px; }
   .sheet .srcline a { color: var(--accent); }
   .metabar {
     display: flex; flex-wrap: wrap; gap: 10px 22px; align-items: center;
@@ -557,6 +558,7 @@
       ${zut.inhalt && zut.inhalt.length ? `<h3 class="sec">${t().zutaten}</h3><ul class="zutaten">${liListe(zut.inhalt)}</ul>` : ""}
       ${zub.inhalt && zub.inhalt.length ? `<h3 class="sec">${t().zubereitung}</h3><ol class="schritte">${zub.inhalt.map(s => `<li>${esc(s)}</li>`).join("")}</ol>` : ""}
       ${not.inhalt ? `<h3 class="sec">${t().notizen}</h3><div class="notiz">${esc(not.inhalt)}</div>` : ""}
+      ${(r.anhang || []).map(a => `<img class="anhang" src="${a}" alt="">`).join("")}
     `;
     $("back").addEventListener("click", schliesse);
     const minus = $("p-minus"), plus = $("p-plus");
