@@ -34,7 +34,7 @@ foto: fotos/marokkanisches-haehnchen-tagine-mit-backpflaumen.jpg
 5. Hähnchen anrichten, mit Mandeln und Sesam bestreuen.
 
 ## Notizen
-Eat-Burn-Sleep-Rezept (526 kcal): 15 Minuten Arbeit, riesiger Wow-Faktor. Dazu Safranreis, Couscous, Quinoa oder Blumenkohlreis. Die Kombination Hähnchen-Backpflaumen gibt es festlich auch als [[haehnchen-mit-maronen-und-backpflaumen]] und [[chicken-marbella]].
+Eat-Burn-Sleep-Rezept (526 kcal): 15 Minuten Arbeit, riesiger Wow-Faktor. Dazu Safranreis, Couscous, Quinoa oder Blumenkohlreis. Die Kombination Hähnchen-Backpflaumen gibt es festlich auch als [[chicken-marbella]].
 
 ## English
 ### Ingredients
