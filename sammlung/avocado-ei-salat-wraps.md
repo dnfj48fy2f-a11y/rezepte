@@ -33,7 +33,7 @@ foto: fotos/avocado-ei-salat-wraps.jpg
 4. Die Masse auf Römersalatblätter geben und als Wraps essen.
 
 ## Notizen
-Instagram-Fund (eatinghealthytoday). Die ersten beiden Schritte (Eier kochen, Avocado zerdrücken) waren im Screenshot abgeschnitten — sinngemäß ergänzt. Der Hüttenkäse macht ihn proteinreich und cremig ohne viel Mayo. Foto: californiaavocado.com (ähnliches Wrap-Konzept, dort mit Radicchio statt Römersalat). Verwandt: [[spinat-avocado-ei-salat]], [[deviled-eggs]].
+Instagram-Fund (eatinghealthytoday). Die ersten beiden Schritte (Eier kochen, Avocado zerdrücken) waren im Screenshot abgeschnitten — sinngemäß ergänzt. Der Hüttenkäse macht ihn proteinreich und cremig ohne viel Mayo. Foto: californiaavocado.com (ähnliches Wrap-Konzept, dort mit Radicchio statt Römersalat). Verwandt: [[deviled-eggs]].
 
 ## English
 ### Ingredients

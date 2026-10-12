@@ -30,7 +30,7 @@ foto: fotos/avocado-egg-salad-toast.jpg
 4. Auf getoastetem Vollkornbrot servieren.
 
 ## Notizen
-Instagram-Fund. Schnelles, sättigendes Frühstück — der Hüttenkäse macht den Salat proteinreicher und cremiger als klassischer Eiersalat mit Mayonnaise. Verwandt: [[avocado-ei-salat-load-it-up]], [[spinat-avocado-ei-salat]].
+Instagram-Fund. Schnelles, sättigendes Frühstück — der Hüttenkäse macht den Salat proteinreicher und cremiger als klassischer Eiersalat mit Mayonnaise. Verwandt: [[avocado-ei-salat-load-it-up]].
 
 ## English
 ### Ingredients
