@@ -10,6 +10,7 @@ quelle: "paleogrubs.com (Rebecca Bohl)"
 sprache_original: en
 hinzugefuegt: 2026-10-12
 bewertung:
+foto: fotos/paleo-zimtschnecken.jpg
 ---
 
 ## Zutaten
@@ -40,7 +41,7 @@ bewertung:
 5. Honig, Kokoscreme und Zimt für die Glasur verrühren. Die goldenen Schnecken aus dem Ofen nehmen, mit der Glasur beträufeln und warm servieren.
 
 ## Notizen
-Ergibt 9–10 kleine Schnecken. Schwierigkeitsgrad laut Quelle: schwer (der Teig ist klebrig). Mengen von Cups umgerechnet (1½ Cups Mandelmehl ≈ 150 g, ¼ Cup Datteln ≈ 40 g, ¼ Cup Walnüsse ≈ 30 g).
+Ergibt 9–10 kleine Schnecken. Schwierigkeitsgrad laut Quelle: schwer (der Teig ist klebrig). Foto: paleogrubs.com (kleines Vorschaubild). Mengen von Cups umgerechnet (1½ Cups Mandelmehl ≈ 150 g, ¼ Cup Datteln ≈ 40 g, ¼ Cup Walnüsse ≈ 30 g).
 
 ## English
 ### Ingredients
