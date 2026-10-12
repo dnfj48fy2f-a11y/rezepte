@@ -523,8 +523,10 @@
     $("overlay").classList.add("open");
     document.body.style.overflow = "hidden";
     $("overlay").scrollTop = 0;
+    try { history.replaceState(null, "", "#" + id); } catch (e) {}
   }
   function schliesse() {
+    try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {}
     $("overlay").classList.remove("open");
     document.body.style.overflow = "";
     offenesRezept = null;
@@ -593,5 +595,12 @@
   $("overlay").addEventListener("click", (e) => { if (e.target === $("overlay")) schliesse(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && offenesRezept) schliesse(); });
 
+  function ausHash() {
+    const id = decodeURIComponent((location.hash || "").replace(/^#/, ""));
+    if (id && DATA.rezepte.some(x => x.id === id)) oeffne(id);
+  }
+  window.addEventListener("hashchange", ausHash);
+
   renderAlles();
+  ausHash();
 </script>
