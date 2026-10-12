@@ -1,6 +1,6 @@
 ---
-titel: Blumenkohl-Chowder
-title_en: Cauliflower Chowder
+titel: Blumenkohl-Suppe
+title_en: Cauliflower Soup
 kategorie: suppe
 tags: [blumenkohl, suppe, schnell, vegetarisch]
 portionen: 4
