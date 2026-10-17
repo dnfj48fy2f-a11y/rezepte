@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Schulplaner Echo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&display=swap">
+<style>
+/* Küchen-Ansicht: beide Kinder nebeneinander, nur lesen. Daten verschlüsselt in data.json. */
+:root{
+  --bg:#eef1f5; --surface:#fff; --line:#d6dce5; --fg:#18202b; --muted:#5b6676;
+  --l-acc:.52; --l-soft:.95; --l-chip-fg:.42; --l-chip-bg:.94; --c-chip:.11;
+  --warn:#b54708; --warn-bg:#fdf0e3; --bad:#b42318; --bad-bg:#fdeceb;
+  --f-display:"Bricolage Grotesque","Avenir Next","Segoe UI",system-ui,sans-serif;
+  --f-body:"Atkinson Hyperlegible",Verdana,system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#11161d; --surface:#1a212b; --line:#2c3644; --fg:#e8edf3; --muted:#9aa6b6;
+  --l-acc:.74; --l-soft:.27; --l-chip-fg:.84; --l-chip-bg:.31; --c-chip:.09;
+  --warn:#f5a35c; --warn-bg:#3a2614; --bad:#ff8a80; --bad-bg:#3b1715; color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:16px;line-height:1.4}
+.wrap{padding:14px max(16px,env(safe-area-inset-left,0px)) 20px max(16px,env(safe-area-inset-right,0px));max-width:1400px;margin:0 auto}
+header{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;margin-bottom:12px}
+h1{font-family:var(--f-display);font-weight:800;font-size:1.5rem;margin:0}
+.sub{color:var(--muted);font-size:.9rem}
+.seg{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:4px}
+.seg button{border:0;background:transparent;border-radius:999px;padding:10px 18px;min-height:44px;font:inherit;font-weight:700;color:var(--muted);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+.kids{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:14px;align-items:start}
+.kid{--acc:oklch(var(--l-acc) .15 var(--h));--soft:oklch(var(--l-soft) .035 var(--h));background:var(--surface);border:1px solid var(--line);border-top:6px solid var(--acc);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.kh{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.kh h2{font-family:var(--f-display);font-weight:800;font-size:1.4rem;margin:0;color:var(--acc)}
+.label{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700}
+.bring{background:var(--soft);border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
+.bring ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px}
+.bring li{background:var(--surface);border-radius:999px;padding:4px 12px;font-weight:700}
+ul.plain{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.les{display:grid;grid-template-columns:4.6rem minmax(0,1fr);gap:10px;align-items:baseline;padding:4px 8px;border-left:5px solid oklch(var(--l-acc) var(--c-chip) var(--fh));border-radius:4px}
+.les .t{font-size:.82rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.les b{font-size:1rem}
+.les .lk{color:var(--muted);font-size:.85rem;margin-left:6px}
+.les.soft{border-left-color:var(--line)}
+.les.pause{border-left-color:transparent;color:var(--muted);font-size:.85rem}
+.row{display:flex;gap:10px;align-items:baseline}
+.time{font-weight:700;font-variant-numeric:tabular-nums;min-width:3.2rem}
+.chip{display:inline-block;border-radius:6px;padding:0 7px;font-size:.78rem;font-weight:700;white-space:nowrap;color:oklch(var(--l-chip-fg) var(--c-chip) var(--fh));background:oklch(var(--l-chip-bg) calc(var(--c-chip)*.45) var(--fh))}
+.hw{display:flex;flex-direction:column;gap:2px;padding:6px 0;border-top:1px solid var(--line)}
+.hw:first-child{border-top:0}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.85rem;color:var(--muted)}
+.over{color:var(--bad);font-weight:700}.soon{color:var(--warn);font-weight:700}
+.ex{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:center;padding:6px 0;border-top:1px solid var(--line)}
+.ex:first-child{border-top:0}
+.cnt{min-width:52px;text-align:center;border-radius:8px;padding:4px 6px;background:var(--soft);line-height:1}
+.cnt b{display:block;font-family:var(--f-display);font-size:1.4rem;font-variant-numeric:tabular-nums}
+.cnt small{font-size:.65rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:700}
+.cnt.hot{background:var(--warn-bg)}.cnt.hot b{color:var(--warn)}
+.step{font-size:.88rem}
+.note{font-size:.88rem;border-radius:8px;padding:6px 10px;background:var(--bad-bg);color:var(--bad);font-weight:700}
+.empty{color:var(--muted);font-size:.9rem}
+.lock{max-width:420px;margin:12vh auto;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:24px;display:flex;flex-direction:column;gap:14px}
+.lock input{font:inherit;font-size:1.3rem;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg);width:100%}
+.lock button,.btn{font:inherit;font-weight:700;border:0;border-radius:10px;min-height:48px;padding:10px 16px;background:var(--fg);color:var(--bg);cursor:pointer}
+.err{color:var(--bad);font-weight:700;min-height:1.2em}
+footer{margin-top:14px;display:flex;justify-content:space-between;gap:10px;color:var(--muted);font-size:.8rem;flex-wrap:wrap}
+footer button{background:none;border:0;color:var(--muted);text-decoration:underline;font:inherit;cursor:pointer;min-height:36px}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap" id="app"><p class="empty">Lädt …</p></div>
+<script>
+(function(){
+var WT=['so','mo','di','mi','do','fr','sa'];
+var WTL={mo:'Montag',di:'Dienstag',mi:'Mittwoch',do:'Donnerstag',fr:'Freitag',sa:'Samstag',so:'Sonntag'};
+var WTS={mo:'Mo',di:'Di',mi:'Mi',do:'Do',fr:'Fr',sa:'Sa',so:'So'};
+var HUE={Deutsch:25,Mathe:255,Englisch:80,'Französisch':300,NuT:150,Geschichte:55,Geographie:190,Religion:275,Musik:335,Kunst:10,Sport:130,Schwimmen:215};
+var KEY='sp-echo-pin';
+var app=document.getElementById('app');
+var D=null, sel='auto', cachedKey=null, cachedSalt=null;
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function ymd(d){return d.getFullYear()+'-'+('0'+(d.getMonth()+1)).slice(-2)+'-'+('0'+d.getDate()).slice(-2)}
+function parse(s){var p=s.split('-');return new Date(+p[0],p[1]-1,+p[2])}
+function add(d,n){var x=new Date(d.getFullYear(),d.getMonth(),d.getDate());x.setDate(x.getDate()+n);return x}
+function school(d){return d.getDay()>=1&&d.getDay()<=5}
+function nextSchool(d){var x=add(d,1);while(!school(x))x=add(x,1);return x}
+function diff(a,b){return Math.round((parse(b)-parse(a))/864e5)}
+function wk(d){return WT[d.getDay()]}
+function short(s){var d=parse(s);return WTS[wk(d)]+' '+d.getDate()+'.'+(d.getMonth()+1)+'.'}
+function hue(f){return HUE[f]!=null?HUE[f]:220}
+function chip(f){return '<span class="chip" style="--fh:'+hue(f)+'">'+esc(f)+'</span>'}
+function b64(s){var b=atob(s),a=new Uint8Array(b.length);for(var i=0;i<b.length;i++)a[i]=b.charCodeAt(i);return a}
+function getPin(){try{return localStorage.getItem(KEY)}catch(e){return null}}
+function setPin(p){try{p?localStorage.setItem(KEY,p):localStorage.removeItem(KEY)}catch(e){}}
+
+function today(){var n=new Date();return new Date(n.getFullYear(),n.getMonth(),n.getDate())}
+function autoDay(){var n=new Date();if(!school(n)||n.getHours()>=15)return nextSchool(n);return today()}
+function viewDay(){if(sel==='heute')return school(new Date())?today():nextSchool(new Date());if(sel==='morgen')return nextSchool(school(new Date())?new Date():add(new Date(),-1));return autoDay()}
+
+async function decrypt(pin,blob){
+  if(!cachedKey||cachedSalt!==blob.salt+pin){
+    var base=await crypto.subtle.importKey('raw',new TextEncoder().encode(pin),'PBKDF2',false,['deriveKey']);
+    cachedKey=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b64(blob.salt),iterations:blob.iter,hash:'SHA-256'},base,{name:'AES-GCM',length:256},false,['decrypt']);
+    cachedSalt=blob.salt+pin;
+  }
+  var pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:b64(blob.iv)},cachedKey,b64(blob.ct));
+  return JSON.parse(new TextDecoder().decode(pt));
+}
+async function load(){
+  var r=await fetch('data.json?t='+Date.now(),{cache:'no-store'});
+  if(!r.ok)throw new Error('http');
+  return r.json();
+}
+
+function lockScreen(msg){
+  app.innerHTML='<form class="lock" id="lf"><h1>Schulplaner</h1><label for="pin">PIN eingeben</label><input id="pin" type="password" autocomplete="off" required><div class="err">'+esc(msg||'')+'</div><button type="submit">Öffnen</button><span class="sub">Die PIN wird auf diesem Gerät gespeichert.</span></form>';
+  document.getElementById('lf').onsubmit=async function(e){e.preventDefault();var p=document.getElementById('pin').value;try{var blob=await load();D=await decrypt(p,blob);setPin(p);render()}catch(err){lockScreen(err&&err.message==='http'?'Daten nicht erreichbar. Bitte später erneut versuchen.':'PIN falsch.')}};
+  setTimeout(function(){var i=document.getElementById('pin');if(i)i.focus()},50);
+}
+
+function kidCol(id){
+  var k=D.kinder[id];if(!k)return'';
+  var d=viewDay(),key=wk(d),ds=ymd(d),t=ymd(new Date());
+  var lessons=(k.plan[key]||[]).slice().sort(function(a,b){return a.nr-b.nr});
+  var bl=[];lessons.forEach(function(l){var p=bl[bl.length-1];if(p&&p.fach===l.fach&&p.art===l.art&&p.bis===l.nr-1)p.bis=l.nr;else bl.push({fach:l.fach,art:l.art,lehrkraft:l.lehrkraft,notiz:l.notiz,von:l.nr,bis:l.nr})});
+  var R={};(D.raster.stunden||[]).forEach(function(s){R[s.nr]=s});
+  var les=bl.map(function(b){var v=(R[b.von]||{}).von||'',e=(R[b.bis]||{}).bis||'';
+    if(b.art==='pause')return'<li class="les pause"><span class="t">'+esc(v)+'</span><span>'+esc(b.fach)+'</span></li>';
+    return'<li class="les'+(b.art!=='unterricht'?' soft':'')+'" style="--fh:'+hue(b.fach)+'"><span class="t">'+esc(v)+'–'+esc(e)+'</span><span><b>'+esc(b.fach)+'</b>'+(b.notiz?'<span class="lk">'+esc(b.notiz)+'</span>':'')+'</span></li>'}).join('');
+  var br=(k.mitbringen&&k.mitbringen[key])||[];
+  var af=(k.nachmittag&&k.nachmittag[key])||[];
+  var hw=D.aufgaben.filter(function(a){return a.kind===id&&!a.erledigt}).sort(function(a,b){return a.faellig<b.faellig?-1:1});
+  var ex=D.pruefungen.filter(function(p){return p.kind===id&&p.datum>=t&&diff(t,p.datum)<=14}).sort(function(a,b){return a.datum<b.datum?-1:1});
+  var exToday=D.pruefungen.filter(function(p){return p.kind===id&&p.datum===ds});
+  return '<section class="kid" style="--h:'+(k.farbe||230)+'"><div class="kh"><h2>'+esc(k.name)+'</h2><span class="sub">'+esc(k.klasse)+'</span></div>'
+   +exToday.map(function(p){return'<div class="note">'+esc(p.art)+' '+esc(p.fach)+'</div>'}).join('')
+   +'<div class="bring"><span class="label">Mitbringen</span>'+(br.length?'<ul>'+br.map(function(x){return'<li>'+esc(x)+'</li>'}).join('')+'</ul>':'<span class="sub">Nur die normale Schultasche.</span>')+'</div>'
+   +'<div><span class="label">Stunden</span><ul class="plain">'+(les||'<li class="empty">Kein Unterricht.</li>')+'</ul></div>'
+   +'<div><span class="label">Nachmittag</span>'+(af.length?'<ul class="plain">'+af.map(function(a){return'<li class="row"><span class="time">'+esc(a.zeit)+'</span><span>'+esc(a.was)+'</span></li>'}).join('')+'</ul>':'<p class="empty" style="margin:2px 0 0">frei</p>')+'</div>'
+   +'<div><span class="label">Hausaufgaben</span>'+(hw.length?'<ul class="plain">'+hw.map(function(a){var n=diff(t,a.faellig);var due=n<0?'<span class="over">überfällig</span>':n===0?'<span class="soon">heute</span>':n===1?'<span class="soon">morgen</span>':'bis '+short(a.faellig);return'<li class="hw"><span>'+esc(a.text)+'</span><span class="meta" style="--fh:'+hue(a.fach)+'">'+chip(a.fach)+due+'</span></li>'}).join('')+'</ul>':'<p class="empty" style="margin:2px 0 0">Nichts offen.</p>')+'</div>'
+   +'<div><span class="label">Prüfungen (14 Tage)</span>'+(ex.length?'<ul class="plain">'+ex.map(function(p){var n=diff(t,p.datum);var st=(p.schritte||[]);var heute=st.filter(function(s){return s.datum===t&&!s.erledigt});var late=st.filter(function(s){return s.datum<t&&!s.erledigt}).length;
+      return'<li class="ex"><div class="cnt'+(n<=3?' hot':'')+'"><b>'+(n===0?'!':n)+'</b><small>'+(n===0?'heute':n===1?'Tag':'Tage')+'</small></div><div><b>'+esc(p.art)+' '+esc(p.fach)+'</b> <span class="sub">'+short(p.datum)+'</span>'
+      +heute.map(function(s){return'<div class="step">Heute lernen: '+esc(s.text)+'</div>'}).join('')+(late?'<div class="step over">'+late+' Lernschritt'+(late>1?'e':'')+' hinterher</div>':'')+(!st.length&&n<=14?'<div class="step sub">noch kein Lernplan</div>':'')+'</div></li>'}).join('')+'</ul>':'<p class="empty" style="margin:2px 0 0">Keine.</p>')+'</div>'
+   +'</section>';
+}
+
+function render(){
+  if(!D)return;
+  var d=viewDay(),ds=ymd(d),t=ymd(new Date());
+  var lbl=ds===t?'Heute, ':diff(t,ds)===1?'Morgen, ':'';
+  var n=new Date();
+  app.innerHTML='<header><div><h1>'+lbl+WTL[wk(d)]+' '+d.getDate()+'.'+(d.getMonth()+1)+'.</h1><span class="sub">'+WTL[wk(n)]+', '+n.toLocaleDateString('de-DE')+'</span></div>'
+   +'<div class="seg"><button data-s="auto" aria-pressed="'+(sel==='auto')+'">Automatisch</button><button data-s="heute" aria-pressed="'+(sel==='heute')+'">Heute</button><button data-s="morgen" aria-pressed="'+(sel==='morgen')+'">Morgen</button></div></header>'
+   +'<div class="kids">'+Object.keys(D.kinder).map(kidCol).join('')+'</div>'
+   +'<footer><span>Stand: '+esc(D.stand)+' · Abhaken und Eintragen auf iPad oder Handy</span><button id="lockbtn">PIN ändern</button></footer>';
+  Array.prototype.forEach.call(app.querySelectorAll('[data-s]'),function(b){b.onclick=function(){sel=b.getAttribute('data-s');render()}});
+  document.getElementById('lockbtn').onclick=function(){setPin(null);D=null;lockScreen()};
+}
+
+async function refresh(){
+  var p=getPin();if(!p){lockScreen();return}
+  try{var blob=await load();D=await decrypt(p,blob);render()}
+  catch(err){if(err&&err.message==='http'){if(!D)app.innerHTML='<p class="empty">Daten nicht erreichbar. Neuer Versuch in Kürze …</p>'}else{setPin(null);lockScreen('Die PIN hat sich geändert. Bitte neu eingeben.')}}
+}
+if(!window.crypto||!crypto.subtle){app.innerHTML='<p class="empty">Dieser Browser unterstützt die Entschlüsselung nicht.</p>'}
+else{refresh();setInterval(refresh,10*60*1000);setInterval(function(){if(D)render()},60*1000);setTimeout(function(){location.reload()},6*3600*1000)}
+})();
+</script>
+</body>
+</html>
