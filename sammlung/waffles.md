@@ -1,0 +1,43 @@
+---
+titel: Waffles
+title_en: Waffles
+kategorie: fruehstueck
+tags: [thermomix, fruehstueck, schnell]
+portionen: 4
+zeit_aktiv: 5 min
+zeit_gesamt: 25 min
+quelle: "https://cookidoo.de/recipes/recipe/de-DE/r214846"
+sprache_original: en
+hinzugefuegt: 2026-10-18
+bewertung:
+foto: fotos/waffles.jpg
+---
+
+## Zutaten
+
+## Zubereitung
+
+## Notizen
+Cookidoo-Rezept für den Thermomix (ID r214846), ca. 481.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+
+## English
+### Ingredients
+- 3 large eggs
+- 1 tsp sugar
+- 85 g unsalted butter
+- 225 g plain flour
+- 285 g whole milk
+- 1 tsp baking powder
+- 1 tsp fine sea salt
+- 1 tsp natural vanilla extract
+
+### Instructions
+1. Preheat waffle maker.
+2. Insert butterfly whisk. Place egg whites (see tip) and sugar in mixing bowl then whisk 2 min/speed 4 until stiff peaks form. Remove butterfly whisk. Transfer to a bowl and set aside.
+3. Place butter in mixing bowl and melt 2 min/70°C/speed 1.
+4. Add flour, milk, baking powder, salt, vanilla and egg yolks then mix 10 sec/speed 5.
+5. Fold whisked egg whites into batter with spatula.
+6. Cook waffles according to waffle maker instructions and serve hot with toppings of choice (see tips).
+
+### Notes
+Cookidoo recipe for the Thermomix (ID r214846), approx. 481.2 kcal per serving. From my Cookidoo lists: Breakfast. Times and speeds are in the steps; Thermomix symbols (reverse, etc.) may not show in plain text — check the Cookidoo original if in doubt.

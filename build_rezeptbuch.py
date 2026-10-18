@@ -37,6 +37,8 @@ def parse_frontmatter(text: str):
         elif wert.startswith("[") and wert.endswith("]"):
             meta[key] = [t.strip() for t in wert[1:-1].split(",") if t.strip()]
         else:
+            if len(wert) > 1 and wert[0] == wert[-1] and wert[0] in "\"'":
+                wert = wert[1:-1].replace('\\"', '"')
             meta[key] = wert
     return meta, m.group(2)
 
@@ -70,7 +72,7 @@ def als_liste(text: str):
     return zeilen
 
 
-def foto_data_uri(foto_pfad: str, name: str, groesse: str = "420"):
+def foto_data_uri(foto_pfad: str, name: str, groesse: str = "360"):
     """Verkleinert das Foto (max. 640 px, JPEG) via sips und liefert eine data:-URI.
 
     Artifacts erlauben keine externen Bild-URLs (CSP), daher werden Fotos eingebettet.
@@ -83,7 +85,7 @@ def foto_data_uri(foto_pfad: str, name: str, groesse: str = "420"):
         tmp_pfad = Path(tmp.name)
     try:
         subprocess.run(
-            ["sips", "-s", "format", "jpeg", "-s", "formatOptions", "35",
+            ["sips", "-s", "format", "jpeg", "-s", "formatOptions", "30",
              "-Z", groesse, str(quelle), "--out", str(tmp_pfad)],
             check=True, capture_output=True)
         daten = tmp_pfad.read_bytes()
