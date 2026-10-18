@@ -262,6 +262,7 @@
     <div class="chips" id="sternchips"></div>
     <div class="chips" id="zeitchips"></div>
     <div class="chips" id="gaestechips"></div>
+    <div class="chips" id="tmchips"></div>
   </div>
 </header>
 
@@ -321,6 +322,7 @@
   let aktSterne = 0;
   let aktZeit = 0;
   let aktGaeste = false;
+  let aktTM = false;
   let suchbegriff = "";
   let offenesRezept = null;
   let faktor = 1;
@@ -397,6 +399,7 @@
     if (aktSterne > 0 && (r.bewertung || 0) < aktSterne) return false;
     if (aktZeit > 0 && zeitBucket(zeitMinuten(r.zeit_gesamt)) !== aktZeit) return false;
     if (aktGaeste && !(r.tags || []).includes("gaeste")) return false;
+    if (aktTM && !(r.tags || []).includes("thermomix")) return false;
     if (!suchbegriff) return true;
     const heu = [r.titel, r.title_en, (r.tags || []).join(" "),
                  (r.zutaten || []).join(" "), ((r.en || {}).zutaten || []).join(" ")].map(norm).join(" ");
@@ -449,6 +452,16 @@
     $("zeitchips").innerHTML = html;
     $("zeitchips").querySelectorAll(".chip").forEach(b =>
       b.addEventListener("click", () => { aktZeit = Number(b.dataset.z); renderZeitChips(); renderGrid(); }));
+  }
+
+  function renderTMChips() {
+    const anzahl = DATA.rezepte.filter(r => (r.tags || []).includes("thermomix")).length;
+    if (!anzahl) { $("tmchips").innerHTML = ""; return; }
+    let html = `<button class="chip ${aktTM ? "" : "active"}" data-g="0">${t().alle}</button>`;
+    html += `<button class="chip ${aktTM ? "active" : ""}" data-g="1">🥣 Thermomix <span class="n">${anzahl}</span></button>`;
+    $("tmchips").innerHTML = html;
+    $("tmchips").querySelectorAll(".chip").forEach(b =>
+      b.addEventListener("click", () => { aktTM = b.dataset.g === "1"; renderTMChips(); renderGrid(); }));
   }
 
   function renderGaesteChips() {
@@ -582,7 +595,7 @@
     $("foot").textContent = d
       ? `${DATA.rezepte.length} ${DATA.rezepte.length === 1 ? t().rezept1 : t().rezepte} · ${t().stand}: ${d.toLocaleDateString(lang === "de" ? "de-DE" : "en-GB")}`
       : "";
-    renderChips(); renderSternChips(); renderZeitChips(); renderGaesteChips(); renderPlan(); renderGrid();
+    renderChips(); renderSternChips(); renderZeitChips(); renderGaesteChips(); renderTMChips(); renderPlan(); renderGrid();
     if (offenesRezept) renderSheet();
   }
 
