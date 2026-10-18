@@ -1,5 +1,5 @@
 ---
-titel: Lemon Drizzle Cake
+titel: Lemon Drizzle Cake (Thermomix)
 title_en: Lemon Drizzle Cake
 kategorie: backen
 tags: [thermomix, kuchen]
@@ -14,11 +14,25 @@ foto: fotos/lemon-drizzle-cake-thermomix.jpg
 ---
 
 ## Zutaten
+- 2 Zitronen
+- 300 g Feinzucker
+- 175 g Butter, ungesalzen
+- 3 große Eier
+- 175 g Mehl mit Backtriebmittel (Self-Raising Flour)
+- 20 g Milch
 
 ## Zubereitung
+1. Backofen auf 180 °C vorheizen und eine Kastenform (900 g/2 lb) mit Backpapier auslegen.
+2. Zitronenschale und 50 g Zucker in den Mixtopf geben und 10 Sek./Stufe 10 reiben. Mit dem Spatel nach unten schieben und nochmals 10 Sek./Stufe 10 reiben. Mit dem Spatel nach unten schieben.
+3. 125 g Zucker, Butter und Eier zugeben und 20 Sek./Stufe 5 vermischen.
+4. Mehl und Milch zugeben und 15 Sek./Stufe 5 vermischen. Mit dem Spatel nach unten schieben und nochmals 15 Sek./Stufe 5 mischen. Den Teig in die vorbereitete Form füllen und 45–50 Minuten bei 180 °C backen, bis ein Holzspieß in der Mitte sauber herauskommt. In der Zwischenzeit den Mixtopf reinigen.
+5. Den Kuchen 10 Minuten in der Form ruhen lassen, während der Zitronenguss zubereitet wird.
+6. Die restlichen 125 g Zucker und den Zitronensaft in den Mixtopf geben und 8 Sek./Stufe 8 mahlen.
+7. Den noch warmen Kuchen mit einem Holzspieß tief einstechen. Aus der Form lösen, auf einen Teller geben und die Glasur darübergießen, sodass sie einzieht und an den Seiten herunterläuft.
+8. Vollständig abkühlen lassen, dann in Scheiben schneiden und servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r106037), ca. 344 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r106037), ca. 344 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Buttercream icing
+titel: Buttercreme (Zuckerguss)
 title_en: Buttercream icing
 kategorie: grundrezept
 tags: [thermomix, kuchen, schnell]
@@ -14,11 +14,18 @@ foto: fotos/buttercream-icing.jpg
 ---
 
 ## Zutaten
+- 400 g Puderzucker
+- 200 g Butter, ungesalzen
+- 15 g Milch
+- Vanilleextrakt
 
 ## Zubereitung
+1. Puderzucker, Butter, Milch und Vanilleextrakt in den Mixtopf geben und 1 Min./Stufe 4 cremig rühren. Mit dem Spatel nach unten schieben.
+2. Weitere 20 Sek./Stufe 4 mischen.
+3. Rühraufsatz einsetzen und 1 Min./Stufe 3 aufschlagen. Rühraufsatz entfernen und die Buttercreme nach Bedarf verwenden.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r35096), ca. 778 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r35096), ca. 778 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

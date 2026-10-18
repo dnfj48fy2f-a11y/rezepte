@@ -1,5 +1,5 @@
 ---
-titel: Waffles
+titel: "Waffeln (Cookidoo-Version, englisch)"
 title_en: Waffles
 kategorie: fruehstueck
 tags: [thermomix, fruehstueck, schnell]
@@ -14,11 +14,25 @@ foto: fotos/waffles.jpg
 ---
 
 ## Zutaten
+- 3 große Eier
+- 1 TL Zucker
+- 85 g Butter, ungesalzen
+- 225 g Weizenmehl
+- 285 g Vollmilch
+- 1 TL Backpulver
+- 1 TL feines Meersalz
+- 1 TL natürlicher Vanilleextrakt
 
 ## Zubereitung
+1. Waffeleisen vorheizen.
+2. Rühraufsatz einsetzen. Eiweiß (die Eier trennen) und Zucker in den Mixtopf geben und 2 Min./Stufe 4 zu steifem Schnee aufschlagen. Rühraufsatz entfernen. In eine Schüssel umfüllen und beiseitestellen.
+3. Butter in den Mixtopf geben und 2 Min./70 °C/Stufe 1 schmelzen.
+4. Mehl, Milch, Backpulver, Salz, Vanille und Eigelb zugeben und 10 Sek./Stufe 5 vermischen.
+5. Den Eischnee mit dem Spatel unter den Teig heben.
+6. Die Waffeln nach Anleitung des Waffeleisens backen und heiß mit Toppings nach Wahl servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r214846), ca. 481.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r214846), ca. 481.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

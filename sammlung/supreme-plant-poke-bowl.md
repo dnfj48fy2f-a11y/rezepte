@@ -14,11 +14,35 @@ foto: fotos/supreme-plant-poke-bowl.jpg
 ---
 
 ## Zutaten
+- 100 g Edamame
+- 1½ EL geröstetes Sesamöl
+- 3 EL Sojasauce
+- 1 Knoblauchzehe
+- ¼ TL Chiliflocken
+- 1 Limette
+- 1 TL Honig
+- 1000 g Wasser
+- 100 g Quinoa
+- ½ TL feines Meersalz
+- 450 g Butternusskürbis
+- 100 g Pak Choi
+- Öl
+- 10 Kirschtomaten
+- 1 Avocado
+- 2 Frühlingszwiebeln
 
 ## Zubereitung
+1. **Marinierte Edamame:** Die Edamame nach Packungsanweisung garen. Abkühlen lassen und dann die Marinade zubereiten.
+2. Sesamöl, Sojasauce und Knoblauch in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern.
+3. Chiliflocken, Limettensaft und Honig zugeben und 20 Sek./Stufe 4 vermischen. In eine große Schüssel umfüllen, die abgekühlten Edamame zugeben und in der Marinade wenden. Beiseitestellen und das Gemüse zubereiten.
+4. **Quinoa und Gemüse:** Wasser in den Mixtopf geben. Den Gareinsatz einsetzen und Quinoa und Salz einwiegen.
+5. Den Varoma-Behälter aufsetzen und den Butternusskürbis einwiegen. Varoma abdecken und 20 Sek./Stufe 4 spülen, dann 20 Min./Varoma/Stufe 2 dämpfen.
+6. Den Varoma-Deckel vorsichtig abnehmen, den Einlegeboden einsetzen und den Pak Choi einwiegen, abdecken und 7 Min./Varoma/Stufe 2 dämpfen. Den Pak Choi in die große Schüssel geben und in der Marinade wenden. Varoma-Behälter beiseitestellen.
+7. Den Gareinsatz mithilfe des Spatels entnehmen und die gegarte Quinoa auf 4 Schalen verteilen. 20 Minuten abkühlen lassen, dabei gelegentlich umrühren. In der Zwischenzeit Öl in einer Pfanne bei hoher Hitze erhitzen. Den gedämpften Butternusskürbis anbraten, bis er außen leicht knusprig ist, dabei regelmäßig wenden, damit er nicht verbrennt (ca. 10 Minuten).
+8. Gebratenen Kürbis, Pak Choi, Avocado, Kirschtomaten und gehackte Frühlingszwiebeln auf die Schalen verteilen. Mit den marinierten Edamame und der Marinade belegen und servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r149193), ca. 226 kcal pro Portion. Aus meinen Cookidoo-Listen: Vegetarian. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r149193), ca. 226 kcal pro Portion. Aus meinen Cookidoo-Listen: Vegetarian. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

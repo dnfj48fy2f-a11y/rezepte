@@ -1,5 +1,5 @@
 ---
-titel: "Sea Bass with Lemon & Herb Couscous"
+titel: Wolfsbarsch mit Zitronen-Kräuter-Couscous
 title_en: "Sea Bass with Lemon & Herb Couscous"
 kategorie: hauptgericht
 tags: [thermomix, fisch]
@@ -14,11 +14,30 @@ foto: fotos/sea-bass-with-lemon-herb-couscous.jpg
 ---
 
 ## Zutaten
+- 1 Knoblauchzehe
+- 25 g Frühlingszwiebeln
+- 5 g frische Petersilie
+- 5 g frische Minze
+- 1½ Zitronen
+- 100 g Couscous
+- 120 g Wasser
+- 100 g Kirschtomaten
+- 2 Prisen feines Meersalz
+- 2 Prisen schwarzer Pfeffer, gemahlen
+- 2 Wolfsbarschfilets
+- ½ TL Olivenöl
+- 1000 g Wasser
+- 150 g Stangenbrokkoli (Brokkolini)
 
 ## Zubereitung
+1. Knoblauch, Frühlingszwiebel, Petersilie, Minze und Zitronenschale in den Mixtopf geben und 5 Sek./Stufe 8 zerkleinern. Mit dem Spatel nach unten schieben und nochmals 3 Sek./Stufe 8 zerkleinern. Mit dem Spatel nach unten schieben.
+2. Couscous und kochendes Wasser zugeben und 2 Min./Linkslauf/Sanftrührstufe vermischen.
+3. Tomaten, Salz und Pfeffer zugeben und gut mit dem Spatel vermengen.
+4. 2 Bögen Backpapier (ca. 40 cm lang) zuschneiden und den Couscous darauf verteilen. Auf jeden ein Wolfsbarschfilet legen, mit Olivenöl beträufeln, mit einer Prise Salz und Pfeffer würzen und je 3 Zitronenscheiben darauflegen. Das Papier zu einem Päckchen zusammenfalten, dabei Platz für den Dampf lassen, und in den Varoma-Behälter legen.
+5. Wasser in den Mixtopf geben. Den Varoma-Behälter aufsetzen und den Einlegeboden einsetzen. Den Brokkoli in den Einlegeboden einwiegen, abdecken und 20 Min./Varoma/Stufe 2 dämpfen. Fisch und Couscous im Päckchen mit dem Brokkoli als Beilage servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r84137), ca. 308 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r84137), ca. 308 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

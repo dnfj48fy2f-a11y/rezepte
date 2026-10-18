@@ -1,5 +1,5 @@
 ---
-titel: Intense Chocolate Muffins (No Added Sugar)
+titel: Intensive Schoko-Muffins (ohne Zuckerzusatz)
 title_en: Intense Chocolate Muffins (No Added Sugar)
 kategorie: backen
 tags: [thermomix, kuchen]
@@ -14,11 +14,23 @@ foto: fotos/intense-chocolate-muffins-no-added-sugar.jpg
 ---
 
 ## Zutaten
+- 110 g Weizenmehl
+- 50 g Kakaopulver
+- 100 g Butter, ungesalzen
+- 150 g Medjool-Datteln
+- 135 g Naturjoghurt
+- 1 TL Backpulver
+- 2 mittelgroße Eier
+- 1 Banane
 
 ## Zubereitung
+1. Backofen auf 180 °C vorheizen und ein 12er-Muffinblech mit Papierförmchen auslegen.
+2. Mehl, Kakao, Butter, Datteln, Joghurt, Backpulver, Eier und Banane in den Mixtopf geben und 20 Sek./Stufe 8 vermischen. Mit dem Spatel nach unten schieben und nochmals 10 Sek./Stufe 8 mischen.
+3. Nach Belieben je 1 Himbeere in jedes Muffinförmchen legen, dann den Teig gleichmäßig auf die 12 Förmchen verteilen.
+4. 15–20 Minuten bei 180 °C backen, bis ein Holzspieß in der Mitte sauber herauskommt. Die Muffins 5 Minuten im Blech ruhen lassen, dann auf einem Gitter vollständig abkühlen lassen. Abgekühlt servieren oder bis zur Verwendung luftdicht aufbewahren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r269319), ca. 175 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r269319), ca. 175 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

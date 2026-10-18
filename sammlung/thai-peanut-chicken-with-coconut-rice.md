@@ -1,5 +1,5 @@
 ---
-titel: Thai Peanut Chicken with Coconut Rice
+titel: Thai-Erdnuss-Hähnchen mit Kokosreis
 title_en: Thai Peanut Chicken with Coconut Rice
 kategorie: hauptgericht
 tags: [thermomix, haehnchen]
@@ -14,11 +14,39 @@ foto: fotos/thai-peanut-chicken-with-coconut-rice.jpg
 ---
 
 ## Zutaten
+- 3 Knoblauchzehen
+- 30 g frischer Ingwer
+- 40 g Olivenöl
+- 400 g Kokosmilch
+- 160 g Erdnussbutter
+- 80 g helle Sojasauce
+- 80 g Orangensaft
+- 80 g dunkelbrauner Zucker
+- 1–2 EL Sriracha-Sauce
+- 10 g Sesamöl
+- 600 g Wasser
+- 350 g Basmatireis
+- 400 g Kokosmilch
+- 20 g Kokosraspel
+- 600 g Hähnchenschenkel, ohne Haut und Knochen
+- 200 g frischer Baby-Mais
+- 200 g Zuckerschoten
+- Erdnüsse, ungesalzen
+- frische Korianderblätter
 
 ## Zubereitung
+1. **Erdnusssauce:** Knoblauch, Ingwer und Olivenöl in den Mixtopf geben und 3 Sek./Stufe 8 zerkleinern. Mit dem Spatel nach unten schieben, nochmals 3 Sek./Stufe 8 zerkleinern, wieder nach unten schieben, dann 2 Min./120 °C/Stufe 1 dünsten.
+2. Kokosmilch, Erdnussbutter, Sojasauce, Orangensaft, Zucker, Sesamöl und Sriracha zugeben und 5 Min./120 °C/Stufe 1 garen. In einen Krug umfüllen und abdecken, damit sie warm bleibt. Mixtopf ausspülen.
+3. **Hähnchen, Reis und Gemüse:** Wasser und Kokosmilch in den Mixtopf geben. Den Gareinsatz einsetzen und Reis und Kokosraspel einwiegen. 10 Sek./Stufe 5 spülen.
+4. Den Varoma-Behälter aufsetzen und das Hähnchen einwiegen, dabei einige Löcher für den Dampf frei lassen. Varoma abdecken und 20 Min./100 °C/Stufe 4 garen.
+5. Den abgedeckten Varoma beiseitestellen und den Gareinsatz mithilfe des Spatels entnehmen. Den gekochten Reis in eine große Schüssel geben und abdecken, damit er warm bleibt.
+6. Den Varoma-Deckel abnehmen und das Hähnchen mit dem Spatel umrühren, damit es gleichmäßig gart.
+7. Den Einlegeboden einsetzen, den Varoma wieder aufsetzen und den Baby-Mais einwiegen. Varoma abdecken und 5 Min./Varoma/Stufe 2 garen. Den abgedeckten Varoma beiseitestellen und den Mixtopf leeren.
+8. Die beiseitegestellte Erdnusssauce, das gedämpfte Hähnchen, den gegarten Baby-Mais und die Zuckerschoten in den Mixtopf geben und 10 Min./110 °C/Linkslauf/Sanftrührstufe garen.
+9. Den Kokosreis auf Schalen verteilen, das Erdnuss-Hähnchen darüber geben und mit gehackten Erdnüssen und Koriander garnieren. Sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r300140), ca. 969.3 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r300140), ca. 969.3 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

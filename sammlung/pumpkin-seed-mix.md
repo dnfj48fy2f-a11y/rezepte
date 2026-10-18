@@ -1,5 +1,5 @@
 ---
-titel: Pumpkin seed mix
+titel: "Kürbiskern-Mix (geröstet, gewürzt)"
 title_en: Pumpkin seed mix
 kategorie: snack
 tags: [thermomix]
@@ -14,11 +14,21 @@ foto: fotos/pumpkin-seed-mix.jpg
 ---
 
 ## Zutaten
+- 1 Kürbis
+- 500 g Wasser
+- 100 g gemischte Nüsse
+- 20 g Tamari
+- 20 g natives Olivenöl extra
+- 2 TL Ras el Hanout
 
 ## Zubereitung
+1. **Geröstete Kürbiskerne:** Backofen auf 180 °C vorheizen. Ein Backblech auslegen und beiseitestellen.
+2. Um die Kürbiskerne vom Fruchtfleisch zu trennen, Kerne und Wasser in den Mixtopf geben und 10 Sek./Linkslauf/Stufe 4 mixen. Mit dem Gareinsatz abseihen, das Fruchtfleisch wegwerfen und die Kerne sanft schütteln, um überschüssiges Wasser zu entfernen. Die Kerne in einer Schicht auf dem vorbereiteten Blech verteilen und 10 Minuten bei 180 °C rösten, bis sie trocken und knusprig sind. 100 g der gerösteten Kürbiskerne für den Kürbiskern-Mix beiseitestellen. Die übrigen Kerne vollständig abkühlen lassen und bis zur Verwendung luftdicht aufbewahren.
+3. **Kürbiskern-Mix:** Ein Backblech auslegen und beiseitestellen. Ofen auf 160 °C herunterschalten.
+4. 100 g der gerösteten Kürbiskerne und die restlichen Zutaten des Mixes in den Mixtopf geben und 20 Sek./Linkslauf/Stufe 1 vermischen. Auf dem vorbereiteten Blech verteilen und 15 Minuten bei 160 °C goldbraun und knusprig rösten. Auf dem Blech abkühlen lassen, dann bis zum Servieren luftdicht aufbewahren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r718795), ca. 1401.9 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r718795), ca. 1401.9 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

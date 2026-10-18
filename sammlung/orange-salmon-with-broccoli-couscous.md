@@ -1,5 +1,5 @@
 ---
-titel: Orange Salmon with Broccoli Couscous
+titel: Orangenlachs mit Brokkoli-Couscous
 title_en: Orange Salmon with Broccoli Couscous
 kategorie: hauptgericht
 tags: [thermomix, fisch, schnell]
@@ -14,11 +14,34 @@ foto: fotos/orange-salmon-with-broccoli-couscous.jpg
 ---
 
 ## Zutaten
+- 5 g frischer Ingwer
+- 40 g Sojasauce
+- ½ Orange
+- 2 Knoblauchzehen
+- 1 frisches Lachsfilet, ohne Haut
+- 5 Zweige frischer Thymian
+- ½ Orange
+- 550 g Brokkoliröschen
+- 10 g Butter, ungesalzen
+- 20 g Olivenöl
+- 1 Knoblauchzehe
+- 1 TL Paprikapulver
+- ½ TL feines Meersalz
+- 1 Prise schwarzer Pfeffer, gemahlen
+- 50 g Wasser
 
 ## Zubereitung
+1. **Orangenlachs:** Backofen auf 200 °C vorheizen.
+2. Ingwer, Sojasauce, Schale und Saft einer halben Orange sowie Knoblauch in den Mixtopf geben und 5 Sek./Stufe 8 mixen. Mit dem Spatel nach unten schieben und nochmals 5 Sek./Stufe 8 mixen.
+3. Die Hälfte der Orangensauce in eine Auflaufform geben, das Lachsfilet darauflegen und die restliche Sauce über den Lachs träufeln.
+4. Thymian und Orangenscheiben auf den Lachs legen und 20 Minuten bei 200 °C backen. In der Zwischenzeit den Brokkoli-Couscous zubereiten.
+5. **Brokkoli-Couscous:** 275 g Brokkoli in den Mixtopf geben und 10 Sek./Stufe 5 zerkleinern. In eine Schüssel umfüllen und beiseitestellen.
+6. Die restlichen 275 g Brokkoliröschen in den Mixtopf geben und 10 Sek./Stufe 5 zerkleinern. Zum zerkleinerten Brokkoli in die Schüssel geben und beiseitestellen.
+7. Butter, Öl und Knoblauch in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 3 Min./120 °C/Stufe 1 dünsten.
+8. Den beiseitegestellten zerkleinerten Brokkoli, Paprikapulver, Salz, Pfeffer und Wasser zugeben und 7 Min./100 °C/Stufe 2 garen. Den Lachs heiß mit dem Brokkoli-Couscous servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r131936), ca. 407 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r131936), ca. 407 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

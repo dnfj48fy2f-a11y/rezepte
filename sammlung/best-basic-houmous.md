@@ -1,5 +1,5 @@
 ---
-titel: Best Basic Houmous
+titel: Bestes Basis-Hummus
 title_en: Best Basic Houmous
 kategorie: grundrezept
 tags: [thermomix, dip, schnell]
@@ -14,11 +14,20 @@ foto: fotos/best-basic-houmous.jpg
 ---
 
 ## Zutaten
+- 2 Knoblauchzehen
+- 480 g Kichererbsen aus der Dose
+- 60 g Wasser
+- 30 g Zitronensaft
+- 70 g natives Olivenöl extra
+- 40 g Sesam, geröstet
+- ½ TL feines Meersalz
 
 ## Zubereitung
+1. Knoblauch, Kichererbsen, Wasser, Zitronensaft, Öl, Sesam und Salz in den Mixtopf geben und 1 Min./Mixen starten.
+2. In eine Servierschüssel umfüllen, mit etwas Öl beträufeln und nach Belieben mit Paprikapulver bestreuen. Kalt oder bei Zimmertemperatur servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r450582), ca. 107.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Dips. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r450582), ca. 107.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Dips. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Spiced Nuts with Cranberries
+titel: Gewürznüsse mit Cranberrys
 title_en: Spiced Nuts with Cranberries
 kategorie: snack
 tags: [thermomix, snack, schnell]
@@ -14,11 +14,24 @@ foto: fotos/spiced-nuts-with-cranberries.jpg
 ---
 
 ## Zutaten
+- 30 g Ahornsirup
+- 1 Eiweiß
+- ½ TL feines Meersalz
+- 400 g gemischte ganze Nüsse
+- 100 g getrocknete Cranberrys
+- 80 g hellbrauner Zucker
+- 2 TL Zimt, gemahlen
+- ½ TL Muskatnuss, gemahlen
+- ½ TL Ingwer, gemahlen
 
 ## Zubereitung
+1. Backofen auf 170 °C vorheizen und ein großes Backblech mit Backpapier oder einer Silikonmatte auslegen.
+2. Rühraufsatz einsetzen. Ahornsirup, Eiweiß und Salz in den Mixtopf geben und 30 Sek./Stufe 4 aufschlagen. Rühraufsatz entfernen.
+3. Nüsse, Cranberrys, Zucker, Zimt, Muskatnuss und Ingwer zugeben und 3 Min./120 °C/Linkslauf/Sanftrührstufe erhitzen. Auf das vorbereitete Blech geben, gleichmäßig verteilen und 15–20 Minuten bei 170 °C goldbraun backen, dabei nach der Hälfte der Zeit umrühren, damit sie gleichmäßig backen.
+4. 5 Minuten auf dem Blech abkühlen lassen und warm servieren oder vollständig abkühlen lassen und luftdicht aufbewahren oder zum Verschenken in Cellophantütchen verpacken.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r489807), ca. 528 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r489807), ca. 528 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Leek and Potato Soup (TM5)
+titel: Kartoffel-Lauch-Suppe (TM5)
 title_en: Leek and Potato Soup (TM5)
 kategorie: suppe
 tags: [thermomix, suppe]
@@ -14,11 +14,26 @@ foto: fotos/leek-and-potato-soup-tm5.jpg
 ---
 
 ## Zutaten
+- 350 g Lauch
+- 30 g natives Olivenöl extra
+- 30 g Butter, ungesalzen
+- 1 TL feines Meersalz
+- 250 g Kartoffeln
+- 700 g Wasser
+- 1 Gemüsebrühwürfel (für 0,5 l)
+- 1 Prise weißer Pfeffer, gemahlen
+- 1 Prise Muskatnuss, gemahlen
+- 100 g Milch
+- frischer Schnittlauch
 
 ## Zubereitung
+1. Lauch, Öl, Butter und Salz in den Mixtopf geben und 4 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 12 Min./120 °C/Stufe 1 dünsten.
+2. Kartoffeln zugeben und 4 Sek./Stufe 4,5 zerkleinern. Mit dem Spatel nach unten schieben.
+3. 600 g Wasser, Gemüsebrühwürfel und Pfeffer zugeben und 20 Min./100 °C/Stufe 1 garen.
+4. Muskatnuss, Milch und die restlichen 100 g Wasser zugeben und 1 Min./Stufe 5–10 pürieren, dabei die Stufe langsam steigern. Nach Geschmack abschmecken und heiß servieren, nach Belieben mit gehacktem frischem Schnittlauch bestreut.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r151890), ca. 158.5 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r151890), ca. 158.5 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

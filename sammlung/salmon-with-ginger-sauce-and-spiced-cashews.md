@@ -1,5 +1,5 @@
 ---
-titel: Salmon with Ginger Sauce and Spiced Cashews
+titel: Lachs mit Ingwersauce und gewürzten Cashews
 title_en: Salmon with Ginger Sauce and Spiced Cashews
 kategorie: hauptgericht
 tags: [thermomix, fisch, schnell]
@@ -14,11 +14,35 @@ foto: fotos/salmon-with-ginger-sauce-and-spiced-cashews.jpg
 ---
 
 ## Zutaten
+- ½–1 lange rote Chilischote
+- 3 cm frischer Ingwer
+- 1 Knoblauchzehe
+- 1 Frühlingszwiebel
+- 2 Zweige frischer Koriander
+- 1 EL Zitronensaft
+- 2 TL Honig
+- 1 EL Sojasauce
+- 1 EL Olivenöl
+- ¼ TL Szechuanpfeffer
+- ½ TL Chinesisches Fünf-Gewürze-Pulver
+- 60 g Cashewkerne, ungeröstet
+- 1 Prise Meersalz
+- 500 g Wasser
+- 4 frische Lachsfilets
+- 150 g Zucchini
+- 1 Bund Stangenbrokkoli (Brokkolini)
+- 150 g Pak Choi
 
 ## Zubereitung
+1. Chili, Ingwer, Knoblauch, Frühlingszwiebel und Koriander in den Mixtopf geben und 5 Sek./Stufe 7 zerkleinern. Mit dem Spatel nach unten schieben.
+2. Zitronen- oder Limettensaft, Honig und Sojasauce zugeben und 10 Sek./Stufe 2 vermischen. Die Sauce in eine Schüssel umfüllen und beiseitestellen.
+3. Ohne den Mixtopf zu reinigen, Olivenöl, Szechuanpfeffer, Fünf-Gewürze-Pulver, Cashewkerne und Salz in den Mixtopf geben und 4 Min./120 °C/Stufe 1 anrösten. Die Cashews in eine separate Schüssel geben und zur Sauce stellen.
+4. Ohne den Mixtopf zu reinigen, das Wasser in den Mixtopf geben. Den Varoma aufsetzen, 1 Lachsfilet in den Varoma-Behälter und 3 Lachsfilets auf den Einlegeboden legen. 1–2 EL der beiseitegestellten Ingwersauce über den Lachs träufeln. Zucchini und Brokkoli um den Lachs im Varoma anordnen, dann den Varoma-Deckel schließen und 6 Min./Varoma/Stufe 1 garen.
+5. Pak Choi um Lachs und das übrige Gemüse im Varoma legen, den Deckel schließen und 5–7 Min./Varoma/Stufe 1 garen, bis Lachs und Gemüse nach Wunsch gar sind.
+6. Die restliche Ingwersauce über Lachs und Gemüse träufeln, mit den gewürzten Cashews bestreuen und sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r146840), ca. 512 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r146840), ca. 512 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

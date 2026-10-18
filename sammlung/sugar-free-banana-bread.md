@@ -1,5 +1,5 @@
 ---
-titel: Sugar Free Banana Bread
+titel: Bananenbrot ohne Zucker
 title_en: Sugar Free Banana Bread
 kategorie: backen
 tags: [thermomix, brot, fruehstueck]
@@ -14,11 +14,23 @@ foto: fotos/sugar-free-banana-bread.jpg
 ---
 
 ## Zutaten
+- 400 g Bananen
+- 225 g Mehl mit Backtriebmittel (Self-Raising Flour)
+- 110 g Sultaninen
+- 80 g Walnusshälften
+- 2 mittelgroße Eier
+- 1½ TL Piment, gemahlen
+- 1 TL Zimt, gemahlen
+- ½ TL Muskatnuss, gemahlen
 
 ## Zubereitung
+1. Backofen auf 190 °C vorheizen. Eine große Kastenform (900 g/2 lb) einfetten und mit Backpapier auslegen.
+2. Bananen in den Mixtopf geben und 10 Sek./Stufe 5 pürieren.
+3. Mehl, Sultaninen, Walnüsse, Eier, Piment, Zimt und Muskatnuss zugeben und 20 Sek./Linkslauf/Stufe 3 vermischen. Mit dem Spatel nach unten schieben und nochmals 20 Sek./Linkslauf/Stufe 3 mischen. In die vorbereitete Form füllen und 35–40 Minuten bei 190 °C goldbraun backen, bis ein Holzspieß in der Mitte sauber herauskommt.
+4. 10 Minuten stehen lassen, dann auf einem Gitter vollständig auskühlen lassen. In Scheiben servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r133940), ca. 187 kcal pro Portion. Aus meinen Cookidoo-Listen: Breads, Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r133940), ca. 187 kcal pro Portion. Aus meinen Cookidoo-Listen: Breads, Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

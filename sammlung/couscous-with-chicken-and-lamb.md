@@ -1,5 +1,5 @@
 ---
-titel: Couscous with Chicken and Lamb
+titel: Couscous mit Hähnchen und Lamm
 title_en: Couscous with Chicken and Lamb
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,35 @@ foto: fotos/couscous-with-chicken-and-lamb.jpg
 ---
 
 ## Zutaten
+- 4 Zweige frischer Koriander
+- 4 Zweige frische Petersilie
+- 200 g Zwiebeln
+- 400 g Lammschulter
+- 3 TL Salz
+- ½ TL schwarzer Pfeffer, gemahlen
+- 40 g Olivenöl
+- 400 g Karotten
+- 250 g Navetten (Speiserüben)
+- 1 TL Zimt, gemahlen
+- 1 TL Ingwer, gemahlen
+- 900 g Wasser
+- 300 g Hähnchenbrust, ohne Haut
+- 400 g Zucchini
+- 350 g Couscous, mittelfein
+- 70 g Rosinen
+- 350 g Kichererbsen aus der Dose
+- 1–2 TL Harissa-Paste
 
 ## Zubereitung
+1. Koriander und Petersilie in den Mixtopf geben und 5 Sek./Stufe 7 zerkleinern. In eine kleine Schüssel umfüllen und beiseitestellen.
+2. Zwiebeln in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+3. Lamm, 2 TL Salz, Pfeffer und 20 g Olivenöl zugeben und 10 Min./120 °C/Linkslauf/Sanftrührstufe anbraten.
+4. Karotten, Navetten, Zimt, Ingwer, 550 g Wasser und die beiseitegestellten gehackten Kräuter zugeben. Den Varoma-Behälter aufsetzen, das Hähnchen hineingeben und dabei einige Löcher freilassen. Nach Belieben scharfe Würstchen und die Zucchini auf das Hähnchen legen. Varoma verschließen und 15 Min./120 °C/Linkslauf/Sanftrührstufe dämpfen. In der Zwischenzeit Couscous, das restliche 1 TL Salz und 20 g Olivenöl in eine Schüssel geben, mit 350 g Wasser übergießen und mit dem Spatel umrühren, bis der Couscous gleichmäßig befeuchtet ist. Die Schüssel abdecken und beiseitestellen.
+5. Den Couscous vorsichtig mit einer Gabel auflockern und auf den Varoma-Einlegeboden geben. Den Varoma-Deckel vorsichtig abnehmen, den vorbereiteten Einlegeboden einsetzen, den Varoma verschließen und weitere 10 Min./Varoma/Linkslauf/Sanftrührstufe dämpfen. Varoma abnehmen.
+6. Rosinen und Kichererbsen in den Mixtopf geben, den Varoma wieder aufsetzen und 5 Min./Varoma/Linkslauf/Sanftrührstufe erhitzen. Varoma abnehmen und den Mixtopfinhalt in eine große Servierschüssel geben. Hähnchen, nach Belieben Würstchen und Zucchini zugeben und mit dem Spatel vorsichtig vermengen. 100 g Brühe aus der Servierschüssel in eine Sauciere schöpfen, Harissa zugeben und mit einer Gabel verrühren. Den Couscous in eine zweite Schüssel geben. Couscous, Gemüse und Fleisch heiß servieren, die Harissa-Sauce dazu reichen.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r150909), ca. 900 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r150909), ca. 900 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

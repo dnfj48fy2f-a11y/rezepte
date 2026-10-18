@@ -1,5 +1,5 @@
 ---
-titel: Rolled Salmon Pancakes
+titel: Gerollte Lachs-Pfannkuchen (Buchweizen)
 title_en: Rolled Salmon Pancakes
 kategorie: hauptgericht
 tags: [thermomix, fisch]
@@ -14,11 +14,28 @@ foto: fotos/rolled-salmon-pancakes.jpg
 ---
 
 ## Zutaten
+- 200 g Buchweizenmehl
+- 150 g Milch
+- 1 TL feines Meersalz
+- 300 g Wasser
+- 20–40 g Butter
+- 180 g Crème fraîche
+- 30 g Zitronensaft
+- 30 g frischer Schnittlauch
+- 2 Prisen feines Meersalz
+- 2 Prisen schwarzer Pfeffer, gemahlen
+- 150 g Räucherlachs
 
 ## Zubereitung
+1. **Buchweizen-Pfannkuchen:** Mehl, Milch und Salz in den Mixtopf geben und 1 Min./Stufe 3 vermischen.
+2. Rühraufsatz einsetzen. 1 Min./Stufe 2 aufschlagen und dabei nach und nach das Wasser auf den Mixtopfdeckel gießen. Rühraufsatz entfernen. Den Teig in eine Schüssel umfüllen und beiseitestellen.
+3. Einen Stich Butter in einer großen Pfannkuchen- oder Bratpfanne bei mittlerer Hitze erhitzen. Eine kleine Kelle Teig in die Mitte gießen und dünn verstreichen. Auf jeder Seite 2–3 Minuten backen und auf einen Teller legen. Wiederholen, bei Bedarf mehr Butter zugeben, bis der gesamte Teig aufgebraucht ist. Mixtopf reinigen.
+4. **Füllung:** Crème fraîche, Zitronensaft, Schnittlauch, Salz und Pfeffer in den Mixtopf geben und 25 Sek./Stufe 1,5 vermischen. In eine Schüssel umfüllen und beiseitestellen.
+5. Einen Pfannkuchen auf die Arbeitsfläche legen, mit der Schnittlauchcreme bestreichen und mit 3 Streifen Räucherlachs belegen. Aufrollen und in Frischhaltefolie wickeln. Mit den restlichen Pfannkuchen wiederholen und bis zum Servieren kühl stellen.
+6. Zum Servieren die Folie entfernen, die Rolle in 3 cm dicke Scheiben schneiden und mit einem Cocktailspieß fixieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r102015), ca. 331 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r102015), ca. 331 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

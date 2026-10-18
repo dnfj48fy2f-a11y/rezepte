@@ -1,5 +1,5 @@
 ---
-titel: Nachos with Chilli and Cheese
+titel: Nachos mit Chili und Käse
 title_en: Nachos with Chilli and Cheese
 kategorie: snack
 tags: [thermomix, rind]
@@ -14,11 +14,36 @@ foto: fotos/nachos-with-chilli-and-cheese.jpg
 ---
 
 ## Zutaten
+- 150 g Zwiebeln
+- 40 g Olivenöl
+- 3 Knoblauchzehen
+- 200 g Rinderhackfleisch
+- 160 g gehackte Tomaten aus der Dose
+- 1 EL Tomatenmark
+- 1 TL Feinzucker
+- 1 TL feines Meersalz
+- 1 TL Oregano, getrocknet
+- 1 TL Kreuzkümmel, gemahlen
+- 1 getrocknetes Lorbeerblatt
+- 1 Prise Kurkuma, gemahlen
+- 1 Prise Paprikapulver (edelsüß)
+- 1 Prise Nelken, gemahlen
+- 1 Prise Cayennepfeffer, gemahlen
+- 240 g Kidneybohnen aus der Dose
+- 15 g Zartbitterschokolade (70 % Kakao)
+- 200 g Tortilla-Chips
+- 150 g Cheddar, gerieben
 
 ## Zubereitung
+1. Knoblauch, Zwiebeln und Öl in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 8 Min./120 °C/Linkslauf/Sanftrührstufe dünsten.
+2. Hackfleisch zugeben und 4 Min./120 °C/Linkslauf/Sanftrührstufe anbraten.
+3. Tomaten, Tomatenmark, Zucker, Salz, Oregano, Kreuzkümmel, Lorbeerblatt, Kurkuma, Paprikapulver, Nelken und Cayennepfeffer zugeben. Den Gareinsatz einsetzen, die Kidneybohnen einwiegen und 10 Min./100 °C/Linkslauf/Sanftrührstufe garen. Den Gareinsatz mithilfe des Spatels entnehmen, die Bohnen in eine Schüssel geben und beiseitestellen.
+4. Schokolade zugeben und 3 Min./100 °C/Linkslauf/Sanftrührstufe garen. In der Zwischenzeit den Grill auf 200 °C vorheizen und die Tortilla-Chips in einer Auflaufform verteilen.
+5. Das Lorbeerblatt vorsichtig aus dem Chili entfernen, die beiseitegestellten Kidneybohnen zugeben und mit dem Spatel gut vermengen. Das Chili über die Tortilla-Chips in der Auflaufform gießen und mit dem geriebenen Cheddar bestreuen. 3–5 Minuten bei 200 °C grillen, bis der Käse geschmolzen ist.
+6. Sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r124312), ca. 482.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Beef. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r124312), ca. 482.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Beef. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Asian Chopped Salad
+titel: Asiatischer Chopped Salad
 title_en: Asian Chopped Salad
 kategorie: salat
 tags: [thermomix, salat, schnell]
@@ -14,11 +14,36 @@ foto: fotos/asian-chopped-salad.jpg
 ---
 
 ## Zutaten
+- 2 Knoblauchzehen
+- 15–20 g frischer Ingwer
+- 60 g Honig
+- 50 g Sesamöl
+- 60 g Reisessig (braun)
+- 20 g Sojasauce
+- 20 g Pflanzenöl
+- 250 g Rotkohl
+- 120 g Grünkohl
+- 1 Karotte
+- 1 rote Paprika
+- 1 gelbe Paprika
+- 3 Frühlingszwiebeln
+- 20 g frische Korianderblätter
+- 100 g Erdnüsse, geröstet, ungesalzen
+- 150 g Edamame
+- 30 g Sesam
 
 ## Zubereitung
+1. Knoblauch und Ingwer in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern. Mit dem Spatel nach unten schieben und nochmals 2 Sek./Stufe 7 zerkleinern.
+2. Honig, Essig, Sesamöl, Pflanzenöl, Sojasauce und nach Belieben Chiliflocken zugeben und 20 Sek./Stufe 6 vermischen. In eine Schüssel umfüllen und beiseitestellen.
+3. Rotkohl in den Mixtopf geben und 1 Sek./Stufe 6 zerkleinern. In eine große Salatschüssel umfüllen und beiseitestellen.
+4. 60 g Grünkohl in den Mixtopf geben und 2 Sek./Stufe 6 zerkleinern. Zum Kohl in die Schüssel geben.
+5. Die restlichen 60 g Grünkohl in den Mixtopf geben und 2 Sek./Stufe 6 zerkleinern. Zum Kohl in die Schüssel geben.
+6. Karotte, rote und gelbe Paprika, Frühlingszwiebeln und Koriander in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern.
+7. Edamame, Erdnüsse und Sesam zugeben und alles zum Kohl und Grünkohl in die Schüssel geben. Das beiseitegestellte Dressing zum gehackten Gemüse geben und mit dem Spatel verrühren.
+8. Mit etwas frischem Koriander garnieren und sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r314671), ca. 501.5 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r314671), ca. 501.5 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

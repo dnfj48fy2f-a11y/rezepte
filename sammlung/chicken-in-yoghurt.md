@@ -1,5 +1,5 @@
 ---
-titel: Chicken in yoghurt
+titel: Hähnchen in Joghurt
 title_en: Chicken in yoghurt
 kategorie: hauptgericht
 tags: [thermomix, schnell]
@@ -14,11 +14,31 @@ foto: fotos/chicken-in-yoghurt.jpg
 ---
 
 ## Zutaten
+- 20 g Kokosöl
+- 10 frische Curryblätter
+- 150 g braune Zwiebel
+- 2 frische lange grüne Chilischoten
+- ½ Bund frischer Koriander
+- 1000 g Hähnchenschenkelfilet
+- 20 g Ingwerpaste
+- 10 g Knoblauchpaste
+- 2 TL Kreuzkümmel, gemahlen
+- 2 TL Koriander, gemahlen
+- 20 g Garam Masala
+- ½ TL Kurkuma, gemahlen
+- 1 TL Salz
+- 60 g Tomatenmark
+- 350 g griechischer Naturjoghurt
 
 ## Zubereitung
+1. Öl in den Mixtopf geben und 1 Min./120 °C/Stufe 2 erhitzen.
+2. Curryblätter, Zwiebel, Chilischoten und frischen Koriander zugeben und 3 Sek./Stufe 5 zerkleinern.
+3. Mit dem Spatel nach unten schieben und 5 Min./100 °C/Stufe 1 garen.
+4. Hähnchen, Ingwerpaste, Knoblauchpaste, Kreuzkümmel, gemahlenen Koriander, Garam Masala, Kurkuma und Salz zugeben und 3 Min./100 °C/Linkslauf/Stufe 1 garen.
+5. Tomatenmark und Joghurt zugeben und 12–15 Min./100 °C/Linkslauf/Sanftrührstufe garen, bis das Hähnchen durchgegart ist. Auf eine Servierplatte geben und mit einer Beilage nach Wahl servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r132116), ca. 574.8 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r132116), ca. 574.8 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

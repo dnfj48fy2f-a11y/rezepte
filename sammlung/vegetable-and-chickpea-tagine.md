@@ -1,5 +1,5 @@
 ---
-titel: Vegetable and Chickpea Tagine
+titel: Gemüse-Kichererbsen-Tajine mit Bulgur
 title_en: Vegetable and Chickpea Tagine
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,36 @@ foto: fotos/vegetable-and-chickpea-tagine.jpg
 ---
 
 ## Zutaten
+- 300 g Bulgur
+- 800 g Wasser
+- 1½ TL feines Meersalz
+- 5 TL Ras el Hanout
+- 10 g frische Korianderblätter
+- 10 g frische Petersilienblätter
+- 3 Knoblauchzehen
+- 150 g Zwiebeln
+- 40 g Olivenöl
+- 400 g gehackte Tomaten aus der Dose
+- 200 g Süßkartoffeln
+- 150 g Karotten
+- 80 g Daikon-Rettich
+- 100 g grüne Bohnen
+- 1 Gemüsebrühwürfel (für 0,5 l)
+- 3 Prisen schwarzer Pfeffer, gemahlen
+- 240 g Kichererbsen aus der Dose
+- 200 g Zucchini
 
 ## Zubereitung
+1. Eine Schüssel auf den Mixtopfdeckel stellen und Bulgur, nach Belieben Rosinen und 300 g Wasser einwiegen. Schüssel abnehmen, 1 TL Salz und 1 TL Ras el Hanout zugeben, verrühren und quellen lassen. In der Zwischenzeit mit dem Rezept fortfahren.
+2. Koriander und Petersilie in den Mixtopf geben und 7 Sek./Stufe 8 zerkleinern. In eine Schüssel umfüllen und beiseitestellen.
+3. Knoblauch und Zwiebeln in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+4. Öl und 4 TL Ras el Hanout zugeben und 5 Min./120 °C/Linkslauf/Sanftrührstufe garen.
+5. Tomaten, Süßkartoffeln, Karotten, Rettich, Bohnen, 500 g Wasser, Gemüsebrühwürfel, Salz und Pfeffer zugeben. Den gequollenen Bulgur in den Varoma-Behälter geben, dabei einige Löcher frei lassen, damit der Dampf zirkulieren kann. Den abgedeckten Varoma aufsetzen und 15 Min./Varoma/Linkslauf/Sanftrührstufe garen. In der Zwischenzeit die Kichererbsen im Gareinsatz abspülen. Varoma beiseitestellen.
+6. Zucchini, die abgespülten Kichererbsen und die gehackten Kräuter (2 EL zum Garnieren zurückbehalten) in den Mixtopf geben und gut mit dem Spatel vermengen. Den abgedeckten Varoma wieder aufsetzen und weitere 15 Min./Varoma/Linkslauf/Sanftrührstufe garen. Varoma abnehmen.
+7. Den Bulgur mit dem Gemüse servieren, mit den zurückbehaltenen gehackten Kräutern bestreut.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r338882), ca. 409 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r338882), ca. 409 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

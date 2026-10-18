@@ -1,5 +1,5 @@
 ---
-titel: Hot Dog Rolls
+titel: Hot-Dog-Brötchen (mit Würstchen im Teig)
 title_en: Hot Dog Rolls
 kategorie: hauptgericht
 tags: [thermomix, snack]
@@ -14,11 +14,27 @@ foto: fotos/hot-dog-rolls.jpg
 ---
 
 ## Zutaten
+- 80 g Milch
+- 1 EL Zucker
+- 2 TL Trockenhefe
+- 350 g Weizenmehl
+- 100 g Butter, ungesalzen
+- 1 großes Ei
+- 1 TL feines Meersalz
+- 120 g Cheddar
+- 12 Hot-Dog-Würstchen
+- Wasser
+- 1 EL Mohn
 
 ## Zubereitung
+1. **Teig:** Milch, Zucker und Hefe in den Mixtopf geben und 1 Min. 30 Sek./37 °C/Stufe 1 erwärmen. In der Zwischenzeit ein Backblech mit Backpapier auslegen.
+2. Mehl, Butter, Ei und Salz zugeben, 10 Sek./Linkslauf/Stufe 6 vermischen und dann 1 Min. 30 Sek./Teigknetstufe kneten. Den Teig auf eine leicht bemehlte Fläche geben, in 12 gleich große Stücke teilen und 10 Minuten gehen lassen.
+3. **Füllung:** Cheddar in den Mixtopf geben und 5 Sek./Stufe 7 reiben.
+4. Jedes Teigstück zu einem dünnen Rechteck (12 × 6 cm) ausrollen und ein Würstchen quer in eine Ecke legen. Je 1 EL des beiseitegestellten geriebenen Cheddars über jedes Würstchen streuen, dann das Würstchen im Teig einrollen und auf das vorbereitete Blech legen. Mit etwas Wasser bestreichen und mit Mohn bestreuen.
+5. Die Hot-Dog-Rollen in den kalten Ofen schieben, auf 180 °C einstellen und 15–20 Minuten goldbraun backen. Mit Saucen nach Wahl servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r124091), ca. 248 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r124091), ca. 248 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

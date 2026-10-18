@@ -1,5 +1,5 @@
 ---
-titel: Warm Mediterranean Couscous Salad
+titel: Warmer mediterraner Couscous-Salat
 title_en: Warm Mediterranean Couscous Salad
 kategorie: hauptgericht
 tags: [thermomix, schnell]
@@ -14,11 +14,35 @@ foto: fotos/warm-mediterranean-couscous-salad.jpg
 ---
 
 ## Zutaten
+- 120 g Olivenöl
+- 80 g Zitronensaft
+- 2–3 Knoblauchzehen
+- 2 TL frischer Oregano
+- 1 EL frische Basilikumblätter
+- 1 Prise feines Meersalz
+- 1 Prise schwarzer Pfeffer, gemahlen
+- 1 TL Honig
+- 1000 g Wasser
+- 300 g Kürbis
+- 150 g frische grüne Bohnen
+- 120 g Couscous
+- 150 g frischer Babyspinat
+- 2–3 Zweige frisches Basilikum
+- 1–2 Frühlingszwiebeln
+- 240 g Kichererbsen aus der Dose
+- 40 g Pinienkerne, geröstet
+- 1 EL schwarze Oliven, entsteint
+- 1 Salatgurke
+- 250 g Kirschtomaten
 
 ## Zubereitung
+1. **Dressing:** Alle Zutaten für das Dressing in den Mixtopf geben und 5 Sek./Stufe 6 vermischen. In eine Schüssel umfüllen und bis zur Verwendung beiseitestellen. Mixtopf reinigen.
+2. **Salat:** Wasser in den Mixtopf geben. Den Varoma-Behälter aufsetzen, den Kürbis einwiegen und darauf die grünen Bohnen einwiegen.
+3. Den Einlegeboden einsetzen, mit einem Stück nassem, gut ausgedrücktem Backpapier auslegen und den Couscous auf das Backpapier einwiegen. Den Couscous gleichmäßig mit dem Spatel verteilen. Varoma abdecken und 17 Min./Varoma/Stufe 1 dämpfen. Prüfen, ob der Kürbis nach Wunsch gar ist. Falls nötig, nochmals 2–4 Min./Varoma/Stufe 1 dämpfen, bis er nach Wunsch gar ist.
+4. Den Couscous vorsichtig in eine große Servierschüssel geben und mit einer Gabel auflockern. Gegarten Kürbis und grüne Bohnen, Babyspinat, Basilikum, Frühlingszwiebeln, Kichererbsen, Pinienkerne, Oliven, Gurke, Tomaten und das beiseitegestellte Dressing zugeben. Vorsichtig vermengen und servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r148348), ca. 308 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r148348), ca. 308 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

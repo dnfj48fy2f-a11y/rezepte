@@ -1,5 +1,5 @@
 ---
-titel: Fish Pie with Potato Gratin Topping
+titel: Fischauflauf mit Kartoffelgratin-Haube
 title_en: Fish Pie with Potato Gratin Topping
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,28 @@ foto: fotos/fish-pie-with-potato-gratin-topping.jpg
 ---
 
 ## Zutaten
+- 200 g Lauch
+- 600 g mehligkochende Kartoffeln
+- Wasser
+- 40 g Butter, ungesalzen
+- ½ Fischbrühwürfel (für 0,5 l)
+- ½ TL schwarzer Pfeffer, gemahlen
+- 300 g Sahne
+- 600 g weißes Fischfilet, ohne Haut
+- ½ TL feines Meersalz
+- ½ TL schwarzer Pfeffer, gemahlen
+- 2 Zitronen
 
 ## Zubereitung
+1. Backofen auf 180 °C vorheizen. Eine Schüssel auf den Mixtopfdeckel stellen, Lauch und Kartoffeln einwiegen und beiseitestellen.
+2. Thermomix-Cutter-Welle und -Korb einsetzen, dann die Schneidescheibe mit Seite 1 (Schneiden) nach oben einlegen. Den Cutter-Deckel aufsetzen und jeweils eine Kartoffel in den breiten Teil der Einfüllöffnung geben. Den Stopfer einsetzen und die Funktion Schneiden/Dick starten, dabei den Stopfer sanft nach unten drücken. Wiederholen, bis alle Kartoffeln geschnitten sind. In eine Schüssel geben, mit Wasser bedecken und beiseitestellen.
+3. Cutter-Korb und Scheibe wieder auf die Welle setzen (Seite 1 nach oben). Den Cutter-Deckel aufsetzen und den Lauch in den schmalen Teil der Einfüllöffnung geben. Den Stopfer einsetzen und Schneiden/Dick starten, dabei den Stopfer sanft nach unten drücken. Cutter und Welle entfernen.
+4. 40 g Butter, den geschnittenen Lauch, den Fischbrühwürfel und ½ TL Pfeffer in den Mixtopf geben und, mit dem Gareinsatz statt des Messbechers, 5 Min./120 °C/Linkslauf/Stufe 1 dünsten.
+5. Sahne zugeben und 10 Sek./Linkslauf/Stufe 1 verrühren.
+6. Den Fisch in eine ovale Auflaufform (ca. 25 × 15 cm) legen, mit ½ TL Salz, ½ TL Pfeffer und abgeriebener Zitronenschale würzen und die Lauchmischung darübergießen. Die Kartoffelscheiben dachziegelartig darauf legen. 1 EL Butter in kleinen Stücken darauf verteilen. 40–45 Minuten bei 180 °C goldbraun backen. Heiß mit Zitronenhälften servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r802254), ca. 653 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r802254), ca. 653 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

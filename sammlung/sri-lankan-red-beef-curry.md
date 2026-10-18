@@ -1,5 +1,5 @@
 ---
-titel: Sri Lankan Red Beef Curry
+titel: Sri-Lanka-Rindercurry (rot)
 title_en: Sri Lankan Red Beef Curry
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,44 @@ foto: fotos/sri-lankan-red-beef-curry.jpg
 ---
 
 ## Zutaten
+- 30 g Koriandersamen
+- 30 g Kreuzkümmelsamen
+- 2 EL Fenchelsamen, getrocknet
+- 40 g Langkornreis
+- 10 Kardamomkapseln
+- 5 Gewürznelken
+- 10 getrocknete Curryblätter
+- 1 Zimtstange
+- 6 Kardamomkapseln
+- 1 Zimtstange
+- 1 TL Bockshornklee, gemahlen
+- 12 Gewürznelken
+- 1 TL schwarze Pfefferkörner
+- 1 Zwiebel
+- 4 Knoblauchzehen
+- 20 g frischer Ingwer
+- 1 Stängel frisches Zitronengras
+- 2 frische rote Chilischoten
+- 1 TL Kurkuma, gemahlen
+- 12 getrocknete Curryblätter
+- 50 g Olivenöl
+- 400 g gehackte Tomaten aus der Dose
+- 1000 g Rindfleisch zum Schmoren
+- 400 g Kokosmilch
+- 2 TL feines Meersalz
+- 2 EL Essig
+- Reis
 
 ## Zubereitung
+1. **Currypulver:** Alle Zutaten für das Currypulver in den Mixtopf geben und 15 Min./120 °C/Stufe 2 rösten, dann 30 Sek./Stufe 10 mahlen. In ein luftdichtes Glas umfüllen und bis zur Verwendung aufbewahren.
+2. **Rindercurry:** Kardamom, Zimt, Bockshornklee, Nelken und Pfefferkörner in den Mixtopf geben und 2 Min./100 °C/Linkslauf/Stufe 1 rösten, dann 30 Sek./Stufe 10 mahlen. Bei Bedarf wiederholen, bis alles fein ist.
+3. Ingwer, Zwiebel, Knoblauch, Zitronengras und Chilischoten zugeben und 5 Sek./Stufe 7 zerkleinern. Mit dem Spatel nach unten schieben.
+4. Öl, Kurkuma, Curryblätter und 2 TL des beiseitegestellten Currypulvers zugeben und 3 Min./120 °C/Stufe 1 dünsten.
+5. Tomaten, Fleisch, Kokosmilch, Salz und Essig zugeben und 45 Min./120 °C/Stufe 1 garen.
+6. Weitere 15 Min./100 °C/Linkslauf/Stufe 1 garen. Sofort mit gedämpftem Reis servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r134768), ca. 612 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r134768), ca. 612 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

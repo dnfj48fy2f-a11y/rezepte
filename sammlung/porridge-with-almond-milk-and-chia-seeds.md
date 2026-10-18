@@ -1,5 +1,5 @@
 ---
-titel: Porridge with Almond Milk and Chia Seeds
+titel: Porridge mit Mandelmilch und Chiasamen
 title_en: Porridge with Almond Milk and Chia Seeds
 kategorie: fruehstueck
 tags: [thermomix, fruehstueck, schnell]
@@ -14,11 +14,19 @@ foto: fotos/porridge-with-almond-milk-and-chia-seeds.jpg
 ---
 
 ## Zutaten
+- 600 g Mandelmilch
+- 20 g Ahornsirup
+- 100 g Haferflocken (Porridge-Hafer)
+- 2 EL Chiasamen
+- 2 TL natürlicher Vanilleextrakt
+- 50 g gemischte frische rote Beeren
+- 2 Bananen
 
 ## Zubereitung
+1. Mandelmilch, Ahornsirup, Haferflocken, Chiasamen und Vanilleextrakt in den Mixtopf geben, mit dem Spatel umrühren und 12 Min./90 °C/Linkslauf/Stufe 1 garen. In Schalen füllen, mit Obst belegen und heiß servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r148161), ca. 226.6 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r148161), ca. 226.6 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

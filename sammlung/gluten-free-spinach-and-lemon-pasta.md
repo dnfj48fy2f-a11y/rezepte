@@ -1,5 +1,5 @@
 ---
-titel: Gluten free spinach and lemon pasta
+titel: Glutenfreie Spinat-Zitronen-Pasta
 title_en: Gluten free spinach and lemon pasta
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,41 @@ foto: fotos/gluten-free-spinach-and-lemon-pasta.jpg
 ---
 
 ## Zutaten
+- 150 g Lupinenmehl
+- 70 g glutenfreie Speisestärke
+- 1½ TL Xanthan
+- 1 Prise Muskatnuss, gemahlen
+- 60 g frische Spinatblätter
+- 2 TL Salz
+- 2 Eier
+- 2040 g Wasser
+- 50 g Parmesan
+- 500 g Wasser
+- 2 Bund grüner Spargel
+- 1 Knoblauchzehe
+- 30 g Butter, ungesalzen
+- 120 g Vollmilch
+- 250 g Mascarpone
+- ½ Zitrone
+- ¼ TL Salz
+- ½ TL schwarzer Pfeffer, gemahlen
+- Zitronenöl
 
 ## Zubereitung
+1. **Pasta:** Lupinenmehl, Speisestärke, Xanthan, Muskatnuss, Spinat und 1 TL des Salzes in den Mixtopf geben und 5 Sek./Stufe 8 vermischen.
+2. Eier und 40 g des Wassers zugeben und 1 Min./Teigknetstufe kneten. Den Teig auf eine Silikonmatte oder die Arbeitsfläche geben und zu einer Kugel formen. Mit Frischhaltefolie abdecken und mindestens 10 Minuten ruhen lassen. Mixtopf reinigen und trocknen.
+3. Den Teig in 4 gleich große Portionen teilen und mit einer Nudelmaschine ausrollen. In Tagliatelle schneiden. Falls der Teig klebrig wird, mit Speisestärke bestäuben.
+4. Ca. 2 l Wasser und das restliche 1 TL Salz in einem großen Topf aufkochen. Die Pasta portionsweise 2–3 Minuten al dente kochen. Mit dem Gareinsatz abgießen, in eine vorgewärmte Servierschüssel oder eine große Schüssel geben und abdecken, damit sie warm bleibt.
+5. **Zitronensauce:** Parmesan in den Mixtopf geben und 10 Sek./Stufe 9 reiben. In eine Schüssel umfüllen und beiseitestellen.
+6. Wasser in den Mixtopf geben und den Varoma aufsetzen. Den Spargel in den Varoma-Behälter legen, den Deckel verschließen und 8–10 Min./100 °C/Stufe 2 dämpfen, bis er gerade zart ist. In eine zweite vorgewärmte Servierschüssel oder eine große Schüssel geben und abdecken, damit er warm bleibt. Mixtopf reinigen und trocknen.
+7. Knoblauch in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern.
+8. Butter zugeben und 2 Min./100 °C/Stufe 2 garen.
+9. Milch und Mascarpone zugeben und 3 Min./90 °C/Stufe 2 garen.
+10. Zitronensaft, Salz, Pfeffer und den beiseitegestellten geriebenen Parmesan zugeben und 1 Min./100 °C/Stufe 2 garen.
+11. Den beiseitegestellten Spargel zugeben und 1 Min./90 °C/Linkslauf/Stufe 2 garen. Die Sauce über die gekochte Pasta gießen und mit dem Spatel vorsichtig vermengen. Nach Belieben mit Zitronenöl beträufeln und vor dem Servieren mit etwas Parmesan garnieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r118280), ca. 594.3 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r118280), ca. 594.3 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

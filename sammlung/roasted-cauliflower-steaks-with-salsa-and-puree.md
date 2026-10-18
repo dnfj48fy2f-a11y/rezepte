@@ -1,5 +1,5 @@
 ---
-titel: Roasted Cauliflower Steaks with Salsa and Purée
+titel: Geröstete Blumenkohl-Steaks mit Salsa und Püree
 title_en: Roasted Cauliflower Steaks with Salsa and Purée
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,41 @@ foto: fotos/roasted-cauliflower-steaks-with-salsa-and-puree.jpg
 ---
 
 ## Zutaten
+- 1 frische rote Chilischote
+- 2 Knoblauchzehen
+- 80 g natives Olivenöl extra
+- 60 g Wasser
+- 15 g Sherryessig
+- 50 g Sultaninen
+- 30 g eingelegte Mini-Kapern
+- 30 g Pinienkerne, geröstet
+- 5 Zweige frische Petersilienblätter
+- 1 Zitrone
+- ½ TL feines Meersalz
+- 2 Blumenkohlköpfe
+- Oregano, getrocknet
+- 500 g Wasser
+- 1 Knoblauchzehe
+- 100 g Mandelmilch
+- 50 g milchfreie Streichfett (Margarine)
+- 10 g Olivenöl
+- 1 Prise Feinzucker
+- ½ TL feines Meersalz
+- 1 Prise schwarzer Pfeffer, gemahlen
 
 ## Zubereitung
+1. **Salsa:** Chili und Knoblauch in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben und nochmals 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+2. Öl, Wasser, Essig, Sultaninen, Kapern, Pinienkerne, Petersilie, Zitronenschale und Salz zugeben und 15 Sek./Linkslauf/Stufe 2,5 vermischen. In eine Schüssel umfüllen und beiseitestellen.
+3. **Blumenkohl-Steaks:** Backofen auf 180 °C vorheizen und ein Backblech mit Backpapier oder einer Silikonmatte auslegen.
+4. Mit einem scharfen Messer aus jedem Blumenkohl 2 Steaks (3 cm dick) gerade durch den Strunk schneiden, sodass 4 Steaks entstehen. Den restlichen Blumenkohl aufbewahren. Die Blumenkohl-Steaks auf das vorbereitete Blech legen. Mit nativem Olivenöl beträufeln, mit Oregano, Salz und Pfeffer nach Geschmack würzen, dann wenden und wiederholen.
+5. Die Blumenkohl-Steaks 15 Minuten bei 180 °C rösten, dann wenden und weitere 10–15 Minuten rösten, bis sie gebräunt sind. In der Zwischenzeit das Blumenkohlpüree zubereiten.
+6. **Blumenkohlpüree:** Wasser in den Mixtopf geben. Den aufbewahrten Blumenkohl in kleine Röschen (2 cm) schneiden und in den Varoma-Behälter geben, dabei einige Löcher frei lassen, damit der Dampf zirkulieren kann. Varoma abdecken, aufsetzen und 25–30 Min./Varoma/Stufe 2 dämpfen, bis er gar ist. Varoma beiseitestellen. Das Kochwasser wegschütten und den Mixtopf trocknen.
+7. Knoblauch in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+8. Den gedämpften Blumenkohl, Mandelmilch, Streichfett, Öl, Zucker, Salz und Pfeffer zugeben und 1 Min./Stufe 7 pürieren.
+9. Das Püree auf Teller verteilen und auf jedes ein geröstetes Blumenkohl-Steak legen. Mit 2–3 EL der beiseitegestellten Salsa beträufeln und sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r337702), ca. 442.6 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r337702), ca. 442.6 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

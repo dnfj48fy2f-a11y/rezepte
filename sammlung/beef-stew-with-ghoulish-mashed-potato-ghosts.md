@@ -1,5 +1,5 @@
 ---
-titel: Beef Stew with Ghoulish Mashed Potato Ghosts
+titel: Rindereintopf mit Kartoffelpüree-Gespenstern (Halloween)
 title_en: Beef Stew with Ghoulish Mashed Potato Ghosts
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,40 @@ foto: fotos/beef-stew-with-ghoulish-mashed-potato-ghosts.jpg
 ---
 
 ## Zutaten
+- 900 g mehligkochende Kartoffeln
+- 340 g Milch
+- 1 TL feines Meersalz
+- 30 g gesalzene Butter
+- 850 g Rindfleisch zum Schmoren
+- 30 g Worcestershire-Sauce
+- 1 TL feines Meersalz
+- 1 TL schwarzer Pfeffer, gemahlen
+- 110 g Zwiebeln
+- 2 Knoblauchzehen
+- 30 g Olivenöl
+- 80 g Karotten
+- 80 g Staudensellerie
+- 80 g Petersilienwurzel (Pastinake)
+- 2 EL Weizenmehl
+- 3 EL Tomatenmark
+- 1 Rinderbrühwürfel (für 0,5 l)
+- 350 g Wasser
+- 110 g TK-Erbsen
+- 110 g Maiskörner, TK
+- 110 g Champignons, frisch
 
 ## Zubereitung
+1. **Kartoffelpüree:** Rühraufsatz einsetzen. Kartoffeln, Milch und Salz in den Mixtopf geben und 30 Min./90 °C/Stufe 1 garen.
+2. Butter zugeben und 30 Sek./Stufe 3 pürieren. In eine Schüssel umfüllen, beiseitestellen und warm halten. Rühraufsatz entfernen. Mixtopf reinigen.
+3. **Rindereintopf:** Eine Schüssel auf den Mixtopfdeckel stellen, Fleisch und Worcestershire-Sauce einwiegen. Schüssel abnehmen, Knoblauchzehen, Salz und Pfeffer zugeben. Verrühren und beiseitestellen.
+4. Zwiebeln, Knoblauch und Öl in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 2 Min./120 °C/Stufe 1 dünsten.
+5. Das beiseitegestellte Fleisch, Karotten, Sellerie und Pastinaken zugeben und 3 Min./100 °C/Stufe 1 garen.
+6. Mehl, Tomatenmark, Rinderbrühwürfel und Wasser zugeben und 30 Min./100 °C/Linkslauf/Sanftrührstufe garen.
+7. Erbsen, Mais und Champignons zugeben und 20 Min./100 °C/Linkslauf/Sanftrührstufe garen, bis das Rindfleisch zart ist.
+8. **Anrichten:** Den Eintopf auf 6 Schalen verteilen. Das Kartoffelpüree in einen Spritzbeutel mit einer Öffnung von ca. 5 cm Ø (ohne Tülle) füllen. Gespenster auf den Eintopf spritzen und jedes mit 2 beiseitegelegten Erbsen als Augen garnieren. Sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r252593), ca. 531 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r252593), ca. 531 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

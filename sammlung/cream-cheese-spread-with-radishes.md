@@ -1,5 +1,5 @@
 ---
-titel: Cream cheese spread with radishes
+titel: Frischkäse-Aufstrich mit Radieschen
 title_en: Cream cheese spread with radishes
 kategorie: grundrezept
 tags: [thermomix, schnell]
@@ -14,11 +14,18 @@ foto: fotos/cream-cheese-spread-with-radishes.jpg
 ---
 
 ## Zutaten
+- 3–4 EL Alfalfa-Sprossen
+- 60–80 g rote Radieschen
+- 200 g Frischkäse
+- ¼ TL Salz
+- ¼ TL schwarzer Pfeffer, gemahlen
 
 ## Zubereitung
+1. Alfalfa-Sprossen und Radieschen in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern.
+2. Frischkäse, Salz und Pfeffer zugeben und 10 Sek./Stufe 3 vermischen. Mit weiteren Alfalfa-Sprossen garnieren und servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r67840), ca. 698.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r67840), ca. 698.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

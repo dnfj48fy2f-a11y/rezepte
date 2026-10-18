@@ -1,5 +1,5 @@
 ---
-titel: Decadent Dark Chocolate Brownies
+titel: Schokoladige Dark-Chocolate-Brownies
 title_en: Decadent Dark Chocolate Brownies
 kategorie: dessert
 tags: [thermomix, kuchen]
@@ -14,11 +14,29 @@ foto: fotos/decadent-dark-chocolate-brownies.jpg
 ---
 
 ## Zutaten
+- 440 g Rapadura-Zucker
+- 1 TL Backpulver
+- 70 g Kakaopulver
+- 100 g Weizenmehl
+- 200 g Zartbitterschokolade
+- 1 Prise feines Meersalz
+- 230 g Butter, ungesalzen
+- 4 mittelgroße Eier
+- 1 EL natürlicher Vanilleextrakt
 
 ## Zubereitung
+1. Backofen auf 160 °C vorheizen. Eine quadratische Backform (20 cm) einfetten und mit Backpapier auslegen.
+2. Zucker in den Mixtopf geben und 3–4 Sek./Stufe 9 fein mahlen. Deckel und Mixtopfrand mit dem Spatel abstreifen.
+3. Backpulver, Kakao und Mehl zugeben und 5 Sek./Stufe 10 vermischen. In eine Schüssel umfüllen und beiseitestellen.
+4. Schokolade in den Mixtopf geben und 3–6 Sek./Stufe 5 grob zerkleinern (Stücke von ca. 1 cm). In eine andere Schüssel umfüllen und beiseitestellen.
+5. Salz und Butter in den Mixtopf geben und 2–3 Min./60 °C/Stufe 2 schmelzen. Die Mischung im Mixtopf auf 37 °C abkühlen lassen (ca. 10 Minuten).
+6. Die beiseitegestellte Kakaomischung und die Eier zugeben und 30–35 Sek./Stufe 3 verrühren. Mit dem Spatel nach unten schieben.
+7. Die zerkleinerte Schokolade und den Vanilleextrakt zugeben und 30–40 Sek./Linkslauf/Stufe 3 verrühren.
+8. Den Teig in die vorbereitete Form geben, mit dem Spatel gleichmäßig verstreichen und 70–80 Minuten bei 160 °C backen, bis ein Holzspieß in der Mitte sauber herauskommt.
+9. Vollständig in der Form abkühlen lassen (ca. 30 Minuten). Vor dem Schneiden und Servieren mit etwas Kakao bestäuben.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r148354), ca. 336 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r148354), ca. 336 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

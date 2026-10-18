@@ -1,5 +1,5 @@
 ---
-titel: Ham and Cheese Puff Pinwheels
+titel: Schinken-Käse-Blätterteigschnecken
 title_en: Ham and Cheese Puff Pinwheels
 kategorie: snack
 tags: [thermomix, snack]
@@ -14,11 +14,31 @@ foto: fotos/ham-and-cheese-puff-pinwheels.jpg
 ---
 
 ## Zutaten
+- 160 g Cheddar
+- 1 Knoblauchzehe
+- 10 g Olivenöl
+- 400 g gehackte Tomaten aus der Dose
+- 1 TL Oregano, getrocknet
+- ¼ TL Salz
+- 2 Prisen schwarzer Pfeffer, gemahlen
+- 200 g Butter, ungesalzen
+- 200 g Weizenmehl
+- 90 g Wasser
+- 80 g Schinken, in Scheiben
+- 1 mittelgroßes Ei
 
 ## Zubereitung
+1. **Füllung:** Cheddar in den Mixtopf geben und 5 Sek./Stufe 7 reiben. In eine Schüssel umfüllen und beiseitestellen.
+2. Knoblauch und Öl in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern. Mit dem Spatel nach unten schieben, dann mit dem Gareinsatz statt des Messbechers 3 Min./120 °C/Stufe 1 dünsten.
+3. Tomaten, Oregano, Salz und Pfeffer zugeben und, mit dem Gareinsatz statt des Messbechers, 20 Min./100 °C/Stufe 1 garen. Messbecher einsetzen und 10 Sek./Stufe 4–6 pürieren, dabei die Stufe langsam steigern. In eine Schüssel umfüllen und vollständig abkühlen lassen. In der Zwischenzeit den Mixtopf reinigen und den Teig zubereiten.
+4. **Schneller Blätterteig:** Butter, Mehl, Wasser und nach Belieben Salz in den Mixtopf geben und 20 Sek./Stufe 6 vermischen. Herausnehmen, zu einer Kugel formen und zu einem groben Quadrat flach drücken. In wiederverwendbare Frischhaltefolie oder Klarsichtfolie wickeln und 20 Minuten im Kühlschrank ruhen lassen.
+5. Den Teig auf einer leicht bemehlten Arbeitsfläche mit dem Nudelholz zu einem langen Rechteck ausrollen, das dreimal so lang wie breit ist (ca. 60 × 20 cm). In Dritteln falten und um eine Vierteldrehung drehen, sodass die Faltkante links liegt. Das Ausrollen und Falten noch zweimal wiederholen, dann in Folie wickeln und weitere 20 Minuten kühlen.
+6. **Zusammenbauen:** Backofen auf 200 °C vorheizen und 2 Backbleche mit Backpapier auslegen.
+7. Den gekühlten Teig auf einer leicht bemehlten Fläche zu einem Rechteck (32 × 40 cm) ausrollen und mit der Tomatensauce bestreichen, an den langen Rändern 1 cm frei lassen. Mit einer Lage Schinken belegen, mit dem beiseitegestellten geriebenen Cheddar bestreuen und die Ränder mit verquirltem Ei bestreichen. Von einer langen Seite her fest zu einer Rolle aufrollen, in Folie wickeln und 30 Minuten ins Gefrierfach legen. Danach mit einem Sägemesser in 2–3 cm breite Scheiben schneiden und flach auf die vorbereiteten Bleche legen.
+8. 20–30 Minuten bei 200 °C hellgolden backen. 5 Minuten abkühlen lassen und warm servieren oder auf einem Gitter vollständig abkühlen lassen und bis zur Verwendung luftdicht im Kühlschrank aufbewahren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r774975), ca. 194.4 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r774975), ca. 194.4 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

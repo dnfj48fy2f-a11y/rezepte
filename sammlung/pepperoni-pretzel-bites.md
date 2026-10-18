@@ -1,5 +1,5 @@
 ---
-titel: Pepperoni Pretzel Bites
+titel: Pepperoni-Brezel-Happen
 title_en: Pepperoni Pretzel Bites
 kategorie: snack
 tags: [thermomix, snack]
@@ -14,11 +14,45 @@ foto: fotos/pepperoni-pretzel-bites.jpg
 ---
 
 ## Zutaten
+- 220 g Milch
+- 30 g Butter, ungesalzen
+- 2¼ TL Trockenhefe
+- 350 g Weizenmehl
+- 50 g hellbrauner Zucker
+- ¼ TL Petersilie, getrocknet
+- ¼ TL Basilikum, getrocknet
+- ¼ TL Oregano, getrocknet
+- 1 TL Knoblauchpulver
+- 1 TL feines Meersalz
+- 80 g Zwiebeln
+- 2 Knoblauchzehen
+- 30 g Olivenöl
+- 500 g Passata
+- 1 EL Oregano, getrocknet
+- 2 TL Feinzucker
+- 1 TL feines Meersalz
+- 2 Prisen schwarzer Pfeffer, gemahlen
+- 250 g Mozzarella
+- 80 g Pepperoni
+- 700 g Wasser
+- 60 g Natron
+- grobes Meersalz
+- 40 g Butter, ungesalzen
 
 ## Zubereitung
+1. **Brezelteig:** Butter, Milch und Hefe in den Mixtopf geben und 3 Min. 30 Sek./37 °C/Sanftrührstufe erwärmen.
+2. Mehl, Zucker, Knoblauchpulver, Petersilie, Basilikum, Oregano und Salz zugeben und 5 Min./Teigknetstufe kneten. In eine große Schüssel geben, mit eingefetteter Frischhaltefolie abdecken und gehen lassen, bis sich das Volumen verdoppelt hat (ca. 1 Stunde). In der Zwischenzeit die Tomatensauce zubereiten.
+3. **Tomatensauce:** Knoblauch, Zwiebeln und Öl in den Mixtopf geben, 5 Sek./Stufe 5 zerkleinern und 5 Min./120 °C/Stufe 1 dünsten.
+4. Passata, Oregano, Zucker, Salz und Pfeffer zugeben und 20 Min./120 °C/Stufe 2 garen. In eine Schüssel umfüllen und beiseitestellen.
+5. **Zusammenbauen:** Backofen auf 200 °C vorheizen und 2 große Backbleche mit Backpapier auslegen.
+6. Den Teig auf einer leicht bemehlten Fläche in 4 gleich große Stücke teilen. 1 Stück behalten, die restlichen mit eingefetteter Frischhaltefolie abdecken. Das erste Stück zu einer dicken Rolle von ca. 40 cm Länge formen, dann leicht auf ca. 5 cm Breite flach drücken. ¼ des Mozzarellas und ¼ der Pepperoni mittig auf die Rolle legen, den Teig darüberklappen und zum Verschließen zusammendrücken. Mit dem restlichen Teig, Mozzarella und Pepperoni wiederholen.
+7. Eine große Schüssel auf den Mixtopfdeckel stellen, Wasser und Natron einwiegen, die Schüssel abnehmen und verrühren. 1 Rolle für 30 Sekunden in die Natronlauge legen. Auf eine leicht bemehlte Fläche legen, in 4–5 cm große Stücke schneiden und auf das vorbereitete Blech legen. Mit den restlichen Rollen wiederholen.
+8. Mit grobem Salz bestreuen und 6–7 Minuten bei 200 °C backen, bis sie oben gebräunt sind. In der Zwischenzeit den Mixtopf reinigen und fortfahren.
+9. Butter in den Mixtopf geben und 3 Min. 30 Sek./50 °C/Sanftrührstufe schmelzen. Die fertigen Brezel-Happen mit der geschmolzenen Butter bestreichen.
+10. Warm mit der Tomatensauce servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r402091), ca. 116.9 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r402091), ca. 116.9 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

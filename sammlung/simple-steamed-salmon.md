@@ -1,5 +1,5 @@
 ---
-titel: Simple steamed salmon
+titel: Einfacher gedämpfter Lachs
 title_en: Simple steamed salmon
 kategorie: hauptgericht
 tags: [thermomix, schnell]
@@ -14,11 +14,22 @@ foto: fotos/simple-steamed-salmon.jpg
 ---
 
 ## Zutaten
+- 900–1000 g frisches Lachsfilet ohne Haut und Gräten
+- Meersalz
+- schwarzer Pfeffer, gemahlen
+- 2 Knoblauchzehen
+- 2 Zweige frischer Rosmarin
+- 2 Zweige frischer Thymian
+- 1 EL Olivenöl
+- 1000 g Wasser
+- Zitronen
 
 ## Zubereitung
+1. Den Lachs auf ein Stück nasses, gut ausgedrücktes Backpapier legen und mit Salz und Pfeffer bestreuen. Knoblauch, Rosmarin und Thymian auf den Lachs legen und mit Öl beträufeln. Den Lachs fest in das Backpapier einwickeln und in den Varoma-Behälter legen.
+2. Wasser in den Mixtopf geben. Den Varoma mit dem Fisch aufsetzen, den Varoma-Deckel verschließen und 20–24 Min./Varoma/Stufe 2 dämpfen, bis der Lachs nach Wunsch gar ist. Mit Zitrone servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r150503), ca. 376 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r150503), ca. 376 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

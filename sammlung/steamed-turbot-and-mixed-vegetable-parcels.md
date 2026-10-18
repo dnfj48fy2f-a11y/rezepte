@@ -1,5 +1,5 @@
 ---
-titel: Steamed turbot and mixed vegetable parcels
+titel: Gedämpfte Steinbutt-Päckchen mit Gemüse
 title_en: Steamed turbot and mixed vegetable parcels
 kategorie: hauptgericht
 tags: [thermomix, fisch]
@@ -14,11 +14,27 @@ foto: fotos/steamed-turbot-and-mixed-vegetable-parcels.jpg
 ---
 
 ## Zutaten
+- 80 g natives Olivenöl extra
+- ¾ TL Salz
+- ½ TL schwarzer Pfeffer, gemahlen
+- 4 Steinbuttfilets
+- 1–2 Zitronen
+- 200 g gemischtes Gemüse
+- 6 Zweige frische glatte Petersilie
+- 50 g Zitronensaft
+- 500 g Wasser
+- 400 g Kartoffeln
 
 ## Zubereitung
+1. In einer kleinen Schüssel Olivenöl, ½ TL Salz, ¼ TL Pfeffer und 2 EL abgeriebene Zitronenschale verrühren. Die Steinbuttfilets zugeben, gut mit der Marinade bestreichen und 30 Minuten marinieren, dabei die Filets einmal wenden.
+2. Das gemischte Gemüse mit dem restlichen ¼ TL Salz und dem restlichen ¼ TL Pfeffer in den Mixtopf geben und 5 Sek./Stufe 4 zerkleinern. In eine Schüssel umfüllen und beiseitestellen.
+3. Den Gareinsatz einsetzen und die Steinbuttfilets mit der Marinade hineingeben. Wenn die Marinade in den Mixtopf abgetropft ist, den Gareinsatz mit den Filets beiseitestellen. Die Marinade im Mixtopf lassen.
+4. Petersilie und ca. 50 g Zitronensaft zugeben und 10 Sek./Stufe 5 vermischen. Das Zitronen-Petersilien-Öl in eine kleine Schüssel umfüllen und beiseitestellen.
+5. Die Steinbuttfilets auf 4 Quadrate Backpapier (30 × 30 cm) legen und das beiseitegestellte gehackte Gemüse gleichmäßig auf den Filets verteilen. Das Backpapier zum Verschließen falten und die Päckchen mit der Naht nach oben legen, 2 in den Varoma-Behälter und 2 auf den Einlegeboden, dabei die gefalteten Papierenden unter die Päckchen stecken.
+6. Wasser in den Mixtopf geben, den Gareinsatz einsetzen und die Kartoffeln hineingeben. Den Varoma aufsetzen und 25 Min./Varoma/Stufe 1 dämpfen. Die Fischfilets sofort servieren, die Päckchen teilweise geöffnet, mit dem Zitronen-Petersilien-Öl beträufelt und mit den Kartoffeln als Beilage.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r151841), ca. 404 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r151841), ca. 404 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Coleslaw
+titel: "Coleslaw (Krautsalat, schnell)"
 title_en: Coleslaw
 kategorie: salat
 tags: [thermomix, salat, schnell]
@@ -14,11 +14,18 @@ foto: fotos/coleslaw.jpg
 ---
 
 ## Zutaten
+- 200 g Weißkohl
+- 100 g Karotten
+- 1 grüner Apfel
+- 1 Prise Salz
+- 1 Prise schwarzer Pfeffer, gemahlen
+- 2 EL Mayonnaise
 
 ## Zubereitung
+1. Kohl, Karotten, grünen Apfel, nach Belieben Zwiebel, Salz, Pfeffer und Mayonnaise in den Mixtopf geben, 4–6 Sek./Stufe 5 zerkleinern und servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r66853), ca. 133 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r66853), ca. 133 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Chunky Coleslaw
+titel: Grober Krautsalat (Coleslaw mit Rotkohl und Apfel)
 title_en: Chunky Coleslaw
 kategorie: salat
 tags: [thermomix, salat, schnell]
@@ -14,11 +14,19 @@ foto: fotos/chunky-coleslaw.jpg
 ---
 
 ## Zutaten
+- 200 g Rotkohl
+- 100 g Karotten
+- 50 g rote Zwiebeln
+- 1 Granny-Smith-Apfel
+- 1 Prise feines Meersalz
+- 1 Prise schwarzer Pfeffer, gemahlen
+- 2 EL Mayonnaise
 
 ## Zubereitung
+1. Rotkohl, Karotten, Zwiebeln, Apfel, Salz, Pfeffer und Mayonnaise in den Mixtopf geben und 2 Sek./Stufe 4,5 zerkleinern. Mit dem Spatel gut umrühren, dann nochmals 1 Sek./Stufe 4,5 zerkleinern. In eine Servierschüssel umfüllen und sofort als Beilage zu Burgern servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r102070), ca. 71.8 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r102070), ca. 71.8 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

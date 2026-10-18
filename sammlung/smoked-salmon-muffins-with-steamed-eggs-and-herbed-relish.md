@@ -1,5 +1,5 @@
 ---
-titel: Smoked salmon muffins with steamed eggs and herbed relish
+titel: Räucherlachs-Muffins mit gedämpften Eiern und Kräuter-Relish
 title_en: Smoked salmon muffins with steamed eggs and herbed relish
 kategorie: fruehstueck
 tags: [thermomix]
@@ -14,11 +14,55 @@ foto: fotos/smoked-salmon-muffins-with-steamed-eggs-and-herbed-relish.jpg
 ---
 
 ## Zutaten
+- 50 g Cornichons
+- 1 EL eingelegte Kapern
+- 2 EL frischer Schnittlauch
+- 1 EL frische glatte Petersilie
+- ½ TL Salz
+- 1 Frühlingszwiebel/Schalotte
+- 1 TL Dijon-Senf
+- 80 g weicher Feta
+- 100 g Crème fraîche
+- ½ Zitrone
+- 40 g natives Olivenöl extra
+- 80 g Butter, ungesalzen
+- 250 g Gruyère
+- 50 g Pecorino
+- 60 g Frühlingszwiebeln/Schalotten
+- 4 Zweige frischer Dill
+- 2 Eier
+- 220 g Vollmilch
+- 50 g Crème fraîche
+- 1 TL Meersalzflocken
+- 2 TL Backpulver
+- 250 g Weizenmehl
+- 200 g Räucherlachs
+- 6 Stangen Spargel
+- 700 g Wasser
+- 12 Eier
+- 100 g Rucola
+- 200 g Kirschtomaten
 
 ## Zubereitung
+1. **Kräuter-Relish:** Cornichons, Kapern, Schnittlauch, Petersilie, Salz und Frühlingszwiebel/Schalotte in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+2. Die restlichen Zutaten für das Relish zugeben und 10 Sek./Stufe 3 vermischen.
+3. In einen verschließbaren Behälter umfüllen und bis zum Servieren kühl stellen. Mixtopf reinigen und trocknen.
+4. **Räucherlachs-Muffins:** Backofen auf 180 °C vorheizen. Ein 12er-Muffinblech mit Butter einfetten und beiseitestellen.
+5. Gruyère und Pecorino in den Mixtopf geben und 5 Sek./Stufe 7 zerkleinern. In eine Schüssel umfüllen und beiseitestellen.
+6. Frühlingszwiebeln/Schalotten und Dill in den Mixtopf geben und 1 Mal Turbo/1 Sek. zerkleinern. Mit dem Spatel nach unten schieben.
+7. Butter zugeben und 3 Min./90 °C/Stufe 2 dünsten.
+8. Eier, Milch, Crème fraîche, Salz, Backpulver, Mehl und die beiseitegestellte Käsemischung zugeben und 10 Sek./Stufe 4 vermischen.
+9. Mit dem Spatel nach unten schieben und weitere 5 Sek./Stufe 4 mischen.
+10. Lachs und Spargel zugeben. Mit dem Spatel vorsichtig unterheben, dann 20 Sek./Linkslauf/Stufe 4 vermengen.
+11. Den Teig in das vorbereitete Muffinblech füllen, die Mulden bis zum Rand füllen. 20 Minuten bei 180 °C backen, bis die Muffins aufgegangen und goldbraun sind. Mixtopf reinigen und trocknen.
+12. **Gedämpfte Eier:** Wasser in den Mixtopf geben und 7 Min./120 °C/Stufe 1 erhitzen.
+13. Bis zu 6 Eier in den Varoma-Behälter legen, den Varoma aufsetzen, den Varoma-Deckel verschließen und 8 Min./Varoma/Stufe 1 garen.
+14. Die Eier vorsichtig entnehmen und beiseitestellen. Bis zu 6 weitere Eier in den Varoma-Behälter legen, den Deckel verschließen und 8 Min./Varoma/Stufe 1 garen. Mit den übrigen Eiern bei Bedarf wiederholen und gegebenenfalls Wasser nachfüllen.
+15. Die gegarten Eier unter Wasser abschrecken, bis sie sich anfassen lassen, dann pellen und halbieren.
+16. Die warmen Muffins mit Eiern, Relish, nach Belieben Rucola und Kirschtomaten servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r114429), ca. 448.5 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r114429), ca. 448.5 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

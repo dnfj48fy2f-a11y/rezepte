@@ -14,11 +14,27 @@ foto: fotos/piccalilli.jpg
 ---
 
 ## Zutaten
+- 450 g gemischtes Gemüse
+- 2 EL feines Meersalz
+- 30 g Sonnenblumenöl
+- 1 EL gelbe Senfsamen
+- 1 EL Koriander, gemahlen
+- 1 EL Kurkuma, gemahlen
+- 1 EL englisches Senfpulver
+- 25 g Speisestärke
+- 350 g Apfelessig
+- 150 g Zucker
 
 ## Zubereitung
+1. Den Varoma-Behälter aufsetzen und das gemischte Gemüse in Stücken hineinwiegen, dann 2 EL Salz darüberstreuen. Gut vermengen, mit dem Varoma-Deckel abdecken, auf einen Teller stellen und über Nacht an einem kühlen Ort ruhen lassen. Am nächsten Tag das Gemüse mit sehr kaltem Wasser abspülen, gut abtropfen lassen und mit Küchenpapier trockentupfen.
+2. Ohne das Messer zu berühren, Öl, Senfsamen, Koriander und Kurkuma in den Mixtopf geben und 3 Min./100 °C/Sanftrührstufe dünsten. Mit dem Spatel Rand und Boden des Mixtopfs abstreifen.
+3. Das Senfpulver in eine kleine Schüssel geben. Die Schüssel auf den Mixtopfdeckel stellen und Speisestärke und 20 g Essig einwiegen. Abnehmen und zu einer glatten Paste verrühren (bei Bedarf etwas mehr Essig zugeben). Die Paste in den Mixtopf geben und 15 Sek./Stufe 4 verrühren. Mit dem Spatel Rand und Boden abstreifen.
+4. Zucker, die restlichen 330 g Essig und das restliche 1 TL Salz zugeben und 10 Min./100 °C/Stufe 2 aufkochen.
+5. Das abgetropfte Gemüse zugeben, mit dem Spatel umrühren, bis es von der Sauce überzogen ist, und 5 Min./80 °C/Linkslauf/Sanftrührstufe garen.
+6. In vorgewärmte Gläser mit Schraubdeckel füllen (ca. 5 mm Rand frei lassen). Darauf achten, dass die Glasränder sauber sind, und sofort verschließen. Mindestens vier Wochen durchziehen lassen, damit sich die Aromen entwickeln.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r95476), ca. 1307 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r95476), ca. 1307 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Classic Egg and Cress Sandwiches
+titel: Klassische Ei-Kresse-Sandwiches
 title_en: Classic Egg and Cress Sandwiches
 kategorie: snack
 tags: [thermomix, snack]
@@ -14,11 +14,26 @@ foto: fotos/classic-egg-and-cress-sandwiches.jpg
 ---
 
 ## Zutaten
+- 400 g Wasser
+- 4 mittelgroße Eier
+- 2 Frühlingszwiebeln
+- 120 g Mayonnaise
+- 1–1½ TL Dijon-Senf
+- 1 Prise Cayennepfeffer, gemahlen
+- 2 Prisen feines Meersalz
+- 2 Prisen schwarzer Pfeffer, gemahlen
+- 8 Scheiben Vollkornbrot
+- 20 g Kresse
 
 ## Zubereitung
+1. Wasser in den Mixtopf geben, den Gareinsatz einsetzen und die Eier hineinlegen. 14 Min./Varoma/Stufe 1 dämpfen.
+2. Den Gareinsatz mithilfe des Spatels entnehmen, die Eier 2–3 Minuten unter kaltem Wasser abschrecken und pellen. Das Kochwasser wegschütten.
+3. Frühlingszwiebeln in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern.
+4. Die gekochten Eier, Mayonnaise, Senf, nach Belieben Cayennepfeffer, Salz und Pfeffer zugeben und 2 Sek./Stufe 4 vermischen.
+5. Die Ei-Mayonnaise-Mischung auf 4 Brotscheiben verteilen, mit Kresse belegen und mit den restlichen 4 Brotscheiben zusammenklappen. Mit einem Sägemesser die Rinde abschneiden und jedes Sandwich in 3 Streifen schneiden. Sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r364975), ca. 143 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r364975), ca. 143 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

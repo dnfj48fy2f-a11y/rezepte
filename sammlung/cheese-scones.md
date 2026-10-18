@@ -1,5 +1,5 @@
 ---
-titel: Cheese Scones
+titel: Käse-Scones
 title_en: Cheese Scones
 kategorie: backen
 tags: [thermomix, brot, schnell]
@@ -14,11 +14,24 @@ foto: fotos/cheese-scones.jpg
 ---
 
 ## Zutaten
+- 450 g Weizenmehl (Type 405)
+- 3 TL Backpulver
+- ½ TL Salz
+- 120 g Butter, ungesalzen
+- 140 g Cheddar
+- 10 frische Schnittlauchhalme
+- 250 g Milch
 
 ## Zubereitung
+1. Backofen auf 220 °C vorheizen und ein Backblech mit Backpapier auslegen.
+2. Mehl, Backpulver und Salz in den Mixtopf geben und 4 Sek./Stufe 8 vermischen.
+3. Butter, Cheddar und Schnittlauch zugeben und 4 Sek./Stufe 6 zerkleinern.
+4. Milch zugeben und 20 Sek./Teigknetstufe kneten. Mit dem Spatel nach unten schieben und nochmals 3 Sek./Teigknetstufe kneten, bis der Teig gerade zusammenhält.
+5. Den Mixtopf auf eine bemehlte Fläche stülpen und das Messer lösen, damit der Teig herausfällt. Den Teig vorsichtig zu einer runden Form zusammenfügen und auf ca. 1,5 cm Dicke flach drücken. Mit einem Ausstecher (Ø 6 cm) Kreise ausstechen (gerade nach unten drücken, nicht drehen). Restteig vorsichtig neu formen und weitere Kreise ausstechen, bis der Teig aufgebraucht ist. Die Scones auf das vorbereitete Blech legen und die Oberseiten mit Milch bestreichen.
+6. 15 Minuten bei 220 °C backen, bis sie goldbraun sind. Warm oder kalt servieren — passt gut zu einer Suppe oder als Snack.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r80571), ca. 231.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Breads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r80571), ca. 231.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Breads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

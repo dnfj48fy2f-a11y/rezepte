@@ -1,5 +1,5 @@
 ---
-titel: "Menu with Ginger-Pea Soup, Lemon Salmon, Broccoli and Potatoes"
+titel: "Menü: Ingwer-Erbsen-Suppe, Zitronenlachs, Brokkoli und Kartoffeln"
 title_en: "Menu with Ginger-Pea Soup, Lemon Salmon, Broccoli and Potatoes"
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,35 @@ foto: fotos/menu-with-ginger-pea-soup-lemon-salmon-broccoli-and-potatoes.jpg
 ---
 
 ## Zutaten
+- 1 Zitrone
+- 85 g Olivenöl (3 oz)
+- 55 g Sojasauce (2 oz)
+- ½ TL brauner Zucker
+- 4 Lachsfilets ohne Haut
+- 2,5 cm frischer Ingwer (1 inch)
+- 1 Knoblauchzehe
+- 100 g Schalotte (3½ oz)
+- 100 g Lauch (3½ oz)
+- 100 g Staudensellerie (3½ oz)
+- 350 g TK-Erbsen (12½ oz)
+- 450 g Wasser (16 oz)
+- 2 TL Salz
+- 250 g Kartoffeln (9 oz)
+- 400 g Brokkoliröschen (14 oz)
+- 2 Prisen schwarzer Pfeffer, gemahlen
+- 60–85 g Sahne (2–3 oz)
 
 ## Zubereitung
+1. Mit einem Gemüseschäler die Schale von 1 Zitrone dünn abschälen, dabei die weiße Haut vermeiden, und beiseitestellen. Die Zitrone halbieren, den Saft in eine kleine Schüssel pressen und bis zur Verwendung beiseitestellen.
+2. 30 g Olivenöl, Sojasauce, braunen Zucker, die Zitronenschale einer halben Zitrone und 30 g Zitronensaft in den Mixtopf geben. 20 Sek./Stufe 5 emulgieren. Eine tiefe Schale auf den Mixtopfdeckel stellen, die Lachsfilets einwiegen, die Schale abnehmen und die Marinade aus dem Mixtopf über den Lachs gießen. 10 Minuten im Kühlschrank ruhen lassen und mit dem Rezept fortfahren.
+3. Ingwer, Knoblauch, Schalotten, Lauch und 60 g Olivenöl in den Mixtopf geben. 4 Sek./Stufe 4 zerkleinern und mit dem Spatel nach unten schieben.
+4. 7 Min./120 °C (250 °F)/Stufe 1 dünsten. In der Zwischenzeit den Varoma-Einlegeboden mit Backpapier auslegen.
+5. Sellerie und Erbsen in den Mixtopf geben, den Messbecher einsetzen (nur TM5/TM6) und 8 Sek./Stufe 8 zerkleinern. Mit dem Spatel nach unten schieben.
+6. Wasser und 1 TL Salz zugeben. Den Gareinsatz einsetzen und die Kartoffeln einwiegen. Den Varoma-Behälter aufsetzen, die Brokkoliröschen einwiegen und mit ½ TL Salz würzen. Den vorbereiteten Einlegeboden einsetzen, die Lachsfilets darauf legen, mit ½ TL Salz und Pfeffer würzen und mit der Marinade beträufeln. Den Varoma-Deckel verschließen und 20 Min./Varoma/Stufe 1 dämpfen. Den abgedeckten Varoma auf einem Teller beiseitestellen, damit er warm bleibt. Den Gareinsatz mit dem Spatel entnehmen, auf einen Teller stellen und mit einem Geschirrtuch abdecken, damit er warm bleibt.
+7. Sahne in den Mixtopf geben, den Messbecher einsetzen (nur TM5/TM6) und 2 Min./Stufe 6–10 pürieren, dabei die Stufe langsam steigern. Die Suppe als Vorspeise servieren, danach Lachsfilets, Kartoffeln und Brokkoli als Hauptgang.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r255020), ca. 713 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r255020), ca. 713 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

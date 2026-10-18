@@ -1,5 +1,5 @@
 ---
-titel: Sabayon (Zabaglione)
+titel: Sabayon (Zabaione)
 title_en: Sabayon (Zabaglione)
 kategorie: dessert
 tags: [thermomix, dessert, schnell]
@@ -14,11 +14,16 @@ foto: fotos/sabayon-zabaglione.jpg
 ---
 
 ## Zutaten
+- 60 g trockener Marsala
+- 60 g trockener Weißwein
+- 120 g Zucker (Feinzucker)
+- 6 Eigelb
 
 ## Zubereitung
+1. Rühraufsatz einsetzen. Marsala, Weißwein, Zucker und Eigelb in den Mixtopf geben und 9 Min./70 °C/Stufe 3 erhitzen. Rühraufsatz entfernen und sofort in Gläsern oder Dessertschalen servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r39598), ca. 250 kcal pro Portion. Aus meinen Cookidoo-Listen: Deserts. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r39598), ca. 250 kcal pro Portion. Aus meinen Cookidoo-Listen: Deserts. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

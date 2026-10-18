@@ -1,5 +1,5 @@
 ---
-titel: Red Velvet Cake
+titel: Red-Velvet-Torte
 title_en: Red Velvet Cake
 kategorie: backen
 tags: [thermomix, kuchen]
@@ -14,11 +14,35 @@ foto: fotos/red-velvet-cake.jpg
 ---
 
 ## Zutaten
+- 2 große Eier
+- 340 g Sonnenblumenöl
+- 240 g Buttermilch
+- 1 TL natürlicher Vanilleextrakt
+- 1 EL weißer Weinessig
+- ½–1 rote Lebensmittelfarbe
+- 300 g Feinzucker
+- 300 g Weizenmehl
+- 20 g Kakaopulver
+- 1½ TL Natron
+- ¼ TL feines Meersalz
+- 180 g Feinzucker
+- 250 g Frischkäse
+- 40 g Butter, ungesalzen
+- ½ TL natürlicher Vanilleextrakt
 
 ## Zubereitung
+1. **Biskuit:** Backofen auf 170 °C vorheizen. Die Böden von 2 Springformen (Ø 20 cm) einfetten und mit Backpapier auslegen.
+2. Öl, Buttermilch, Eier, Vanilleextrakt, Essig und Lebensmittelfarbe in den Mixtopf geben und 30 Sek./Stufe 3 vermischen.
+3. Zucker, Mehl, Kakao, Natron und Salz zugeben und 20 Sek./Stufe 5 vermischen. Mit dem Spatel nach unten schieben und nochmals 20 Sek./Stufe 5 mischen.
+4. Gleichmäßig auf die vorbereiteten Formen verteilen. 40–45 Minuten bei 170 °C backen, bis ein Holzspieß in der Mitte sauber herauskommt. 10 Minuten in den Formen abkühlen lassen, dann auf einem Gitter vollständig auskühlen lassen. In der Zwischenzeit den Mixtopf reinigen und das Frosting zubereiten.
+5. **Frosting:** Zucker in den Mixtopf geben und 20 Sek./Stufe 10 mahlen.
+6. Frischkäse, Butter und Vanilleextrakt zugeben und 30 Sek./Stufe 4 vermischen. Mit dem Spatel nach unten schieben und nochmals 10 Sek./Stufe 4 mischen. In eine Schüssel umfüllen und beiseitestellen. Mixtopf reinigen.
+7. **Zusammenbauen und Dekorieren:** Wenn die Biskuitböden abgekühlt sind, von einem Boden eine dünne Schicht oben abschneiden und in Stücken in den Mixtopf geben. 2–4 Sek./Stufe 6 zu feinen Bröseln zerkleinern.
+8. Eine Schicht Frosting auf den freigelegten Biskuit streichen und den zweiten Boden daraufsetzen. Oberseite und Seiten der Torte mit dem restlichen Frosting bestreichen und die beiseitegestellten Biskuitbrösel an den Seiten und am Rand verteilen.
+9. Auf eine Tortenplatte oder einen Tortenständer setzen und in Stücken servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r305715), ca. 626 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r305715), ca. 626 kcal pro Portion. Aus meinen Cookidoo-Listen: Cakes. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

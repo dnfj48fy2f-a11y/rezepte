@@ -1,5 +1,5 @@
 ---
-titel: Cheesy Triangle Scones
+titel: Käse-Dreieck-Scones
 title_en: Cheesy Triangle Scones
 kategorie: backen
 tags: [thermomix, brot, schnell]
@@ -14,11 +14,21 @@ foto: fotos/cheesy-triangle-scones.jpg
 ---
 
 ## Zutaten
+- 450 g Mehl mit Backtriebmittel (Self-Raising Flour)
+- 120 g Butter, ungesalzen
+- 1 TL Backpulver
+- 1 Prise feines Meersalz
+- 120–200 g Cheddar
+- 250 g Milch
 
 ## Zubereitung
+1. Backofen auf 220 °C vorheizen und ein großes Backblech mit Backpapier oder einer Silikonmatte auslegen.
+2. Mehl, Butter, Backpulver und Salz in den Mixtopf geben und 5–6 Mal Turbo/1 Sek. zu groben Bröseln raspeln.
+3. Cheddar zugeben und 3 Mal Turbo/1 Sek. zerkleinern.
+4. Milch zugeben, 5 Sek./Stufe 4 vermischen und 30 Sek./Teigknetstufe kneten. Auf das vorbereitete Blech stürzen und zu einer Kugel zusammenfügen. Zu einer Scheibe (ca. 3 cm dick) flach drücken und mit dem Spatel in 8 Stücke schneiden. Die Stücke auseinanderschieben und 15–18 Minuten bei 220 °C goldbraun backen. Am besten frisch am selben Tag servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r450586), ca. 386 kcal pro Portion. Aus meinen Cookidoo-Listen: Breads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r450586), ca. 386 kcal pro Portion. Aus meinen Cookidoo-Listen: Breads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

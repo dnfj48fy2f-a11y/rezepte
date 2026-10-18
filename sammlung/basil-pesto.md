@@ -1,5 +1,5 @@
 ---
-titel: Basil Pesto
+titel: Basilikumpesto
 title_en: Basil Pesto
 kategorie: grundrezept
 tags: [thermomix, dip, schnell]
@@ -14,11 +14,18 @@ foto: fotos/basil-pesto.jpg
 ---
 
 ## Zutaten
+- 80 g Parmesan
+- 30 g Pinienkerne
+- 80 g frische Basilikumblätter
+- 150 g natives Olivenöl extra
+- ½ TL feines Meersalz
 
 ## Zubereitung
+1. Parmesan in den Mixtopf geben und 15 Sek./Stufe 10 reiben.
+2. Nach Belieben Knoblauch, außerdem Pinienkerne, Basilikum, Öl und Salz zugeben und 20 Sek./Stufe 7 zerkleinern. Als Sauce servieren oder in ein Glas mit luftdichtem Deckel füllen (ca. 5 mm Rand frei lassen). Darauf achten, dass der Glasrand sauber ist, sofort verschließen und bis zur Verwendung im Kühlschrank aufbewahren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r151857), ca. 310 kcal pro Portion. Aus meinen Cookidoo-Listen: Dips. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r151857), ca. 310 kcal pro Portion. Aus meinen Cookidoo-Listen: Dips. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

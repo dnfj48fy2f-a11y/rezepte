@@ -1,5 +1,5 @@
 ---
-titel: Blackened Salmon with Bean and Corn Salsa
+titel: Blackened Salmon mit Bohnen-Mais-Salsa
 title_en: Blackened Salmon with Bean and Corn Salsa
 kategorie: hauptgericht
 tags: [thermomix, schnell]
@@ -14,11 +14,36 @@ foto: fotos/blackened-salmon-with-bean-and-corn-salsa.jpg
 ---
 
 ## Zutaten
+- 2 EL getrocknete Zwiebelflocken
+- 1 EL Fenchelsamen, getrocknet
+- 1 EL Thymian, getrocknet
+- 1 EL Salbei, getrocknet
+- 1 EL geräuchertes Paprikapulver
+- 1 TL schwarze Pfefferkörner
+- 1 TL feines Meersalz
+- 1 TL Knoblauchpulver
+- 4 frische Lachsfilets
+- Olivenöl
+- ½–1 frische rote Chilischote
+- 5 Frühlingszwiebeln
+- 15 g frische Korianderblätter
+- 480 g reife Tomaten
+- ½ TL feines Meersalz
+- 260 g Mais aus der Dose
+- 240 g Kidneybohnen aus der Dose
+- 3 Limetten
+- 1 Avocado
 
 ## Zubereitung
+1. **Gewürzmischung:** Alle Zutaten für die Gewürzmischung in den Mixtopf geben und 30 Sek./Stufe 10 mahlen. In ein luftdichtes Glas umfüllen. Den Mixtopf ausspülen und mit Küchenpapier trockenwischen.
+2. **Lachs und Salsa:** Jedes Lachsfilet mit 1 TL der Gewürzmischung bestreuen und andrücken.
+3. Öl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Den Lachs auf jeder Seite 2–3 Minuten braten, einmal wenden, bis er nach Geschmack gar ist. In der Zwischenzeit mit dem Rezept fortfahren.
+4. Chili, Frühlingszwiebeln und Koriander in den Mixtopf geben und 3 Sek./Stufe 8 zerkleinern.
+5. Tomaten und Salz zugeben und 4 Sek./Stufe 4 zerkleinern. Im Gareinsatz abtropfen lassen und in eine Servierschüssel umfüllen.
+6. Die Schüssel mit der Tomatenmischung auf den Mixtopfdeckel stellen und Mais, Kidneybohnen und Limettensaft einwiegen. Schüssel abnehmen und mit dem Spatel verrühren. Den Lachs heiß mit der Bohnen-Mais-Salsa, Avocadoscheiben und Limettenspalten servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r444785), ca. 599 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r444785), ca. 599 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

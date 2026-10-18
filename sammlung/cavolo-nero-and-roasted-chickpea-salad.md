@@ -1,5 +1,5 @@
 ---
-titel: Cavolo Nero and Roasted Chickpea Salad
+titel: Cavolo-Nero-Salat mit gerösteten Kichererbsen
 title_en: Cavolo Nero and Roasted Chickpea Salad
 kategorie: salat
 tags: [thermomix, schnell]
@@ -14,11 +14,33 @@ foto: fotos/cavolo-nero-and-roasted-chickpea-salad.jpg
 ---
 
 ## Zutaten
+- 400 g Kichererbsen, gekocht
+- ½ TL Kreuzkümmel, gemahlen
+- 1 TL geräuchertes Paprikapulver
+- ½ TL feines Meersalz
+- ½ TL schwarzer Pfeffer, gemahlen
+- 1½ EL Olivenöl
+- 200 g Cavolo nero (Palmkohl)
+- 1 Knoblauchzehe
+- 80 g getrocknete Tomaten
+- 20 g Zitronensaft
+- 20 g Rotweinessig
+- 10 g frischer Koriander
+- 10 g frische Minze
+- 4 Frühlingszwiebeln
+- ½ TL Chilisauce
 
 ## Zubereitung
+1. Backofen auf 170 °C vorheizen. Ein großes Backblech mit Küchenpapier auslegen und die Kichererbsen darauf geben. Das Blech schütteln, damit die Kichererbsen auf dem Küchenpapier abtropfen.
+2. Kreuzkümmel, Paprika, Salz, Pfeffer und 1½ EL Öl in einer kleinen Schüssel verrühren. Das Küchenpapier entfernen (die Kichererbsen bleiben auf dem Blech) und die Ölmischung darüberträufeln. Alles vermengen, bis die Kichererbsen vollständig überzogen sind, dann 20 Minuten bei 170 °C im Ofen rösten. Herausnehmen und abkühlen lassen.
+3. 100 g Cavolo nero und 5 g Öl in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern. In eine Servierschüssel umfüllen und beiseitestellen.
+4. Die restlichen 100 g Cavolo nero und 5 g Öl in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern. Zum Kohl in die Schüssel geben.
+5. Knoblauch in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern.
+6. Getrocknete Tomaten, Zitronensaft, Essig, Koriander, Minze, Frühlingszwiebeln und Chilisauce zugeben und 2 Sek./Stufe 5 zerkleinern. In die Servierschüssel geben.
+7. Vor dem Servieren die abgekühlten, gerösteten Kichererbsen in die Schüssel geben und unterrühren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r222068), ca. 187 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r222068), ca. 187 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Garlic Cheddar Biscuits
+titel: Knoblauch-Cheddar-Biscuits
 title_en: Garlic Cheddar Biscuits
 kategorie: snack
 tags: [thermomix, snack, schnell]
@@ -14,11 +14,25 @@ foto: fotos/garlic-cheddar-biscuits.jpg
 ---
 
 ## Zutaten
+- 250 g Cheddar
+- 160 g Butter, ungesalzen
+- 260 g Weizenmehl
+- 240 g Milch
+- 1 EL Zucker
+- 1 EL Backpulver
+- 1½ EL Knoblauchpulver
+- 2 TL feines Meersalz
+- ½ TL Petersilie, getrocknet
 
 ## Zubereitung
+1. Backofen auf 220 °C vorheizen und 2 Backbleche mit Backpapier auslegen.
+2. Cheddar in den Mixtopf geben und 5 Sek./Stufe 8 reiben. In eine Schüssel umfüllen und beiseitestellen.
+3. Butter in den Mixtopf geben und 4 Min./50 °C/Sanftrührstufe schmelzen. Waage auf Null stellen, 50 g entnehmen (die Waage zeigt −50 g) und in eine kleine Schüssel geben, beiseitestellen.
+4. Mehl, Milch, Zucker, Backpulver, 1½ EL Knoblauchpulver, 1½ TL Salz und den beiseitegestellten geriebenen Cheddar zugeben und 10 Sek./Linkslauf/Stufe 3 vermischen. Esslöffelweise auf die vorbereiteten Bleche setzen (ca. 18 Stück) und 8–10 Minuten bei 220 °C hellbraun backen. In der Zwischenzeit Petersilie, ½ TL Knoblauchpulver und ½ TL Salz zur beiseitegestellten geschmolzenen Butter geben und verrühren.
+5. Die fertigen Biscuits noch heiß mit der vorbereiteten Butter bestreichen und warm servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r403879), ca. 188 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r403879), ca. 188 kcal pro Portion. Aus meinen Cookidoo-Listen: Snack. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

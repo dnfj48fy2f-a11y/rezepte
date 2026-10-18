@@ -1,5 +1,5 @@
 ---
-titel: Salmon and Basmati Rice with Dill Cream Sauce
+titel: Lachs und Basmatireis mit Dill-Sahnesauce
 title_en: Salmon and Basmati Rice with Dill Cream Sauce
 kategorie: hauptgericht
 tags: [thermomix, fisch]
@@ -14,11 +14,30 @@ foto: fotos/salmon-and-basmati-rice-with-dill-cream-sauce.jpg
 ---
 
 ## Zutaten
+- 1000 g Wasser
+- Olivenöl
+- 1½ TL feines Meersalz
+- 250 g Basmatireis
+- 4 frische Lachsfilets, ohne Haut
+- ¼ TL schwarzer Pfeffer, gemahlen
+- 60 g Zwiebeln
+- 1 Knoblauchzehe
+- 10 g Butter, ungesalzen
+- 400 g Sahne (35–37 % Fett)
+- 2 Gemüsebrühwürfel (je für 0,5 l)
+- 1½ EL Tomatenmark
+- 2 Zweige frischer Dill
+- 1 TL Speisestärke
 
 ## Zubereitung
+1. Wasser, Öl und 1 TL Salz in den Mixtopf geben. Den Gareinsatz einsetzen und den Reis einwiegen.
+2. Den Varoma-Einlegeboden in den Varoma-Behälter setzen. Den Einlegeboden mit Öl einfetten, die Lachsfilets daraufsetzen und mit Pfeffer und ½ TL Salz würzen. Den abgedeckten Varoma aufsetzen und 15–17 Min./Varoma/Stufe 4 dämpfen, bis der Lachs gar ist. Den abgedeckten Varoma auf einen Teller stellen, damit der Lachs warm bleibt. Den Gareinsatz mithilfe des Spatels entnehmen und beiseitestellen. Mixtopf leeren und ausspülen.
+3. Zwiebeln und Knoblauch in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+4. Butter zugeben und 3 Min./120 °C/Stufe 1 dünsten.
+5. Sahne, Brühe (Brühwürfel), Tomatenmark, Dill, nach Belieben Chiliflocken und Speisestärke zugeben und 5 Min./98 °C/Stufe 1,5 erhitzen. Lachs und Reis sofort mit der Sauce servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r131940), ca. 853 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r131940), ca. 853 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

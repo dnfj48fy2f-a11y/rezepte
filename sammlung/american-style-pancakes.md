@@ -1,5 +1,5 @@
 ---
-titel: American-style Pancakes
+titel: Amerikanische Pancakes
 title_en: American-style Pancakes
 kategorie: grundrezept
 tags: [thermomix, fruehstueck]
@@ -14,11 +14,21 @@ foto: fotos/american-style-pancakes.jpg
 ---
 
 ## Zutaten
+- 50 g Butter, ungesalzen
+- 300 g Milch
+- 2 mittelgroße Eier
+- 30 g Zucker
+- 200 g Weizenmehl (Type 405)
+- 1 EL Backpulver
+- ½ TL feines Meersalz
 
 ## Zubereitung
+1. Butter in den Mixtopf geben und 2 Min./70 °C/Stufe 1 schmelzen.
+2. Milch, Eier, Zucker, Mehl, Backpulver und Salz zugeben und 10 Sek./Stufe 5 vermischen.
+3. Für die Pancakes ½ TL Butter in einer Pfanne bei mittlerer Hitze erhitzen. Pro Pancake eine Kelle Teig hineingeben und 1–2 Minuten braten, bis sich Bläschen an der Oberfläche bilden. Wenden und weitere 1 Minute braten. Auf einen Teller legen und abdecken, damit sie warm bleiben. Mit dem restlichen Teig wiederholen. Heiß servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r178864), ca. 130.5 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r178864), ca. 130.5 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

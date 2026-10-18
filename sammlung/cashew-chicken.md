@@ -1,5 +1,5 @@
 ---
-titel: Cashew Chicken
+titel: Cashew-Hähnchen
 title_en: Cashew Chicken
 kategorie: hauptgericht
 tags: [thermomix, haehnchen]
@@ -14,11 +14,43 @@ foto: fotos/cashew-chicken.jpg
 ---
 
 ## Zutaten
+- 1 Knoblauchzehe
+- 10 g frischer Ingwer
+- 400 g Hähnchenbrust
+- 200 g Basmatireis
+- 1400 g Wasser
+- 150 g Brokkoliröschen
+- 1 Karotte
+- 3 Stangen Staudensellerie
+- 6 Frühlingszwiebeln
+- ½ rote Paprika
+- 220 g Bambussprossen aus der Dose
+- 1 EL Sesam
+- 50 g Cashewkerne, geröstet, ungesalzen
+- 1½ EL Speisestärke
+- 5 g frischer Ingwer
+- 2 Knoblauchzehen
+- 1 EL Erdnussöl
+- 40 g Sojasauce
+- 1 TL Sesamöl
+- 2–3 TL Honig
+- 20 g Limettensaft
 
 ## Zubereitung
+1. Knoblauch und Ingwer in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern. Mit dem Spatel nach unten schieben.
+2. Hähnchen zugeben und 5 Sek./Linkslauf/Stufe 1 vermischen. Das Hähnchen auf den Varoma-Einlegeboden geben, den Einlegeboden einsetzen und beiseitestellen.
+3. Den Gareinsatz einsetzen und den Reis einwiegen.
+4. 900 g Wasser zugeben und 20 Sek./Stufe 6 spülen. Den abgedeckten Varoma aufsetzen und 15–20 Min./Varoma/Stufe 4 garen, bis der Reis gar ist. Den Gareinsatz mithilfe des Spatels entnehmen, den gekochten Reis in eine Servierschüssel geben und abdecken, damit er warm bleibt.
+5. 500 g Wasser in den Mixtopf geben. Den Varoma-Behälter wieder aufsetzen und den Einlegeboden abnehmen.
+6. Brokkoli, Karotte, Sellerie, Frühlingszwiebeln, rote Paprika und Bambussprossen in den Varoma-Behälter einwiegen — bei Platzmangel auch auf das Hähnchen auf dem Einlegeboden. Mit Sesam und Cashewkernen bestreuen. Den Einlegeboden einsetzen. Den Varoma verschließen und 10–15 Min./Varoma/Stufe 3 garen, bis das Gemüse nach Wunsch gar ist. Hähnchen und Gemüse zum Reis geben und warm halten. Den Dampfsud aufbewahren.
+7. **Sauce:** Die Speisestärke in einer kleinen Schüssel in 3 EL des aufbewahrten Dampfsuds auflösen und beiseitestellen.
+8. Ingwer, Knoblauch und nach Belieben Chili in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern. Mit dem Spatel nach unten schieben.
+9. Öl zugeben und 2 Min./Varoma/Stufe 1 dünsten.
+10. Sojasauce, Sesamöl, Honig, die angerührte Speisestärke und 250 g aufbewahrten Dampfsud zugeben und 4 Min./100 °C/Stufe 3 kochen. Abschmecken und die Konsistenz prüfen (die Sauce sollte nicht zu dünn sein). Bei Bedarf eine weitere Minute kochen.
+11. Limettensaft zugeben, die Sauce über Hähnchen und Gemüse gießen und unterrühren. Heiß servieren, mit etwas Sesam garniert und mit dem gedämpften Reis.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r109767), ca. 688 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r109767), ca. 688 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Chicken Tagine
+titel: Hähnchen-Tajine (1 Portion)
 title_en: Chicken Tagine
 kategorie: hauptgericht
 tags: [thermomix, schnell]
@@ -14,11 +14,30 @@ foto: fotos/chicken-tagine.jpg
 ---
 
 ## Zutaten
+- 1 TL Olivenöl
+- 50 g rote Zwiebel
+- 180 g Hähnchenbrust
+- ¼ TL Ingwer, gemahlen
+- ½ TL Koriander, gemahlen
+- ¼ TL Zimt, gemahlen
+- ¼–½ TL Cayennepfeffer, gemahlen
+- ½ Zucchini
+- 1 Tomate
+- 50 g Couscous
+- 200 g Hühnerbrühe
+- 1 Karotte
+- feines Meersalz
+- schwarzer Pfeffer, gemahlen
 
 ## Zubereitung
+1. Öl und Zwiebel in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 3 Min./100 °C/Sanftrührstufe dünsten.
+2. Hähnchen zugeben und 3 Min./100 °C/Linkslauf/Sanftrührstufe anbraten.
+3. Ingwer, Koriander, Zimt und Cayennepfeffer zugeben und 2 Min./100 °C/Linkslauf/Sanftrührstufe anbraten.
+4. Zucchini, Karotte, Tomate, nach Belieben Aprikosen und 100 g Brühe zugeben und 10 Min./98 °C/Linkslauf/Sanftrührstufe garen, bis das Gemüse zart ist. In der Zwischenzeit den Couscous nach Packungsanweisung mit der restlichen Brühe zubereiten.
+5. Abschmecken und die Tajine mit dem Couscous servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r235758), ca. 612 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r235758), ca. 612 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

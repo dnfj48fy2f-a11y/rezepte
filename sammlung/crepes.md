@@ -1,5 +1,5 @@
 ---
-titel: Crêpes
+titel: "Crêpes (Cookidoo-Version, englisch)"
 title_en: Crêpes
 kategorie: grundrezept
 tags: [thermomix, fruehstueck]
@@ -14,11 +14,19 @@ foto: fotos/crepes.jpg
 ---
 
 ## Zutaten
+- 50 g Butter, ungesalzen
+- 600 g Milch
+- 250 g Mehl
+- 4 Eier
+- 1 Prise Salz
 
 ## Zubereitung
+1. Butter in den Mixtopf geben und 2 Min./70 °C/Stufe 2 schmelzen.
+2. Milch, Mehl, Eier und Salz zugeben und 20 Sek./Stufe 4 vermischen. Der Teig sollte die Konsistenz von flüssiger Sahne haben. Falls er zu dick ist, etwas Milch zugeben. Den Teig vor der Verwendung mindestens 30 Minuten ruhen lassen.
+3. Eine beschichtete Pfanne leicht mit Butter einfetten und bei mittlerer bis hoher Hitze erhitzen. Eine kleine Kelle Teig hineingießen und dabei die Pfanne schwenken, damit der Boden vollständig bedeckt ist (die Crêpe hat ca. Ø 22 cm und ist sehr dünn). 2–3 Minuten backen, bis die Ränder hellgolden sind. Wenden und weitere 1 Minute backen. Auf einen Teller legen und mit einem Geschirrtuch abdecken, damit sie warm bleibt. Mit dem restlichen Teig wiederholen. Warm servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r35102), ca. 197 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r35102), ca. 197 kcal pro Portion. Aus meinen Cookidoo-Listen: Breakfast. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

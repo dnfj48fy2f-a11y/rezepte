@@ -1,5 +1,5 @@
 ---
-titel: Gazpacho
+titel: Gazpacho (Thermomix)
 title_en: Gazpacho
 kategorie: suppe
 tags: [thermomix, suppe]
@@ -14,11 +14,21 @@ foto: fotos/gazpacho-thermomix.jpg
 ---
 
 ## Zutaten
+- 1000 g Fleischtomaten (Eiertomaten)
+- 50 g grüne Paprika
+- 40 g Zwiebeln
+- 70 g Salatgurke
+- 1 Knoblauchzehe
+- 30 g Essig
+- 1 TL feines Meersalz
+- 50–100 g natives Olivenöl extra
+- 8 Eiswürfel
 
 ## Zubereitung
+1. Tomaten, grüne Paprika, Zwiebeln, Gurke, Knoblauch, Essig, Salz, Öl und Eiswürfel in den Mixtopf geben, 30 Sek./Stufe 5 zerkleinern und dann 3 Min./Stufe 10 pürieren. In eine große Schüssel umfüllen und mindestens 1 Stunde im Kühlschrank kühlen. Kalt servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r151889), ca. 148.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r151889), ca. 148.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

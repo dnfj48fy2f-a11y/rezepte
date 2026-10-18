@@ -1,5 +1,5 @@
 ---
-titel: "Apricot, Hazelnut and Feta Couscous with Mixed Vegetables"
+titel: Aprikosen-Haselnuss-Feta-Couscous mit buntem Gemüse
 title_en: "Apricot, Hazelnut and Feta Couscous with Mixed Vegetables"
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,31 @@ foto: fotos/apricot-hazelnut-and-feta-couscous-with-mixed-vegetables.jpg
 ---
 
 ## Zutaten
+- 150 g Haselnüsse, ungeröstet
+- 150 g getrocknete Aprikosen
+- 300 g Zwiebeln
+- 20 g Knoblauchzehen
+- 60 g Olivenöl
+- ½ TL Salz
+- 200 g Couscous
+- 1 geh. TL Gemüsebrühpaste, selbst gemacht
+- 600 g Wasser
+- 200 g Karotten
+- 200 g Zucchini
+- 150 g rote Paprika
+- 100 g TK-Erbsen
+- 200 g Feta
 
 ## Zubereitung
+1. Haselnüsse und getrocknete Aprikosen in den Mixtopf geben und 5–10 Sek./Stufe 5 grob zerkleinern. In eine große Schüssel umfüllen und beiseitestellen.
+2. Zwiebeln, Knoblauch, Olivenöl und Salz in den Mixtopf geben und 6 Sek./Stufe 4,5 zerkleinern, dann 13 Min./120 °C/Sanftrührstufe dünsten.
+3. Couscous und Gemüsebrühpaste zugeben und 10 Sek./Linkslauf/Stufe 2 verrühren.
+4. 200 g Wasser zugeben, mit dem Spatel umrühren, mit dem Mixtopfdeckel verschließen und den Couscous 5 Minuten quellen lassen. In der Zwischenzeit den Gareinsatz auf den Mixtopfdeckel stellen und Karotten, Zucchini, rote Paprika und TK-Erbsen hineingeben, beiseitestellen.
+5. Den gequollenen Couscous in die große Schüssel zu den Nüssen und Aprikosen geben. 150 g Feta in Würfeln zugeben und vorsichtig vermengen. Ein Viertel der Couscousmischung locker im Varoma-Behälter verteilen und dabei einige Löcher freilassen, damit der Dampf zirkulieren kann; die restliche Mischung auf dem Varoma-Einlegeboden verteilen. 400 g Wasser in den Mixtopf geben und den Gareinsatz mit dem Gemüse einsetzen. Varoma aufsetzen und 17 Min./Varoma/Stufe 1 garen.
+6. Den Couscous in eine große Servierschüssel geben und mit einer Gabel auflockern. Das gedämpfte Gemüse mit 1 EL Olivenöl beträufeln und vorsichtig vermengen. Den Gareinsatz mithilfe des Spatels entnehmen und das Gemüse um den Couscous anrichten. Heiß servieren, mit gehackter Petersilie (falls verwendet) und dem übrigen Feta garniert.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r150919), ca. 622 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r150919), ca. 622 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

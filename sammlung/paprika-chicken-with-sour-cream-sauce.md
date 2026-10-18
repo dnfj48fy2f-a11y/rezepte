@@ -1,5 +1,5 @@
 ---
-titel: Paprika chicken with sour cream sauce
+titel: Paprika-Hähnchen mit Sauerrahmsauce
 title_en: Paprika chicken with sour cream sauce
 kategorie: hauptgericht
 tags: [thermomix]
@@ -14,11 +14,29 @@ foto: fotos/paprika-chicken-with-sour-cream-sauce.jpg
 ---
 
 ## Zutaten
+- 6 Zweige frische Petersilie
+- 1 braune Zwiebel
+- 2 Knoblauchzehen
+- 20 g Olivenöl
+- 3 TL Paprikapulver (edelsüß)
+- 40 g Tomatenmark
+- 100 g Weißwein
+- 50 g Wasser
+- 2 TL Hühnerbrühpaste
+- ½ TL schwarzer Pfeffer, gemahlen
+- 100 g Sauerrahm
+- 1000 g Hähnchenschenkel, ohne Haut und Knochen
 
 ## Zubereitung
+1. Backofen auf 180 °C vorheizen. Petersilie in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern. In eine Schüssel umfüllen und beiseitestellen.
+2. Zwiebel und Knoblauch in den Mixtopf geben und 3 Sek./Stufe 7 zerkleinern. Mit dem Spatel nach unten schieben.
+3. Öl, Paprikapulver und Tomatenmark zugeben und 3 Min./120 °C/Linkslauf/Stufe 2 dünsten.
+4. Wein zugeben und 2 Min./100 °C/Linkslauf/Stufe 2 ohne Messbecher garen.
+5. Wasser, Brühpaste, Pfeffer und Sauerrahm zugeben und 2 Min./100 °C/Stufe 2 garen.
+6. Die Hähnchenstücke in eine Auflaufform (ca. 23 cm) legen und die Sauce darübergießen. Unbedeckt 1 Stunde bei 180 °C backen. Mit der beiseitegestellten Petersilie garnieren und mit zusätzlichem Sauerrahm servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r103486), ca. 553.5 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r103486), ca. 553.5 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

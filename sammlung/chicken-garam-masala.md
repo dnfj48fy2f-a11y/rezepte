@@ -1,5 +1,5 @@
 ---
-titel: Chicken garam masala
+titel: Hähnchen Garam Masala
 title_en: Chicken garam masala
 kategorie: hauptgericht
 tags: [thermomix, haehnchen]
@@ -14,11 +14,28 @@ foto: fotos/chicken-garam-masala.jpg
 ---
 
 ## Zutaten
+- 2 TL schwarze Pfefferkörner
+- 2 EL Koriandersamen
+- 1 EL Kreuzkümmelsamen
+- ½ TL Muskatnuss, gemahlen
+- 1 TL Gewürznelken
+- 1 EL Kardamom, gemahlen
+- ½ TL Zimt, gemahlen
+- 1 getrocknetes Lorbeerblatt
+- 400 g gehackte Tomaten aus der Dose
+- 80 g Sauerrahm (10 % Fett)
+- 50 g Butter
+- ¾ TL Salz
+- 500 g Hähnchenbrustfilet, ohne Haut
 
 ## Zubereitung
+1. **Garam-Masala-Gewürzmischung:** Pfefferkörner, Koriandersamen, Kreuzkümmelsamen, Muskatnuss, Nelken, Kardamom, Zimt und Lorbeerblatt in den Mixtopf geben und 40 Sek./Stufe 10 mahlen. In ein luftdichtes Glas umfüllen und beiseitestellen.
+2. **Hähnchen Garam Masala:** Gehackte Tomaten, Sauerrahm, Butter und Zucker in den Mixtopf geben. Den Gareinsatz statt des Messbechers auf den Mixtopfdeckel setzen und 12 Min./100 °C/Stufe 2 garen.
+3. Salz und 2 EL der beiseitegestellten Garam-Masala-Mischung zugeben. Den Gareinsatz statt des Messbechers auf den Deckel setzen und 3 Min./120 °C/Stufe 1 garen.
+4. Hähnchenbrust in den Mixtopf geben, Messbecher einsetzen und 6 Min./100 °C/Linkslauf/Sanftrührstufe garen. Nach Geschmack abschmecken und heiß servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r63565), ca. 277 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r63565), ca. 277 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Detox Salad
+titel: Detox-Salat
 title_en: Detox Salad
 kategorie: salat
 tags: [thermomix, salat, schnell]
@@ -14,11 +14,26 @@ foto: fotos/detox-salad.jpg
 ---
 
 ## Zutaten
+- 200 g Brokkoliröschen
+- 140 g Rotkohl
+- 50 g rote Zwiebeln
+- 50 g rote Paprika
+- 1 Avocado
+- 50 g fettfreier Naturjoghurt
+- 15 g natives Olivenöl extra
+- 20 g Zitronensaft
+- feines Meersalz
+- schwarzer Pfeffer, gemahlen
+- 2 EL Mandelblättchen
+- ½ EL Chiasamen
 
 ## Zubereitung
+1. **Salat:** Brokkoli, Rotkohl, Zwiebeln und rote Paprika in den Mixtopf geben und 6 Sek./Stufe 4 zerkleinern. In eine Servierschüssel umfüllen und die Avocado zugeben.
+2. **Dressing:** Joghurt, Öl und Zitronensaft in den Mixtopf geben und 10 Sek./Stufe 7 vermischen. Abschmecken. Über den Salat gießen und mit dem Spatel untermischen.
+3. Sofort servieren, mit Mandelblättchen und Chiasamen bestreut.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r106583), ca. 377.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r106583), ca. 377.1 kcal pro Portion. Aus meinen Cookidoo-Listen: Salads. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

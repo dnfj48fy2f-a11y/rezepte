@@ -1,5 +1,5 @@
 ---
-titel: Red Pepper and Tomato Soup (TM5)
+titel: Paprika-Tomaten-Suppe (TM5)
 title_en: Red Pepper and Tomato Soup (TM5)
 kategorie: suppe
 tags: [thermomix, suppe, schnell]
@@ -14,11 +14,25 @@ foto: fotos/red-pepper-and-tomato-soup-tm5.jpg
 ---
 
 ## Zutaten
+- 40 g Linsen
+- 2 Knoblauchzehen
+- 50 g Zwiebeln
+- 200 g rote Paprika
+- 50 g Olivenöl
+- 400 g reife Tomaten
+- 1 geh. TL Gemüsebrühpaste, selbst gemacht
+- 400 g Wasser
+- 1 TL feines Meersalz
+- ½ TL schwarzer Pfeffer, gemahlen
 
 ## Zubereitung
+1. Linsen in den Mixtopf geben und 20 Sek./Stufe 10 mahlen. In eine Schüssel umfüllen und beiseitestellen.
+2. Knoblauch, Zwiebeln, rote Paprika und Öl in den Mixtopf geben und 2 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 5 Min./100 °C/Stufe 1 dünsten.
+3. Tomaten, Wasser, Gemüsebrühpaste, die gemahlenen Linsen, Salz, Pfeffer und nach Belieben Cayennepfeffer zugeben und 14 Min./100 °C/Stufe 2,5 garen. 1 Min./Stufe 5–8 pürieren, dabei die Stufe langsam steigern.
+4. Auf Schalen verteilen und mit Pfeffer bestreut servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r513319), ca. 187.4 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r513319), ca. 187.4 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

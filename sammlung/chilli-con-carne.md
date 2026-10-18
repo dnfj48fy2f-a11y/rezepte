@@ -1,5 +1,5 @@
 ---
-titel: Chilli con carne
+titel: "Chili con Carne (Cookidoo-Version, englisch)"
 title_en: Chilli con carne
 kategorie: hauptgericht
 tags: [thermomix, rind]
@@ -14,11 +14,26 @@ foto: fotos/chilli-con-carne.jpg
 ---
 
 ## Zutaten
+- 30 g Olivenöl
+- 150 g Zwiebeln
+- 1 Knoblauchzehe
+- ½ TL Kreuzkümmel, gemahlen
+- 250 g rote Paprika
+- 1 frische grüne Chilischote
+- 450 g Rinderhackfleisch
+- 300 g Tomaten aus der Dose
+- 1 TL Salz
+- 1 TL Chilisauce
+- 400 g Kidneybohnen aus der Dose
 
 ## Zubereitung
+1. Olivenöl, Zwiebeln, Knoblauch und Kreuzkümmel in den Mixtopf geben. 5 Sek./Stufe 5 zerkleinern, dann 5 Min./120 °C/Stufe 1 dünsten.
+2. Rote Paprika und grüne Chilischote zugeben und 5 Sek./Stufe 5 zerkleinern.
+3. Hackfleisch, Tomaten und Salz zugeben. Mit dem Spatel umrühren, damit sich die Zutaten verbinden und das Fleisch zerfällt. 20 Min./100 °C/Linkslauf/Sanftrührstufe garen.
+4. Chilisauce und Kidneybohnen zugeben und 2 Min./100 °C/Linkslauf/Sanftrührstufe garen. Heiß servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r63327), ca. 307 kcal pro Portion. Aus meinen Cookidoo-Listen: Beef. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r63327), ca. 307 kcal pro Portion. Aus meinen Cookidoo-Listen: Beef. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

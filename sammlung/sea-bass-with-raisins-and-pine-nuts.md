@@ -1,5 +1,5 @@
 ---
-titel: Sea Bass with Raisins and Pine Nuts
+titel: Wolfsbarsch mit Rosinen und Pinienkernen
 title_en: Sea Bass with Raisins and Pine Nuts
 kategorie: hauptgericht
 tags: [thermomix, fisch]
@@ -14,11 +14,26 @@ foto: fotos/sea-bass-with-raisins-and-pine-nuts.jpg
 ---
 
 ## Zutaten
+- 100 g Sultaninen
+- 50 g Pinienkerne
+- 50 g Olivenöl
+- 6 frische Wolfsbarschfilets
+- 120 g Zwiebeln
+- 3 Knoblauchzehen
+- 500 g frischer Spinat
 
 ## Zubereitung
+1. Eine Schüssel auf den Mixtopfdeckel stellen, die Sultaninen einwiegen, mit Wasser bedecken und zum Quellen beiseitestellen.
+2. Pinienkerne in einer trockenen Pfanne bei mittlerer bis hoher Hitze unter ständigem Rühren einige Minuten anrösten. In eine Schüssel umfüllen und beiseitestellen. Etwas Öl in die Pfanne geben und die Wolfsbarschfilets (Hautseite nach oben) leicht anbraten, dann auf Küchenpapier legen.
+3. Zwiebeln und Knoblauch in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+4. Die eingeweichten Sultaninen abgießen und in den Mixtopf geben. 50 g Öl zugeben und 10 Min./120 °C/Sanftrührstufe dünsten.
+5. Backofen auf 220 °C vorheizen.
+6. 250 g Spinat zugeben und 2 Min./120 °C/Linkslauf/Stufe 2 garen.
+7. Die restlichen 250 g Spinat zugeben und 3 Min./120 °C/Linkslauf/Stufe 2 garen. In eine große Auflaufform geben, den angebratenen Wolfsbarsch daraufsetzen und die gerösteten Pinienkerne darüberstreuen.
+8. 10–15 Minuten bei 220 °C backen, bis der Fisch gar ist. Aus dem Ofen nehmen und sofort servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r147896), ca. 430 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r147896), ca. 430 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Chicken Pesto Tagliatelle
+titel: Hähnchen-Pesto-Tagliatelle
 title_en: Chicken Pesto Tagliatelle
 kategorie: hauptgericht
 tags: [thermomix, haehnchen]
@@ -14,11 +14,31 @@ foto: fotos/chicken-pesto-tagliatelle.jpg
 ---
 
 ## Zutaten
+- 700 g Hähnchenbrust
+- 50 g Zitronensaft
+- 1 TL Paprikapulver
+- 65 g Parmesan
+- 60 g frisches Basilikum
+- 25 g Pinienkerne
+- 1 Knoblauchzehe
+- 110 g natives Olivenöl extra
+- 1 Prise feines Meersalz
+- 1200 g Wasser
+- 1 TL feines Meersalz
+- 400 g Tagliatelle (getrocknet)
+- 1 EL Olivenöl
 
 ## Zubereitung
+1. **Hähnchen-Marinade:** Eine Schüssel auf den Mixtopfdeckel stellen und Hähnchen, Zitronensaft und Paprikapulver einwiegen. Mit dem Spatel vermischen und beiseitestellen, 30 Minuten marinieren lassen, während das Pesto zubereitet wird.
+2. **Pesto:** Parmesan in den Mixtopf geben und 10 Sek./Stufe 10 reiben. 1 EL geriebenen Parmesan entnehmen und beiseitestellen.
+3. Basilikum, Pinienkerne, Knoblauch, Olivenöl und Salz zum restlichen Parmesan in den Mixtopf geben und 20 Sek./Stufe 10 zerkleinern. In eine Schüssel umfüllen und beiseitestellen, während Hähnchen und Pasta gegart werden.
+4. **Tagliatelle und Garen:** Wasser und Salz in den Mixtopf geben (der Mixtopf muss nicht gespült werden) und 10 Min./120 °C/Stufe 2 aufkochen.
+5. Tagliatelle zugeben und die auf der Packung angegebene Zeit bei 100 °C/Linkslauf/Sanftrührstufe kochen. In der Zwischenzeit eine Pfanne auf dem Herd bei mittlerer bis hoher Hitze erhitzen, 1 EL Öl zugeben und die Hähnchenstücke 3–4 Minuten pro Seite goldbraun und gar braten.
+6. Die Tagliatelle über den Varoma-Behälter abgießen und in eine Servierschüssel geben.
+7. Die Servierschüssel auf den Mixtopfdeckel stellen, 120 g Pesto und das gebratene Hähnchen zugeben. Vermengen und sofort servieren, mit dem beiseitegestellten Parmesan bestreut.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r86153), ca. 650 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r86153), ca. 650 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -14,11 +14,28 @@ foto: fotos/quiche-lorraine.jpg
 ---
 
 ## Zutaten
+- 150 g Weizenmehl
+- 75 g Butter, ungesalzen
+- ½ TL feines Meersalz
+- 50 g Wasser
+- 200 g Speckwürfel
+- 4 mittelgroße Eier
+- 50 g Milch
+- 100 g Crème fraîche
+- ¼ TL feines Meersalz
+- 2 Prisen schwarzer Pfeffer, gemahlen
 
 ## Zubereitung
+1. Nach Belieben Gruyère in den Mixtopf geben und 10 Sek./Stufe 7 reiben. In eine Schüssel umfüllen und beiseitestellen.
+2. **Teig:** Backofen auf 180 °C vorheizen. Eine Quicheform (Ø 26 cm) einfetten und mit Mehl bestäuben.
+3. Mehl, Butter, Salz und Wasser in den Mixtopf geben und 20 Sek./Stufe 4 vermischen. Herausnehmen und zu einer Kugel formen.
+4. Den Teig auf einer leicht bemehlten Fläche mit dem Nudelholz ausrollen. Die vorbereitete Form damit auslegen, den Boden mit einer Gabel einstechen und beiseitestellen.
+5. **Füllung:** Speckwürfel in den Mixtopf geben und 3 Min./120 °C/Sanftrührstufe anbraten. Den Speck über den Gareinsatz abgießen, das Fett wegwerfen und den Speck beiseitestellen.
+6. Eier, Milch, Crème fraîche, Salz und Pfeffer in den Mixtopf geben und 30 Sek./Stufe 4 vermischen.
+7. Die beiseitegestellten Speckwürfel auf dem Teig verteilen und mit der Eiermischung übergießen. Nach Belieben mit dem beiseitegestellten geriebenen Gruyère bestreuen und 25 Minuten bei 180 °C goldbraun backen. Warm oder kalt servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r151851), ca. 290 kcal pro Portion. Aus meinen Cookidoo-Listen: Vegetarian. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r151851), ca. 290 kcal pro Portion. Aus meinen Cookidoo-Listen: Vegetarian. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

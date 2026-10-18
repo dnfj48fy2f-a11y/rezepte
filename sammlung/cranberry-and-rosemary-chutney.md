@@ -1,5 +1,5 @@
 ---
-titel: Cranberry and rosemary chutney
+titel: Cranberry-Rosmarin-Chutney
 title_en: Cranberry and rosemary chutney
 kategorie: grundrezept
 tags: [thermomix]
@@ -14,11 +14,27 @@ foto: fotos/cranberry-and-rosemary-chutney.jpg
 ---
 
 ## Zutaten
+- 1 braune Zwiebel
+- 220 g Rohrzucker
+- 125 g Rotweinessig
+- 185 g Wasser
+- 4 Zweige frischer Rosmarin
+- 1 Zimtstange
+- 10 ganze schwarze Pfefferkörner
+- 1 frisches Lorbeerblatt
+- ¼ TL Muskatnuss, gemahlen
+- 340 g getrocknete Cranberrys
+- 1–2 Prisen Meersalz
+- 1–2 Prisen schwarzer Pfeffer, gemahlen
 
 ## Zubereitung
+1. Zwiebel in den Mixtopf geben und 3 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben.
+2. Alle restlichen Zutaten zugeben und 12 Min./90 °C/Stufe 1 garen. Mit dem Spatel Rand und Boden des Mixtopfs abstreifen, dann 5 Min./100 °C/Stufe 1 garen. Nochmals mit dem Spatel abstreifen.
+3. 15 Min./60 °C/Stufe 1 garen, bis das Chutney eindickt und die Cranberrys weich sind; dabei den Gareinsatz statt des Messbechers auf den Mixtopfdeckel setzen.
+4. Nach Geschmack mit Salz, Pfeffer und Muskatnuss nachwürzen, dann Zimtstange und Lorbeerblatt vorsichtig entfernen. In einen Krug umfüllen und sofort servieren oder in ein verschließbares Glas füllen und bis zur Verwendung aufbewahren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r90140), ca. 1871 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r90140), ca. 1871 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

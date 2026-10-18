@@ -1,5 +1,5 @@
 ---
-titel: Pizza Dough
+titel: Pizzateig
 title_en: Pizza Dough
 kategorie: grundrezept
 tags: [thermomix]
@@ -14,11 +14,19 @@ foto: fotos/pizza-dough.jpg
 ---
 
 ## Zutaten
+- 220 g Wasser
+- 1 TL Zucker
+- 2 TL Trockenhefe
+- 400 g Weizenmehl (Type 550)
+- 30 g natives Olivenöl extra
+- 1 TL feines Meersalz
 
 ## Zubereitung
+1. Eine große Schüssel leicht einfetten und beiseitestellen. Wasser, Zucker und Hefe in den Mixtopf geben und 20 Sek./Stufe 2 vermischen.
+2. Mehl, Öl und Salz zugeben und 2 Min./Teigknetstufe kneten. In die vorbereitete Schüssel geben und zu einer Kugel formen. Die Schüssel mit wiederverwendbarer Frischhaltefolie abdecken und ruhen lassen, bis sich das Volumen verdoppelt hat (ca. 1 Stunde). Den Pizzateig nach Bedarf verwenden.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r178865), ca. 436.7 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r178865), ca. 436.7 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

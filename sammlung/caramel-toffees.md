@@ -1,5 +1,5 @@
 ---
-titel: Caramel Toffees
+titel: Karamell-Toffees
 title_en: Caramel Toffees
 kategorie: dessert
 tags: [thermomix]
@@ -14,11 +14,22 @@ foto: fotos/caramel-toffees.jpg
 ---
 
 ## Zutaten
+- 315 g Zucker
+- 80 g Butter, ungesalzen
+- 250 g Schlagsahne
+- 1030 g Wasser
+- 1 TL Zitronensaft
+- 50 g Essig
 
 ## Zubereitung
+1. Damit Rezepte im Modus „Zuckerstufen" gelingen, müssen die Zutaten genau der Menge und Beschreibung entsprechen. Das Rezept sollte außerdem sofort gekocht werden, nachdem der Zucker mit den anderen Zutaten in den Mixtopf gegeben wurde.
+2. Eine Backform mit Backpapier auslegen.
+3. Zucker, Butter, Sahne, 30 g Wasser, Zitronensaft und nach Belieben Vanilleextrakt in den Mixtopf geben und den Modus Zuckerstufen starten. Sofort in die vorbereitete Form geben und mit dem Spatel sofort alle Reste vom Mixtopfrand abstreifen, damit sich der Mixtopfdeckel für die Vorreinigung sicher schließen lässt. Das Karamell 5 Minuten abkühlen lassen und nach Geschmack mit Salz bestreuen.
+4. Essig und die restlichen 1000 g Wasser in den Mixtopf geben und die Vorreinigung/Schnell starten.
+5. Das Karamell weitere 35 Minuten abkühlen lassen, dann noch warm mit einem scharfen Messer in Rechtecke (ca. 1 cm × 3 cm) schneiden. Vollständig abkühlen lassen und einzeln in Backpapierquadrate (5 cm) einwickeln. In einer luftdichten Dose bei Zimmertemperatur aufbewahren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r427800), ca. 37 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r427800), ca. 37 kcal pro Portion. Aus meinen Cookidoo-Listen: Merkliste. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

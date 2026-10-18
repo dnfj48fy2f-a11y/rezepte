@@ -1,5 +1,5 @@
 ---
-titel: Butter Chicken
+titel: Butter Chicken (Cookidoo-Version 2)
 title_en: Butter Chicken
 kategorie: hauptgericht
 tags: [thermomix, haehnchen]
@@ -14,11 +14,32 @@ foto: fotos/butter-chicken-thermomix-r111530.jpg
 ---
 
 ## Zutaten
+- 500 g Hähnchenbrust
+- 100 g Tikka-Paste
+- 40 g Ghee
+- 150 g Zwiebeln
+- 20 g frischer Ingwer
+- 10 g frischer Koriander
+- 3 Knoblauchzehen
+- 2 frische grüne Chilischoten
+- 1 TL feines Meersalz
+- 2 TL Kreuzkümmel, gemahlen
+- 2 TL Koriander, gemahlen
+- ½ TL Kurkuma, gemahlen
+- 100 g Wasser
+- 70 g Tomatenmark
+- 500 g Sahne (leichte Sahne / Single Cream)
 
 ## Zubereitung
+1. Eine große Schüssel auf den Mixtopfdeckel stellen, Hähnchen und Tikka-Paste einwiegen. Schüssel abnehmen, gut verrühren und beiseitestellen.
+2. Ghee in den Mixtopf geben und 1 Min./120 °C/Stufe 1 erhitzen.
+3. Zwiebeln, Ingwer, frischen Koriander, Knoblauch und Chili zugeben und 10 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 5 Min./120 °C/Stufe 2 dünsten.
+4. Salz, Kreuzkümmel, gemahlenen Koriander und Kurkuma zugeben und 3 Min./120 °C/Stufe 2 dünsten.
+5. Wasser zugeben und 5 Min./120 °C/Stufe 1 kochen.
+6. Das marinierte Hähnchen, Tomatenmark und Sahne zugeben und 20 Min./100 °C/Linkslauf/Sanftrührstufe garen. Heiß mit Reis oder indischem Brot servieren, um die Sauce aufzutunken.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r111530), ca. 634.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r111530), ca. 634.2 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

@@ -1,5 +1,5 @@
 ---
-titel: Sun-Dried Tomato Tapenade
+titel: Tapenade aus getrockneten Tomaten
 title_en: Sun-Dried Tomato Tapenade
 kategorie: grundrezept
 tags: [thermomix, schnell]
@@ -14,11 +14,24 @@ foto: fotos/sun-dried-tomato-tapenade.jpg
 ---
 
 ## Zutaten
+- 50 g Parmesan
+- 110 g getrocknete Tomaten in Öl
+- 50 g frische Basilikumblätter
+- 70 g Pinienkerne
+- 3–5 Knoblauchzehen
+- 1–2 Prisen Chiliflocken
+- ½ TL feines Meersalz
+- ¼ TL schwarzer Pfeffer, gemahlen
+- 6–8 EL natives Olivenöl extra
 
 ## Zubereitung
+1. Parmesan in den Mixtopf geben und 10 Sek./Stufe 9 reiben.
+2. Getrocknete Tomaten, Basilikum, Pinienkerne, Knoblauch, Chiliflocken, Salz und Pfeffer zugeben und 3 Sek./Stufe 7 mixen. Mit dem Spatel nach unten schieben und nochmals 3 Sek./Stufe 7 mixen. Mit dem Spatel nach unten schieben.
+3. Auf Stufe 3 mixen und dabei 6–8 EL natives Olivenöl langsam auf den Mixtopfdeckel gießen, sodass es in dünnem Strahl auf die rotierenden Messer läuft.
+4. Als Dip oder auf Crostini servieren oder in ein Glas füllen und bis zu 1 Woche im Kühlschrank aufbewahren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r147603), ca. 1818 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r147603), ca. 1818 kcal pro Portion. Aus meinen Cookidoo-Listen: A Few Things to Try Tina. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

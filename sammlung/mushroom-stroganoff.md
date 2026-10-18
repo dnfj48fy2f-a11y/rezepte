@@ -1,8 +1,8 @@
 ---
-titel: Mushroom Stroganoff
+titel: Pilz-Stroganoff
 title_en: Mushroom Stroganoff
 kategorie: hauptgericht
-tags: [thermomix, rind, schnell]
+tags: [thermomix, vegetarisch, pilze, schnell]
 portionen: 4
 zeit_aktiv: 10 min
 zeit_gesamt: 30 min
@@ -14,11 +14,28 @@ foto: fotos/mushroom-stroganoff.jpg
 ---
 
 ## Zutaten
+- 10 g frische Petersilienblätter
+- 1 Knoblauchzehe
+- 200 g Zwiebeln
+- 30 g Butter, ungesalzen
+- 600 g frische Champignons
+- 20 g Tomatenmark
+- 40 g Weißwein
+- 80 g Gemüsebrühe, flüssig
+- 1½ TL Dijon-Senf
+- 1 TL feines Meersalz
+- 10–20 g Zitronensaft
+- 100 g Sahne
 
 ## Zubereitung
+1. Petersilie in den Mixtopf geben und 3 Sek./Stufe 8 zerkleinern. In eine Schüssel umfüllen und beiseitestellen.
+2. Knoblauch, Zwiebeln und Butter in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 3 Min./120 °C/Stufe 1 dünsten.
+3. Champignons zugeben und 5 Min./120 °C/Linkslauf/Sanftrührstufe dünsten.
+4. Tomatenmark, Wein, Gemüsebrühe, Senf und Salz zugeben und 8 Min./100 °C/Linkslauf/Sanftrührstufe garen. Mit dem Spatel nach unten schieben.
+5. Zitronensaft und Sahne zugeben und 30 Sek./Linkslauf/Sanftrührstufe vermischen. Bei Bedarf von Hand mit dem Spatel fertig umrühren. Sofort servieren, nach Belieben mit Basmatireis, mit der beiseitegestellten gehackten Petersilie garniert.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r87355), ca. 218 kcal pro Portion. Aus meinen Cookidoo-Listen: Beef. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r87355), ca. 218 kcal pro Portion. Aus meinen Cookidoo-Listen: Beef. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

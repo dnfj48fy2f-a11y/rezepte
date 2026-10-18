@@ -14,11 +14,36 @@ foto: fotos/chicken-tikka-masala.jpg
 ---
 
 ## Zutaten
+- 10 g frischer Ingwer
+- 2 Knoblauchzehen
+- 1 TL feines Meersalz
+- 50 g Ghee
+- 40 g Zwiebel
+- ¼ TL Kurkuma, gemahlen
+- ½ TL Kreuzkümmel, gemahlen
+- ½ TL Koriander, gemahlen
+- ½ TL Garam Masala
+- 2 TL Paprikapulver
+- 1 TL Zucker
+- 1 EL Tomatenmark
+- 400 g gehackte Tomaten aus der Dose
+- 125 g Wasser
+- ½ Hühnerbrühwürfel (für 0,5 l)
+- 50 g Schlagsahne
+- 25 g gemahlene Mandeln
+- 500 g Chicken Tikka (gegart)
 
 ## Zubereitung
+1. Ingwer, Knoblauch und Salz in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. In eine Schüssel umfüllen und beiseitestellen.
+2. Ghee und Zwiebel in den Mixtopf geben und 5 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 5 Min./120 °C/Sanftrührstufe dünsten.
+3. Den beiseitegestellten Ingwer und Knoblauch zugeben und 1 Min. 30 Sek./100 °C/Sanftrührstufe dünsten.
+4. Kurkuma, Kreuzkümmel, Koriander, Garam Masala, Paprikapulver, Zucker und Tomatenmark zugeben und 2 Min./100 °C/Sanftrührstufe garen.
+5. Tomaten, Wasser und Hühnerbrühwürfel zugeben und 15 Min./100 °C/Stufe 1 garen.
+6. Sahne und Mandeln zugeben und 30 Sek./Stufe 9 pürieren. Deckel und Mixtopfrand mit dem Spatel abstreifen.
+7. Das gegarte Chicken Tikka zugeben und 10 Min./95 °C/Linkslauf/Stufe 0,5 erhitzen. Mit Reis oder Naan servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r112278), ca. 423.3 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r112278), ca. 423.3 kcal pro Portion. Aus meinen Cookidoo-Listen: Chicken. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients

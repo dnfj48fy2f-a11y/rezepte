@@ -1,5 +1,5 @@
 ---
-titel: Almond Crusted Salmon with Asparagus Tagliatelle
+titel: Mandelkruste-Lachs mit Spargel-Tagliatelle
 title_en: Almond Crusted Salmon with Asparagus Tagliatelle
 kategorie: hauptgericht
 tags: [thermomix, fisch]
@@ -14,11 +14,33 @@ foto: fotos/almond-crusted-salmon-with-asparagus-tagliatelle.jpg
 ---
 
 ## Zutaten
+- 4 frische Lachsfilets, ohne Haut
+- 30 g frisch gepresster Zitronensaft
+- 40 g Olivenöl
+- 20 g Dijon-Senf
+- 15 g Honig
+- 2 Knoblauchzehen
+- ½ TL feines Meersalz
+- 20 g blanchierte Mandeln
+- 50 g Brot
+- 5 g Petersilie, frisch
+- 1200 g Wasser
+- 1 Gemüsebrühwürfel (für 0,5 l)
+- 300 g frische Tagliatelle
+- 250 g grüner Spargel
+- 1 EL natives Olivenöl extra
+- ½ Zitrone
 
 ## Zubereitung
+1. **Mandelkruste-Lachs:** Backofen auf 200 °C vorheizen und eine Auflaufform einfetten.
+2. Lachsfilets in die vorbereitete Auflaufform legen und beiseitestellen.
+3. Zitronensaft, Öl, Senf, Honig, Knoblauch und Salz in den Mixtopf geben und 10 Sek./Stufe 8 zerkleinern. In eine Schüssel umfüllen, die Lachsfilets damit bestreichen und beiseitestellen.
+4. Ohne den Mixtopf zu spülen, blanchierte Mandeln, Brot und Petersilie in den Mixtopf geben und 10 Sek./Stufe 10 zerkleinern. Die Lachsfilets mit den Mandelbröseln belegen und 15–18 Minuten bei 200 °C backen. In der Zwischenzeit den Mixtopf reinigen und mit dem Rezept fortfahren.
+5. **Spargel-Tagliatelle:** Wasser und Gemüsebrühwürfel in den Mixtopf geben und 10 Min./100 °C/Stufe 1 aufkochen.
+6. Tagliatelle und Spargel zugeben und die auf der Packung angegebene Zeit bei 100 °C/Linkslauf/Stufe 1 kochen, bis die Pasta al dente ist. Pasta und Spargel über den Varoma-Behälter abgießen, in eine Schüssel geben und mit Olivenöl, Zitronensaft und Zitronenschale mischen. Heiß zum Lachs servieren, mit gehackter Petersilie garniert.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (ID r131934), ca. 633 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r131934), ca. 633 kcal pro Portion. Aus meinen Cookidoo-Listen: Fish. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients
