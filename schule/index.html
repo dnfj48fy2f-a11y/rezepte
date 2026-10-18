@@ -47,6 +47,8 @@ ul.plain{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;g
 .les.soft{border-left-color:var(--line)}
 .les.pause{border-left-color:transparent;color:var(--muted);font-size:.85rem}
 .row{display:flex;gap:10px;align-items:baseline}
+.off b,.off .was{text-decoration:line-through;color:var(--muted)}
+.offtag{font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;background:var(--bad-bg);color:var(--bad);border-radius:6px;padding:0 6px;margin-left:6px}
 .time{font-weight:700;font-variant-numeric:tabular-nums;min-width:3.2rem}
 .chip{display:inline-block;border-radius:6px;padding:0 7px;font-size:.78rem;font-weight:700;white-space:nowrap;color:oklch(var(--l-chip-fg) var(--c-chip) var(--fh));background:oklch(var(--l-chip-bg) calc(var(--c-chip)*.45) var(--fh))}
 .hw{display:flex;flex-direction:column;gap:2px;padding:6px 0;border-top:1px solid var(--line)}
@@ -126,22 +128,24 @@ function lockScreen(msg){
 function kidCol(id){
   var k=D.kinder[id];if(!k)return'';
   var d=viewDay(),key=wk(d),ds=ymd(d),t=ymd(new Date());
+  var aus=(k.ausnahmen&&k.ausnahmen[ds])||{};var weg=(aus.entfaellt||[]).map(function(w){return String(w).toLowerCase()});function isWeg(t){t=String(t).toLowerCase();return weg.some(function(w){return t.indexOf(w)>=0})}
   var lessons=(k.plan[key]||[]).slice().sort(function(a,b){return a.nr-b.nr});
   var bl=[];lessons.forEach(function(l){var p=bl[bl.length-1];if(p&&p.fach===l.fach&&p.art===l.art&&p.bis===l.nr-1)p.bis=l.nr;else bl.push({fach:l.fach,art:l.art,lehrkraft:l.lehrkraft,notiz:l.notiz,von:l.nr,bis:l.nr})});
   var R={};(D.raster.stunden||[]).forEach(function(s){R[s.nr]=s});
   var les=bl.map(function(b){var v=(R[b.von]||{}).von||'',e=(R[b.bis]||{}).bis||'';
     if(b.art==='pause')return'<li class="les pause"><span class="t">'+esc(v)+'</span><span>'+esc(b.fach)+'</span></li>';
-    return'<li class="les'+(b.art!=='unterricht'?' soft':'')+'" style="--fh:'+hue(b.fach)+'"><span class="t">'+esc(v)+'–'+esc(e)+'</span><span><b>'+esc(b.fach)+'</b>'+(b.notiz?'<span class="lk">'+esc(b.notiz)+'</span>':'')+'</span></li>'}).join('');
-  var br=(k.mitbringen&&k.mitbringen[key])||[];
+    return'<li class="les'+(b.art!=='unterricht'?' soft':'')+(isWeg(b.fach)?' off':'')+'" style="--fh:'+hue(b.fach)+'"><span class="t">'+esc(v)+'–'+esc(e)+'</span><span><b>'+esc(b.fach)+'</b>'+(isWeg(b.fach)?'<span class="offtag">fällt aus</span>':'')+(b.notiz?'<span class="lk">'+esc(b.notiz)+'</span>':'')+'</span></li>'}).join('');
+  var br=((k.mitbringen&&k.mitbringen[key])||[]).filter(function(x){return !isWeg(x)});
   var af=(k.nachmittag&&k.nachmittag[key])||[];
   var hw=D.aufgaben.filter(function(a){return a.kind===id&&!a.erledigt}).sort(function(a,b){return a.faellig<b.faellig?-1:1});
   var ex=D.pruefungen.filter(function(p){return p.kind===id&&p.datum>=t&&diff(t,p.datum)<=14}).sort(function(a,b){return a.datum<b.datum?-1:1});
   var exToday=D.pruefungen.filter(function(p){return p.kind===id&&p.datum===ds});
   return '<section class="kid" style="--h:'+(k.farbe||230)+'"><div class="kh"><h2>'+esc(k.name)+'</h2><span class="sub">'+esc(k.klasse)+'</span></div>'
+   +(aus.hinweis?'<div class="note">'+esc(aus.hinweis)+'</div>':'')
    +exToday.map(function(p){return'<div class="note">'+esc(p.art)+' '+esc(p.fach)+'</div>'}).join('')
    +'<div class="bring"><span class="label">Mitbringen</span>'+(br.length?'<ul>'+br.map(function(x){return'<li>'+esc(x)+'</li>'}).join('')+'</ul>':'<span class="sub">Nur die normale Schultasche.</span>')+'</div>'
    +'<div><span class="label">Stunden</span><ul class="plain">'+(les||'<li class="empty">Kein Unterricht.</li>')+'</ul></div>'
-   +'<div><span class="label">Nachmittag</span>'+(af.length?'<ul class="plain">'+af.map(function(a){return'<li class="row"><span class="time">'+esc(a.zeit)+'</span><span>'+esc(a.was)+'</span></li>'}).join('')+'</ul>':'<p class="empty" style="margin:2px 0 0">frei</p>')+'</div>'
+   +'<div><span class="label">Nachmittag</span>'+(af.length?'<ul class="plain">'+af.map(function(a){return'<li class="row'+(isWeg(a.was)?' off':'')+'"><span class="time">'+esc(a.zeit)+'</span><span class="was">'+esc(a.was)+'</span>'+(isWeg(a.was)?'<span class="offtag">fällt aus</span>':'')+'</li>'}).join('')+'</ul>':'<p class="empty" style="margin:2px 0 0">frei</p>')+'</div>'
    +'<div><span class="label">Hausaufgaben</span>'+(hw.length?'<ul class="plain">'+hw.map(function(a){var n=diff(t,a.faellig);var due=n<0?'<span class="over">überfällig</span>':n===0?'<span class="soon">heute</span>':n===1?'<span class="soon">morgen</span>':'bis '+short(a.faellig);return'<li class="hw"><span>'+esc(a.text)+'</span><span class="meta" style="--fh:'+hue(a.fach)+'">'+chip(a.fach)+due+'</span></li>'}).join('')+'</ul>':'<p class="empty" style="margin:2px 0 0">Nichts offen.</p>')+'</div>'
    +'<div><span class="label">Prüfungen (14 Tage)</span>'+(ex.length?'<ul class="plain">'+ex.map(function(p){var n=diff(t,p.datum);var st=(p.schritte||[]);var heute=st.filter(function(s){return s.datum===t&&!s.erledigt});var late=st.filter(function(s){return s.datum<t&&!s.erledigt}).length;
       return'<li class="ex"><div class="cnt'+(n<=3?' hot':'')+'"><b>'+(n===0?'!':n)+'</b><small>'+(n===0?'heute':n===1?'Tag':'Tage')+'</small></div><div><b>'+esc(p.art)+' '+esc(p.fach)+'</b> <span class="sub">'+short(p.datum)+'</span>'
