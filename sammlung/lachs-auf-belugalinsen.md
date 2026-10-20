@@ -11,6 +11,7 @@ sprache_original: de
 hinzugefuegt: 2026-07-16
 bewertung:
 foto: fotos/lachs-auf-belugalinsen.jpg
+anhang: [fotos/lachs-auf-belugalinsen-lachs.jpg]
 ---
 
 ## Zutaten
