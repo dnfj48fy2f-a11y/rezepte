@@ -32,7 +32,7 @@ bewertung:
 4. Mit Frühlingszwiebeln (Algenflocken passen auch) und Eihälften anrichten, nach Belieben mit Sesam und Chili bestreuen.
 
 ## Notizen
-Aus SheerLuxe „5 One-Pot Veggie Meals" — trotz Titel enthält der Artikel vier Rezepte, alle importiert: [[pappa-al-pomodoro]], [[one-pan-pilaf]], [[wurzelgemuese-linsen-schmortopf]].
+Aus SheerLuxe „5 One-Pot Veggie Meals" — trotz Titel enthält der Artikel vier Rezepte, alle importiert: [[one-pan-pilaf]], [[wurzelgemuese-linsen-schmortopf]].
 
 ## English
 ### Ingredients
