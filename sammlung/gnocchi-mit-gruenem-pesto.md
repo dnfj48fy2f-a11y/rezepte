@@ -9,7 +9,7 @@ zeit_gesamt: 15 min
 quelle: Aus Foto rekonstruiert
 sprache_original: de
 hinzugefuegt: 2026-07-15
-bewertung:
+bewertung: 5
 foto: fotos/gnocchi-mit-gruenem-pesto.jpg
 ---
 
