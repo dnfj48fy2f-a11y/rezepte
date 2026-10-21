@@ -8,7 +8,7 @@ zeit_gesamt: 20 min
 quelle: "https://cookidoo.de/recipes/recipe/de-DE/r47922"
 sprache_original: de
 hinzugefuegt: 2026-10-18
-bewertung:
+bewertung: 5
 foto: fotos/champignoncremesuppe.jpg
 ---
 
