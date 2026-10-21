@@ -9,7 +9,7 @@ zeit_gesamt: 8 min
 quelle: "Instagram @jonandhelena (Rezept via @wholesomehedonista)"
 sprache_original: en
 hinzugefuegt: 2026-09-15
-bewertung:
+bewertung: 4
 foto: fotos/mug-cinnamon-rolls.jpg
 ---
 
