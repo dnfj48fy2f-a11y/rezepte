@@ -9,7 +9,8 @@ zeit_gesamt: 40 min
 quelle: "Eigene Sammlung (Word: Soups/Broccolicremesuppe mit Knoblauchcroutons.doc)"
 sprache_original: de
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
+foto: fotos/broccolicremesuppe-mit-knoblauchcroutons.jpg
 ---
 
 ## Zutaten
@@ -33,6 +34,7 @@ bewertung:
 5. Suppe mit den Knoblauchbroten servieren.
 
 ## Notizen
+Foto: lecker.de (Broccolisuppe mit Croûtons).
 
 ## English
 ### Ingredients

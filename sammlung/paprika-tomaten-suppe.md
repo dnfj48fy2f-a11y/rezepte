@@ -9,7 +9,8 @@ zeit_gesamt: 35 min
 quelle: "Eigene Sammlung (Word: Soups/Red Pepper and Tomato Soup.doc)"
 sprache_original: en
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
+foto: fotos/paprika-tomaten-suppe.jpg
 ---
 
 ## Zutaten

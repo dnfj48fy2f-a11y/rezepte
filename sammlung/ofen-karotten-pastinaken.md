@@ -9,7 +9,7 @@ zeit_gesamt: 55 min
 quelle: Foto: Kochbuch/Zeitschrift (Ausschnitt)
 sprache_original: de
 hinzugefuegt: 2026-07-16
-bewertung:
+bewertung: 5
 foto: fotos/ofen-karotten-pastinaken.jpg
 ---
 
