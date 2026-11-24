@@ -1,5 +1,5 @@
 ---
-titel: Paprika-Tomaten-Suppe (Cookidoo-Version)
+titel: Paprika-Tomaten-Suppe (Cookidoo)
 title_en: Red Pepper and Tomato Soup
 kategorie: suppe
 tags: [thermomix, suppe, schnell]
@@ -28,11 +28,11 @@ foto: fotos/red-pepper-and-tomato-soup.jpg
 ## Zubereitung
 1. Linsen in den Mixtopf geben und 20 Sek./Stufe 10 mahlen. In eine Schüssel umfüllen und beiseitestellen.
 2. Knoblauch, Zwiebeln, rote Paprika und Öl in den Mixtopf geben und 2 Sek./Stufe 5 zerkleinern. Mit dem Spatel nach unten schieben, dann 5 Min./100 °C/Stufe 1 dünsten.
-3. Tomaten, Wasser, Gemüsebrühpaste, die gemahlenen Linsen, Salz, Pfeffer und nach Belieben Cayennepfeffer zugeben, 14 Min./100 °C/Stufe 2 garen und dann die Funktion Mixen/1 Min. starten.
+3. Tomaten, Wasser, Gemüsebrühpaste, die gemahlenen Linsen, Salz, Pfeffer und nach Belieben Cayennepfeffer zugeben und 14 Min./100 °C garen. TM6: Stufe 2, dann die Funktion Mixen/1 Min. starten. TM5: Stufe 2,5, dann 1 Min./Stufe 5–8 pürieren (Stufe langsam steigern).
 4. Auf Schalen verteilen und mit Pfeffer bestreut servieren.
 
 ## Notizen
-Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (ID r448440), ca. 187.4 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
+Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche übersetzt) (IDs r448440 TM6 / r513319 TM5, zusammengeführt), ca. 187.4 kcal pro Portion. Aus meinen Cookidoo-Listen: Soups. Zeit- und Stufenangaben stehen in den Schritten (Thermomix-Symbole wie Linkslauf/Rührstufe sind im Text nicht immer sichtbar — im Zweifel im Cookidoo-Original nachsehen).
 
 ## English
 ### Ingredients
@@ -54,4 +54,4 @@ Cookidoo-Rezept für den Thermomix (Originaltext englisch, ins Deutsche überset
 4. Divide between serving bowls and serve sprinkled with pepper.
 
 ### Notes
-Cookidoo recipe for the Thermomix (ID r448440), approx. 187.4 kcal per serving. From my Cookidoo lists: Soups. Times and speeds are in the steps; Thermomix symbols (reverse, etc.) may not show in plain text — check the Cookidoo original if in doubt.
+Cookidoo recipe for the Thermomix (IDs r448440 TM6 / r513319 TM5, merged), approx. 187.4 kcal per serving. From my Cookidoo lists: Soups. Times and speeds are in the steps; Thermomix symbols (reverse, etc.) may not show in plain text — check the Cookidoo original if in doubt.
